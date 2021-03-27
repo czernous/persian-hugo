@@ -1,7 +1,7 @@
 body {
   background-color: $body-color;
   overflow-x: hidden;
-  transition: .2s ease;
+  transition: 0.2s ease;
 }
 
 ::selection {
@@ -16,7 +16,6 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: $body-color;
   z-index: 9999;
   display: flex;
   align-items: center;
@@ -42,7 +41,7 @@ a,
 button,
 select {
   cursor: pointer;
-  transition: .2s ease;
+  transition: 0.2s ease;
 
   &:focus {
     outline: 0;
@@ -94,10 +93,9 @@ a:hover {
     top: 0;
     left: 0;
     background: $black;
-    opacity: .5;
+    opacity: 0.5;
   }
 }
-
 
 .border-default {
   border-color: $border-color !important;
@@ -123,7 +121,7 @@ a:hover {
   color: $primary-color !important;
 }
 
-.bg-light{
+.bg-light {
   background-color: $light !important;
 }
 
@@ -174,7 +172,7 @@ textarea.form-control {
   padding: 20px !important;
 }
 
-mark{
+mark {
   background-color: transparent;
   color: $white;
   border: 1px solid $white;

@@ -6,7 +6,9 @@
 .navbar-light .navbar-nav .nav-link {
   color: $text-color-dark;
   text-transform: capitalize;
-  font-size: 18px;
+  font-size: 1.1em;
+  font-weight: 400;
+  letter-spacing: 0.06em;
 
   &:hover {
     color: $primary-color;
@@ -18,7 +20,7 @@
     margin: 0;
 
     .nav-link {
-      padding: 15px 20px !important;
+      padding: 20px 20px !important;
     }
   }
 
@@ -32,7 +34,7 @@
 
     .dropdown-item {
       color: $text-color;
-      font-size: 14px;
+      font-size: 16px;
       padding: 7px 22px;
 
       &:hover {
@@ -42,10 +44,10 @@
   }
 }
 
-
 /* search */
 .search-btn {
   border: 0;
+  margin: 1em;
   background: transparent;
 }
 
@@ -57,7 +59,7 @@
   height: 100%;
   z-index: 2;
   visibility: hidden;
-  transition: .2s ease;
+  transition: 0.2s ease;
   opacity: 0;
 
   &.open {

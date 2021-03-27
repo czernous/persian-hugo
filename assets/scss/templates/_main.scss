@@ -30,32 +30,49 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background: linear-gradient(to bottom, rgba(56, 56, 56, .50), rgba(56, 56, 56, .30) 100%);
+      background: linear-gradient(
+        to bottom,
+        rgba(56, 56, 56, 0.75),
+        rgba(56, 56, 56, 0.55) 100%
+      );
     }
+  }
+
+  &-image {
+    max-height: 600px;
+    min-height: 300px;
+    width: 100%;
+    object-fit: cover;
   }
 
   &-date {
     color: $white;
-    min-height: 75px;
-    width: 75px;
-    border-radius: 50%;
-    border: 1px solid $white;
     margin: 0 auto 20px;
 
+    &::before {
+      content: '';
+      position: absolute;
+      bottom: -5px;
+      left: 0;
+      width: 100%;
+      height: 10%;
+      background: $white;
+    }
     @include mobile {
-      zoom: .7;
+      zoom: 0.7;
     }
 
     @include mobile-xs {
-      zoom: .5;
+      zoom: 0.5;
     }
 
     span {
-      display: block;
-      text-transform: uppercase;
+      font-family: 'Playfair Display', serif;
+      text-transform: capitalize;
+      font-size: 1em;
 
       &:first-child {
-        font-size: 180%;
+        font-size: 130%;
         margin-bottom: 5px;
       }
     }
@@ -89,13 +106,15 @@
   }
 
   &-meta {
-
     i {
       font-size: 20px;
     }
 
     a {
       text-transform: uppercase;
+      font-family: 'Playfair Display', serif;
+      letter-spacing: 0.1em;
+      font-size: 0.85em;
 
       &:hover {
         color: $primary-color;
@@ -160,7 +179,6 @@
   }
 }
 
-
 // pagination
 .pagination {
   margin-top: 30px;
@@ -207,7 +225,6 @@
 
 // content style
 .content {
-
   * {
     word-break: break-word;
     overflow-wrap: break-word;
@@ -268,7 +285,6 @@
         top: 8px;
       }
     }
-
   }
 
   table {
@@ -280,7 +296,7 @@
 
   table td,
   table th {
-    padding: .75rem;
+    padding: 0.75rem;
     vertical-align: top;
     margin-bottom: 0;
   }
@@ -322,9 +338,9 @@
     position: absolute;
     top: 2px;
     color: $white;
-    font-family: "themify";
+    font-family: 'themify';
     font-weight: 900;
-    content: "\e717";
+    content: '\e717';
     left: 10px;
   }
 
@@ -341,9 +357,8 @@
     left: 2rem;
   }
 
-
   .notices.tip p {
-    border-top: 30px solid #78C578;
+    border-top: 30px solid #78c578;
     background: $light;
   }
 
@@ -356,7 +371,7 @@
   }
 
   .notices.info p {
-    border-top: 30px solid #F0B37E;
+    border-top: 30px solid #f0b37e;
     background: $light;
   }
 
@@ -368,9 +383,8 @@
     left: 2rem;
   }
 
-
   .notices.warning p {
-    border-top: 30px solid #E06F6C;
+    border-top: 30px solid #e06f6c;
     background: $light;
   }
 
@@ -381,7 +395,6 @@
     color: #fff;
     left: 2rem;
   }
-
 
   blockquote {
     font-size: 20px !important;

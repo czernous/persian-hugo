@@ -6,7 +6,13 @@
       <div class="col-lg-8 mx-auto text-center">
         <h1 class="text-center">{{.Title | markdownify}}</h1>
         {{ with .Params.image }}
-        <img src="{{ . | absURL }}" alt="author" class="author-img">
+        <img
+          src="{{ . | absURL }}"
+          alt="author"
+          class="author-img"
+          height="100"
+          width="100"
+        />
         {{ end }}
       </div>
     </div>
