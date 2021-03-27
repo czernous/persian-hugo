@@ -14,11 +14,11 @@
 
 {{ end }} {{ "<!-- Main Script -->" | safeHTML }} {{ $script := resources.Get
 "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}" defer></script>
+<script src="{{ $script.Permalink }}"></script>
 
 {{ "<!-- google analitycs -->" | safeHTML }} {{ with
 .Site.Params.google_analitycs_id}}
-<script defer>
+<script>
   (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
     (i[r] =
