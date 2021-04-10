@@ -448,3 +448,17 @@
     color: $primary-color;
   }
 }
+
+.hero-section {
+  height: calc(100vh - 220px);
+  display: flex;
+  align-items: center;
+}
+
+.hero-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-height: 100vh;
+  z-index: -1;
+}

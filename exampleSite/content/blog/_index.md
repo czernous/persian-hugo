@@ -1,5 +1,5 @@
 ---
-title: "Contact me"
+title: "Blog"
 # meta description
 description: "this is meta description"
 # save as draft

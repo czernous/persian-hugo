@@ -1,18 +1,11 @@
 {{ define "main" }}
 
-<section class="section-sm">
-  <div class="container">
-    <div class="text-center">
-      <h1 class="text-center display-3">Results for <u><b>{{.Title}}</b></u></h1>
-    </div>
-  </div>
-</section>
-
 <section class="section pt-0">
   <div class="container-fluid">
     <div class="row">
-      {{ $paginator := .Paginate (where .Data.Pages "Section" "post") }} {{
-      range $index,$elements:= $paginator.Pages }} {{ if eq $index 0}}
+      {{ $paginator := .Paginate (where site.RegularPages "Type" "in"
+      site.Params.mainSections) }} {{ range $index,$elements:= $paginator.Pages
+      }} {{ if eq $index 0}}
       <div class="col-12 mb-4">
         <div class="post">
           <img
@@ -49,11 +42,12 @@
             src="{{ .Params.Image | absURL }}"
             class="img-fluid w-100"
             alt="{{ .Title }}"
+            height="100"
+            width="100"
           />
           <div class="post-content">
             <div class="post-date">
-              <span>{{ .PublishDate.Format "02" }}</span>
-              <span>{{ .PublishDate.Format "Jan" }}</span>
+              <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
             </div>
             <h2 class="post-title">
               <a href="{{ .Permalink }}">{{ .Title }}</a>
