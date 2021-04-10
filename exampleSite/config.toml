@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.ruth-chernous.netlify.app"
-title = "Ruth Chernous"
+title = "Ruth Chernous' Wellness Blog"
 theme = "persian"
 languageName = "En"
 languageCode = "en-us"
@@ -63,7 +63,7 @@ weight = 4
 logo = "images/logo.svg"
 # Meta data
 description = "Get fit and healthy to improve your overall life and attract success. Learn how to accept yourself and solve problems one at a time."
-author = "Ruth Chernous' Wellness Blog"
+author = "Ruth Chernous"
 # search  
 search = true
 # copyright
