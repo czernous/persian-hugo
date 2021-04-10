@@ -1,30 +1,44 @@
-######################## default configuration ####################
-baseURL = "https://www.ruth-chernous.netlify.app"
-title = "Ruth Chernous' Wellness Blog"
-theme = "persian"
-languageName = "En"
+baseURL = "https://silly-noether-1833a5.netlify.app"
+disqusShortname = ""
 languageCode = "en-us"
-# post pagination
+languageName = "En"
 paginate = "5"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-
-############################# output ##############################
-[outputs]
-home = [ "HTML", "RSS", "json"]
-
-# render unsafe html
+theme = "persian"
+title = "Ruth Chernous' Wellness Blog"
 [markup.goldmark.renderer]
 unsafe = true
-
-############################# Plugins ##############################
-# CSS Plugins
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Blog"
+url = "blog"
+weight = 2
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 3
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 4
+[outputs]
+home = ["HTML", "RSS", "json"]
+[params]
+author = "Ruth Chernous"
+contact_form_action = "https://formspree.io/f/mjvjvjlr"
+copyright = ""
+description = "Get fit and healthy to improve your overall life and attract success. Learn how to accept yourself and solve problems one at a time."
+logo = "images/logo.svg"
+search = true
+[params.cookies]
+enable = true
+expire_days = 2
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -35,48 +49,6 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-
-
-################################ menu ##################################
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 2
-
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 3
-
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 4
-
-#################### default parameters ################################
-[params]
-logo = "images/logo.svg"
-# Meta data
-description = "Get fit and healthy to improve your overall life and attract success. Learn how to accept yourself and solve problems one at a time."
-author = "Ruth Chernous"
-# search  
-search = true
-# copyright
-copyright = ""
-# contact form action
-contact_form_action = "https://formspree.io/f/mjvjvjlr" # contact form works with https://formspree.io
-
-# Preloader
 [params.preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
-
-# cookies
-[params.cookies]
-enable = true
-expire_days = 2
+preloader = ""
