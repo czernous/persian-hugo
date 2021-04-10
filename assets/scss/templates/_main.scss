@@ -450,15 +450,26 @@
 }
 
 .hero-section {
-  height: calc(100vh - 220px);
+  width: 100vw;
+  height: 70%;
+  z-index: -1;
   display: flex;
   align-items: center;
+  position: relative;
+  .container {
+    align-self: center;
+    margin-top: 20%;
+  }
+
 }
 
 .hero-bg {
+  overflow: hidden;
   position: absolute;
   top: 0;
   left: 0;
-  max-height: 100vh;
+  height: 100vh;
+  width: 100vw;
   z-index: -1;
+  background: url('https://res.cloudinary.com/ruthchernous/image/upload/v1618069871/AnimatedShape_bmzeol.svg');
 }
