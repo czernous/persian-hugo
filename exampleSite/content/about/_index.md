@@ -1,38 +1,24 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
-image: "images/author.jpg"
-description: "This is meta description."
-draft: false
+title: Hello, my name is Ruth and I am a hair and beauty blogger and writer.
+image: images/author.jpg
+description: This is meta description.
+
 ---
+After numerous hair disasters, I decided to dedicate time to write articles to help others with their hair and beauty issues.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
+You might be sick of getting your hair ruined by stylists or maybe you want to save your hard-earned cash for other expenses.
 
-<br>
-<br>
-
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
+Therefore my blog will contain DIY content so that you can carry out simple hair and beauty procedures at home. It will also be a platform to discuss my favourite products.
 
 <br>
 <br>
 
-## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
+###### **DISCLAIMER**
 
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
+I am not a qualified hairdresser or beautician. My content is based on research and procedures I have practised at home. So, please also do additional research before you try these methods.
 
-<br>
-<br>
+###### **WORK WITH ME**
 
-## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
+If you are interested in content for your business, I’m your girl. I am a qualified copywriter specialising in writing blog and social media copy within the hair and beauty niche.
 
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+Previously, I have worked in telesales selling beauty products for the company my perfect eyes, and I have just enrolled in a course in Level 2 Beauty Therapy. I also hold qualifications in braiding hair, microrings, and fusion extensions.
