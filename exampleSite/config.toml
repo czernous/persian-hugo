@@ -2,7 +2,7 @@ baseURL = "https://silly-noether-1833a5.netlify.app"
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
-disqusShortname = "https://ruthchernous.disqus.com/"
+disqusShortname = "ruthchernous"
 theme = "persian"
 title = "Ruth Chernous' Wellness Blog"
 [markup.goldmark.renderer]
