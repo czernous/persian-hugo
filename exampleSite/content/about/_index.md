@@ -10,14 +10,11 @@ You might be sick of getting your hair ruined by stylists or maybe you want to s
 
 Therefore my blog will contain DIY content so that you can carry out simple hair and beauty procedures at home. It will also be a platform to discuss my favourite products.
 
-<br>
-<br>
-
-###### **DISCLAIMER**
+**DISCLAIMER**
 
 I am not a qualified hairdresser or beautician. My content is based on research and procedures I have practised at home. So, please also do additional research before you try these methods.
 
-###### **WORK WITH ME**
+**WORK WITH ME**
 
 If you are interested in content for your business, I’m your girl. I am a qualified copywriter specialising in writing blog and social media copy within the hair and beauty niche.
 
