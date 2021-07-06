@@ -1,5 +1,4 @@
 baseURL = "https://silly-noether-1833a5.netlify.app"
-disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
