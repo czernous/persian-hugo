@@ -459,6 +459,12 @@
   .container {
     align-self: center;
     margin-top: 20%;
+    border: 2px solid #fff;
+    background: #695f4f81;
+    .display-3,
+    .lead {
+      color: #fff
+    }
   }
 
 }
@@ -471,5 +477,5 @@
   height: 100vh;
   width: 100vw;
   z-index: -1;
-  background: url('https://res.cloudinary.com/ruthchernous/image/upload/v1618069871/AnimatedShape_bmzeol.svg');
+  object-fit: cover;
 }
