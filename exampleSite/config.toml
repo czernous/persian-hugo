@@ -3,6 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
+disqusShortname = "https://ruthchernous.disqus.com/"
 theme = "persian"
 title = "Ruth Chernous' Wellness Blog"
 [markup.goldmark.renderer]
