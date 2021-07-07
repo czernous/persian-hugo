@@ -2,19 +2,15 @@
 
 <section class="section-sm pb-0 bg-light">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto text-center">
-        <h1 class="text-center">{{.Title | markdownify}}</h1>
-        {{ with .Params.image }}
-        <img
-          src="{{ . | absURL }}"
-          alt="author"
-          class="author-img"
-          height="100"
-          width="100"
-        />
-        {{ end }}
-      </div>
+    <div class="about-header col-lg-8 mx-auto text-center">
+      <h6 class="about-header__heading text-justify" style="font-family: 'Open Sans', sans-serif;">{{.Title | markdownify}}</h6>
+      {{ with .Params.image }}
+      <img
+        src="{{ . | absURL }}"
+        alt="author"
+        class="author-img"
+      />
+      {{ end }}
     </div>
   </div>
 </section>
