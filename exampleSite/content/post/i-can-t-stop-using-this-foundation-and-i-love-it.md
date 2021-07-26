@@ -33,13 +33,12 @@ After months of using this product I thought I would write an honest review in t
 
 [_Similar products_](#similar-products)
 
-_Specifications_
+[_Specifications_](#specifications)
 
-_Ingredients list_
+[_Ingredients list_](#ingredients-list)
 
-_Conclusion_
+[_Conclusion_](#conclusion)
 
-  
 As you guys probably know there are 3 skin types: oily, combination and dry. My skin is oily so, I wanted a foundation with good oil control. I am terrible at matching foundations so luckily Mac has 2 colour systems.
 
 The NW which is neutral warm and is for neutralizing cool and pink undertones and NC which stands for neutral cool for neutralizing warm, yellow undertones.
