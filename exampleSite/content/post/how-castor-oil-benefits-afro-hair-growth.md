@@ -23,7 +23,7 @@ It is then boiled producing a dark brown colour. Castor oil has many uses such a
 **Table of contents**
 
 1. _<a href='#Benefits'>Benefits</a>_
-2. [_Choosing the right oil_](#Choosing-the-right-oil)
+2. _<a href='#Choosing-the-right-oil'>Choosing the right oil</a>_
 3. _Disavantages of castor oil for hair_
 4. _Usage_
 5. _Precautions and concerns_
@@ -38,7 +38,7 @@ Most oils only contain a fraction of this fatty acid whereas castor oil contains
 
 ![](https://lh6.googleusercontent.com/uXLbYvB0bUJ22ylzMi8WqFadqMrycAEGbskZxRSy-vI9t3uC0XJm7_w1nKr8u_cr25nfmt-4E7oOWwdkA6k_g-nfuwpOOZVtckgG1EHtXUHxEbLbYr0XV6cdOz4smgrz6T1RpC81 =240x360)
 
-**Choosing the right oil**
+<h5 id='**Choosing-the-right-oil>Choosing the right oil</h5>**
 
 When it comes to the best castor for hair growth. The jamaican castor oil is better for those with thick, coarse hair.
 
