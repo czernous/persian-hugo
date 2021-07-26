@@ -38,7 +38,7 @@ Most oils only contain a fraction of this fatty acid whereas castor oil contains
 
 ![](https://lh6.googleusercontent.com/uXLbYvB0bUJ22ylzMi8WqFadqMrycAEGbskZxRSy-vI9t3uC0XJm7_w1nKr8u_cr25nfmt-4E7oOWwdkA6k_g-nfuwpOOZVtckgG1EHtXUHxEbLbYr0XV6cdOz4smgrz6T1RpC81 =240x360)
 
-<h5 id='**Choosing-the-right-oil>Choosing the right oil</h5>**
+<h5 id='**Choosing-the-right-oil'>Choosing the right oil</h5>**
 
 When it comes to the best castor for hair growth. The jamaican castor oil is better for those with thick, coarse hair.
 
