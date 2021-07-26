@@ -66,7 +66,7 @@ _Conditioning your hair_
 
 We all know conditioning strengthens hair and stops damage. Apply the oil straight onto your hair. Put on a plastic cap and sit under a heat cap for 30 minutes. Then rinse. Alternatively leave it overnight and rinse it out in the morning.
 
-##### _Styling your hair_
+_Styling your hair_
 
 Creating your own pomade will not only allow you to style your hair but will provide you with other benefits. To begin:
 
