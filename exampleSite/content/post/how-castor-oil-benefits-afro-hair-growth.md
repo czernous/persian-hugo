@@ -61,7 +61,7 @@ _Moisturizing your hair_
 
 Apply the oil to your scalp. Massage the oil with your fingers or use a scalp massager. You can get these on Amazon for a decent price. Massaging your scalp will enable faster hair growth by stimulating your hair follicles.
 
-##### _Conditioning your hair_
+_Conditioning your hair_
 
 We all know conditioning strengthens hair and stops damage. Apply the oil straight onto your hair. Put on a plastic cap and sit under a heat cap for 30 minutes. Then rinse. Alternatively leave it overnight and rinse it out in the morning.
 
