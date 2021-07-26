@@ -24,7 +24,7 @@ It is then boiled producing a dark brown colour. Castor oil has many uses such a
 
 1. _<a href='#Benefits'>Benefits</a>_
 2. _<a href='#Choosing-the-right-oil'>Choosing the right oil</a>_
-3. _Disavantages of castor oil for hair_
+3. [_Disavantages of castor oil for hair_](#disadvantages-of-castor-oil-for-hair)
 4. _Usage_
 5. _Precautions and concerns_
 
@@ -46,7 +46,7 @@ It has a potent smell which can be overwhelming for those who aren’t used to s
 
 Combining rosemary oil with castor oil also benefits your hair by aiding hair growth. It can also be used for growing your eyebrows.
 
-**Disadvantages of castor oil for hair**
+##### **Disadvantages of castor oil for hair**
 
 Although castor oil rarely irritates the skin. You can’t predict how it will react to yours. So it is advisable to test it on a small area of skin before application. To avoid staining your sheets, cover your hair or your pillow before going to sleep.
 
