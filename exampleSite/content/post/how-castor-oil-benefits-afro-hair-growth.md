@@ -28,7 +28,7 @@ It is then boiled producing a dark brown colour. Castor oil has many uses such a
 4. _Usage_
 5. _Precautions and concerns_
 
-##### **Benefits**
+<h5 id='Benefits'>Benefits</h5>
 
 Well, most oils are made of different combinations of fatty acids. Castor oil is different because it contains a fatty acid called Ricinoleic.
 
