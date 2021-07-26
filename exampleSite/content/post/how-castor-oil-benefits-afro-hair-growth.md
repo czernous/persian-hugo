@@ -22,7 +22,7 @@ It is then boiled producing a dark brown colour. Castor oil has many uses such a
 
 **Table of contents**
 
-1. [_Benefits_](#Benefits)
+1. _\[link\](#Benefits)_
 2. [_Choosing the right oil_](#Choosing-the-right-oil)
 3. _Disavantages of castor oil for hair_
 4. _Usage_
