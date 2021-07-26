@@ -22,13 +22,13 @@ It is then boiled producing a dark brown colour. Castor oil has many uses such a
 
 **Table of contents**
 
-1. _<a href='#Benefits'>Benefits</a>_
-2. _<a href='#Choosing-the-right-oil'>Choosing the right oil</a>_
-3. [_Disavantages of castor oil for hair_](#disadvantages-of-castor-oil-for-hair)
+1. [_Benefits_](#benefits)
+2. [_Choosing the right oil_](#choosing-the-right-oil)
+3. [_Disavantages of castor oil for hair_](#disadvantages-of-castor-oil-for-hair "Disavantages of castor oil")
 4. _Usage_
 5. _Precautions and concerns_
 
-<h5 id='Benefits'>Benefits</h5>
+##### Benefits
 
 Well, most oils are made of different combinations of fatty acids. Castor oil is different because it contains a fatty acid called Ricinoleic.
 
