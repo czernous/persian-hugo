@@ -3,7 +3,6 @@ author = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = ""
 tags = []
 title = "DIY Manicure in 7 easy steps"
