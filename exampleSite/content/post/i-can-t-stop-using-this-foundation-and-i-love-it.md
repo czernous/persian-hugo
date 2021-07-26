@@ -91,4 +91,4 @@ WATER / AQUA / EAU, CYCLOPENTASILOXANE, PEG-10 DIMETHICONE, BUTYLENE GLYCOL, TRI
 
 **Conclusion**
 
-If you are looking for a foundation that doesn’t feel heavy, has good coverage, blends well with a nice even finish and is long lasting and good value for money. Then this one is right for you.
+**If you are looking for a foundation that doesn’t feel heavy, has good coverage, blends well with a nice even finish and is long lasting and good value for money. Then this one is right for you.**
