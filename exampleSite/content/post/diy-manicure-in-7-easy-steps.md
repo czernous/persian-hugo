@@ -21,13 +21,13 @@ In this article you will find a simple manicure you can do at home.
 
 **Table of contents**
 
-1. _Removing your nail polish_
-2. _Clipping, Filing and Buffering_
-3. _Soaking your nails_
-4. _Pushing back your cuticles_
-5. _Moisturizing your hands_
-6. _Applying your base coat, polish and top coat_
-7. _Cleaning up mistakes_
+1. [_Removing your nail polish_](#removing-your-nail-polish)
+2. [_Clipping, Filing and Buffering_](#clipping-filing-buffering)
+3. [_Soaking your nails_](#soaking-your-nails)
+4. [_Pushing back your cuticles_](#pushing-back-your-cuticles)
+5. [_Moisturizing your hands_](#moisturizing-your-hands)
+6. [_Applying your base coat, polish and top coat_](#applying-your-base-coat-polish-and-top-coat)
+7. [_Cleaning up mistakes_](#cleaning-up-mistakes)
 
 **Materials**
 
@@ -55,27 +55,27 @@ Small glass container
 
 Cuticle remover (optional)
 
-**Step 1- Remove your nail polish**
+##### **Step 1- Remove your nail polish**
 
 To begin, clean your nails with nail polish remover and a cotton pad. There are 2 types of nail polish acetone and non acetone. I always use an acetone based one as the non acetone is for use on false nails. Wash your hands afterwards. If you don’t have any previous nail polish do this step anyway as it removes dirt and debris from the nail and will give you a better finish.
 
-**Step 2 - Clip, File and Buff your nails**
+##### **Step 2 - Clip, File and Buff your nails**
 
 Using a nail clipper, clip your nail to the desired length and file them to a shape of your choice. The 6 main shapes are square, coffin, oval, squoval, almond, coffin, and stiletto. I opted for a square one as this is my natural shape and I wanted to enhance it.
 
-**Step 3 - Soak your nails**
+##### **Step 3 - Soak your nails**
 
 Fill a small bowl with lukewarm water and a few drops of essential oils. Soak for 3 minutes on each hand**.** This softens the cuticle and gets them ready to be pushed back.
 
-**Step 4 - Push back cuticles**
+##### **Step 4 - Push back cuticles**
 
 You can also apply cuticle remover to the cuticle. Push back cuticles with a cuticle stick or a cuticle pusher. Do this gently to avoid damage on the cuticle. Some people like to cut the excess skin but I recommend skipping this as it can put your cuticles at risk of a nail infection. Gently nip the free edge with cuticle nippers and remove hangnails.
 
-**Step 5- Moisturize hands**
+##### **Step 5- Moisturize hands**
 
 Moisturize your hands in circular movements and whilst doing so give yourself a massage with your thumb. I use a Nivea moisturiser. Wipe your nails with nail polish removal to prevent chipping.
 
-**Step 6 - Application**
+##### **Step 6 - Application**
 
 Apply a base coat. This gives your manicure a solid foundation and prevents nail discolouration.
 
@@ -83,7 +83,7 @@ To apply the base coat, paint down the middle of the nail, then the left side an
 
 Now start on your polish. Apply 2 coats. Make sure you apply in thin layers to avoid lifting. Then apply your clear top coat. For more shine, apply a shine enhancer to the top coat.
 
-**Step 7 - Cleanup**
+##### **Step 7 - Cleanup**
 
 I like to clean up any mistakes by pouring acetone in a small glass container. Then I dip a makeup or paintbrush in the acetone and wipe around the nail. Let your nails dry for 5 minutes. Follow up with applying cuticle oil to your cuticles. Cuticle oil moisturises your nails and prevents them from damage.
 
