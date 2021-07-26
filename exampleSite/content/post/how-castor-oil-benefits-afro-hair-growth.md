@@ -8,8 +8,6 @@ tags = []
 title = "How castor oil benefits afro hair growth"
 
 +++
-_![](https://lh6.googleusercontent.com/hTxiJZ8-ZY1NIZdYlLqbntMEi1K18ZnMmC9-s4KLQvuGAjuumMInTU3GR6o9rRJgr_jXp6iV4SEUct9qkiHQkdk983Sv6yJCEFTLLVf9pAL9YbKnkm5xY587zhHVZYhtTFwvhEPD =240x360)_
-
 As black women our hair is susceptible to breakage. Our curly strands make it difficult for natural oils to travel down the hair shaft making it easy for strands to snap off.
 
 Causing breakage and giving us the label “ black hair doesn’t grow”. However there are certain things we can do to prevent this like adding castor oil to your hair regime.
@@ -26,7 +24,6 @@ It is then boiled producing a dark brown colour. Castor oil has many uses such a
 2. [_Choosing the right oil_](#choosing-the-right-oil)
 3. [_Disavantages of castor oil for hair_](#disadvantages-of-castor-oil-for-hair "Disavantages of castor oil")
 4. [_Usage_](#usage)
-5. [_Precautions and concerns_](#precautions-and-concerns)
 
 ##### Benefits
 
@@ -35,8 +32,6 @@ Well, most oils are made of different combinations of fatty acids. Castor oil is
 This fatty acid has elements that are anti-inflammatory and antifungal. It also increases circulation by attracting moisture from the environment to your hair and skin.
 
 Most oils only contain a fraction of this fatty acid whereas castor oil contains 85%-95% of it. It is absorbent and rarely irritates the skin. However some people might face allergies. So it is advisable to test the oil on a small area of skin before application.
-
-![](https://lh6.googleusercontent.com/uXLbYvB0bUJ22ylzMi8WqFadqMrycAEGbskZxRSy-vI9t3uC0XJm7_w1nKr8u_cr25nfmt-4E7oOWwdkA6k_g-nfuwpOOZVtckgG1EHtXUHxEbLbYr0XV6cdOz4smgrz6T1RpC81 =240x360)
 
 ##### Choosing the right oil
 
