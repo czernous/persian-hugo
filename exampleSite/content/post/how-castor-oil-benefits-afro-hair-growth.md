@@ -25,7 +25,7 @@ It is then boiled producing a dark brown colour. Castor oil has many uses such a
 1. [_Benefits_](#benefits)
 2. [_Choosing the right oil_](#choosing-the-right-oil)
 3. [_Disavantages of castor oil for hair_](#disadvantages-of-castor-oil-for-hair "Disavantages of castor oil")
-4. _Usage_
+4. [_Usage_](#usage)
 5. _Precautions and concerns_
 
 ##### Benefits
@@ -38,7 +38,7 @@ Most oils only contain a fraction of this fatty acid whereas castor oil contains
 
 ![](https://lh6.googleusercontent.com/uXLbYvB0bUJ22ylzMi8WqFadqMrycAEGbskZxRSy-vI9t3uC0XJm7_w1nKr8u_cr25nfmt-4E7oOWwdkA6k_g-nfuwpOOZVtckgG1EHtXUHxEbLbYr0XV6cdOz4smgrz6T1RpC81 =240x360)
 
-<h5 id='Choosing-the-right-oil'>Choosing the right oil</h5>
+##### Choosing the right oil
 
 When it comes to the best castor for hair growth. The jamaican castor oil is better for those with thick, coarse hair.
 
@@ -52,7 +52,7 @@ Although castor oil rarely irritates the skin. You can’t predict how it will r
 
 You might be thinking, can you put castor oil in your hair everyday? Yes, you can, as a hair moisturizer. But because of the thickness of the oil, build up can occur. So wash your hair once a month with a clarifying shampoo or use an apple cider vinegar rinse.
 
-**Usage**
+##### **Usage**
 
 _Washing your Hair_
 
@@ -66,11 +66,11 @@ _Moisturizing your hair_
 
 Apply the oil to your scalp. Massage the oil with your fingers or use a scalp massager. You can get these on Amazon for a decent price. Massaging your scalp will enable faster hair growth by stimulating your hair follicles.
 
-_Conditioning your hair_
+##### _Conditioning your hair_
 
 We all know conditioning strengthens hair and stops damage. Apply the oil straight onto your hair. Put on a plastic cap and sit under a heat cap for 30 minutes. Then rinse. Alternatively leave it overnight and rinse it out in the morning.
 
-_Styling your hair_
+##### _Styling your hair_
 
 Creating your own pomade will not only allow you to style your hair but will provide you with other benefits. To begin:
 
