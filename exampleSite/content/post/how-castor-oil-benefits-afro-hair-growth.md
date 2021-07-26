@@ -3,6 +3,7 @@ author = ""
 categories = []
 date = ""
 description = ""
+draft = true
 image = ""
 tags = []
 title = "How castor oil benefits afro hair growth"
