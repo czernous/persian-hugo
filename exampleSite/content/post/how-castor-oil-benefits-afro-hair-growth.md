@@ -80,4 +80,4 @@ Creating your own pomade will not only allow you to style your hair but will pro
 
 **Final Thoughts**
 
-So does Jamaican castor oil really grow your hair? Well, no one can really answer that question. Hair comes in different textures and lengths so no one can predict how the oil will react to yours. But facts do state that it increases hair thickness, density, and strength which naturally will allow you to retain length.
+**So does Jamaican castor oil really grow your hair? Well, no one can really answer that question. Hair comes in different textures and lengths so no one can predict how the oil will react to yours. But facts do state that it increases hair thickness, density, and strength which naturally will allow you to retain length.**
