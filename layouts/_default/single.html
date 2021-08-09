@@ -3,13 +3,22 @@
 <section>
   <div class="container-fluid">
     <div class="post">
-      <img
-        src="{{ .Params.Image | absURL }}"
-        class="post-image img-fluid w-100"
-        alt="{{ .Title }}"
-        height="100"
-        width="100"
+      {{ if (not (.Params.Image)) | or (eq .Params.Image "") }}
+      <img src='{{ "/images/placeholder.jpg" | absURL}}'
+      class="post-image img-fluid w-100"
+      alt="{{ .Title }}"
+      height="100"
+      width="100"
       />
+      {{ else }}
+      <img
+      src="{{ .Params.Image | absURL }}"
+      class="post-image img-fluid w-100"
+      alt="{{ .Title }}"
+      height="100"
+      width="100"
+      />
+      {{ end }}
       <div class="post-content">
         <div class="post-date">
           <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
