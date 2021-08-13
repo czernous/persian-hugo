@@ -10,7 +10,7 @@ My digital marketing blog is created for beginners who are confused by this thin
 
 Maybe are you are obsessed with making handmade jewellery and would like to market them online. In this case my blog is perfect for you.
 
-Dive into the topic of marketing without any long, complicated and boring explanations. I will share everything I have learnt so far through self study (reading and online courses).
+Dive into the topic of marketing without any complicated and boring explanations. I will share everything I have learnt so far through self study (reading and online courses).
 
 My content is written in a series of different topics from Copywriting to Social Media Marketing. 
 
@@ -30,6 +30,6 @@ Hi, my name is Ruth and I am a copywriter. My interest in digital marketing bega
 
 This led me on a journey to learn more about this industry. So far I completed a Level 4 Diploma in Copywriting, a certificate in the fundamentals of digital marketing. And I am in the midst of completing a Level 4 Diploma in Social Media Marketing. My future plans are to study a course in SEO. 
 
-I also wrote blog posts for a marketing agency. You can see my content here
+I have also written blog posts for a marketing agency. You can see my content here
 
 All these courses have since inspired to use my knowledge to help small businesses gain success.
