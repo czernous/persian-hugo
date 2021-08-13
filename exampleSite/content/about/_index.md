@@ -18,7 +18,7 @@ Making it is easy for beginners like you to digest and implement. So you can get
 
 **Work with me**
 
-Interested in working with me. Here is how? I can write you engaging blog posts specifically targeted to your audience that builds a relationship with your clients.
+Interested in working with me. Here is how? I can write you engaging blog or social media posts specifically targeted to your audience that builds a relationship with your clients.
 
 How? By providing them with educational content about your business. They can't resist.
 
