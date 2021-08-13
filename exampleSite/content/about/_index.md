@@ -28,8 +28,8 @@ Persuading them click and sign up to your email list.
 
 Hi, my name is Ruth and I am a copywriter. My interest in digital marketing began after the failure of my drop shipping business selling printed sportswear. It was later I came to the conclusion that it was due to my poor marketing skills.
 
-This led me on a journey to learn more about this industry. So far I completed a Level 4 Diploma in Copywriting, a certificate in the fundamentals of digital marketing. And I am in the midst of completing a Level 4 Diploma in Social Media Marketing. My future plans are to study a course in SEO. 
+This led me on a journey to learn more about this industry. So far I completed a Level 4 Diploma in Copywriting, a certificate in the fundamentals of digital marketing. And I am in the midst of completing a Level 4 Diploma in Social Media Marketing. 
 
 I have also written blog posts for a marketing agency. You can see my content here
 
-All these courses have since inspired to use my knowledge to help small businesses gain success.
+All these courses have since inspired to use my knowledge to help small businesses gain success online.
