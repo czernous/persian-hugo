@@ -30,6 +30,6 @@ Hi, my name is Ruth and I am a copywriter. My interest in digital marketing bega
 
 This led me on a journey to learn more about this industry. So far I completed a Level 4 Diploma in Copywriting, a certificate in the fundamentals of digital marketing. And I am in the midst of completing a Level 4 Diploma in Social Media Marketing. 
 
-I have also written blog posts for a marketing agency. You can see my content here
+I have also written blog posts for a marketing agency. You can see my content here.
 
 All these courses have since inspired to use my knowledge to help small businesses gain success online.
