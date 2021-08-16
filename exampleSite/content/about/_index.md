@@ -6,7 +6,7 @@ description: This is meta description.
 ---
 **"I have no special talents. I am only passionately curious." _-Albert Einstein_**
 
-Hi, My name is Ruth. I am a lifestyle blogger. Just here, sharing my curiosities with you. I write about health, beauty, design, food, digital marketing.
+Hi, My name is Ruth. I am a lifestyle blogger. Just here, sharing my curiosities with you. I write about health, beauty, design, digital marketing.
 
 **Work with me**
 
