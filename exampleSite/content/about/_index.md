@@ -12,6 +12,6 @@ Hi, My name is Ruth. I am a lifestyle blogger. Just here, sharing my curiosities
 
 Interested in working with me. Here's how? I can write you well researched and engaging blog posts specifically targeted to your audience that they can't resist.
 
-Need help persuading them sign up to your email list?
+Need help persuading them to sign up to your email list?
 
 Yes!
