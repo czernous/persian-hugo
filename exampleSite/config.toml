@@ -5,6 +5,7 @@ paginate = "6"
 disqusShortname = "ruthchernous"
 theme = "persian"
 title = "Ruth Chernous"
+googleAnalytics = 'G-TL6MYB6JXJ'
 [markup.goldmark.renderer]
 unsafe = true
 # [[menu.main]]
