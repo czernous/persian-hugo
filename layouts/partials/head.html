@@ -10,7 +10,7 @@ AUTHOR WEBSITE: https://themefisher.com
 
 <head>
   <meta charset="utf-8">
-  <title>{{ if .IsHome }}Blog - {{ else }}{{ .Title }} - {{ end }}{{ end }}{{ .Site.Title }}</title>
+  <title>{{ if .IsHome }}Blog - {{ else }}{{ .LinkTitle }} - {{ end }}{{ end }}{{ .Site.Title }}</title>
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
