@@ -1,28 +1,29 @@
-baseURL = "https://ruth-chernous.netlify.app"
+baseURL = "https://ruthchernous.com"
 languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 disqusShortname = "ruthchernous"
 theme = "persian"
-title = "Ruth Chernous' Wellness Blog"
+title = "Ruth Chernous"
 [markup.goldmark.renderer]
 unsafe = true
+# [[menu.main]]
+# name = "Home"
+# url = "/"
+# weight = 1
+
 [[menu.main]]
-name = "Home"
+name = "Blog"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 2
-[[menu.main]]
 name = "About"
 url = "about"
-weight = 3
+weight = 2
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 4
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "json"]
 [params]

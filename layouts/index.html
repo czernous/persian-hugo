@@ -1,12 +1,8 @@
-{{ define "main" }}
-
-<img class="Sirv hero-bg" src="https://phounton.sirv.com/Images/ruthbeauty-blog/bolg-assets/hero-bg-2.jpg?format=webp&webp.fallback=jpg" alt="" />
+<!-- <img class="Sirv hero-bg" src="https://phounton.sirv.com/Images/ruthbeauty-blog/bolg-assets/hero-bg-2.jpg?format=webp&webp.fallback=jpg" alt="" />
   <div class="hero-section jumbotron jumbotron-fluid">
     <div class="container text-center hero-text">
       <h1 class="display-3">A journey to Now</h1>
       <p class="lead">Focus on what matters here and now. Get fit, get healthy, figure it out one step at a time.</p>
     </div>
-  </div>
-
-
-{{ end }}
+  </div> -->
+  {{ with .GetPage "/blog" }}{{.Render "list" }}{{end}}
