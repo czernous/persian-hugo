@@ -8,7 +8,9 @@ description: 'CLICK NOW to find out how to use Jamaican black castor oil to grow
 categories:
 - Beauty
 tags:
-- afro hair growth
+- Jamaican castor oil
+- black castor oil
+- Jamaican black castor oil
 
 ---
 As black women our **curly hair** strands make it difficult for natural oils to travel down the hair shaft making it susceptible to breakage.
