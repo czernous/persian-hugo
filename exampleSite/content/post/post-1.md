@@ -1,7 +1,7 @@
 ---
 title: How to make tomato juice at home
 date: 2020-08-18T12:00:34.000+00:00
-image: https://res.cloudinary.com/ruthchernous/image/upload/v1629287352/Tomato_juice_qcbodf.jpg
+image: "/v1629287352/Tomato_juice_qcbodf.jpg"
 author: Ruth Chernous
 description: Learn how to make tomato juice at home
 categories: []
