@@ -10,6 +10,7 @@ AUTHOR WEBSITE: https://themefisher.com
 
 <head>
   <meta charset="utf-8">
+  {{ $current := print "/" (index (split .URL "/") 1) "/" }}
   {{ $menu := .Site.Menus.main }}
   <title>{{ if .IsHome }}Blog - {{ else }}{{ $current }} - {{ end }}{{ .Site.Title }}</title>
 
