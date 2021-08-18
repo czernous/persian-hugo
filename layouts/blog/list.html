@@ -17,7 +17,7 @@
           />
           {{ else }}
           <img
-          src="{{ .Params.Image | absURL }}"
+          src="{{ .Site.cloudinary_base_url }}/{{ .Params.Image }}"
           class="img-fluid w-100 post__image"
           alt="{{ .Title }}"
           height="100"
