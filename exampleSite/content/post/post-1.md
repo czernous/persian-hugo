@@ -9,6 +9,7 @@ tags:
 - Vegetable juice
 - Tomatoes
 - Tomato juice
+draft: true
 
 ---
 For some reason the idea of consuming vegetable juice made my stomach churn. But after trying tomato juice a few weeks ago. It has now made its way onto my shopping list.
