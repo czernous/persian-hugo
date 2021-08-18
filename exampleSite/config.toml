@@ -3,6 +3,7 @@ languageCode = "en-us"
 languageName = "En"
 paginate = "6"
 disqusShortname = "ruthchernous"
+cloudinary_base_url ="https://res.cloudinary.com/ruthchernous"
 theme = "persian"
 title = "Ruth Chernous"
 googleAnalytics = 'G-TL6MYB6JXJ'
