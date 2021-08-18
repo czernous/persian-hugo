@@ -1,8 +1,7 @@
 ---
 title: How to use Jamaican black castor oil for hair growth
 date: 2021-08-18T10:00:00.000+00:00
-image: "https://res.cloudinary.com/ruthchernous/image/upload/
-v1629205212/jessica-felicio-BzSfM6n_LIE-unsplash_kznabd.jpg"
+image: "https://res.cloudinary.com/ruthchernous/image/upload/v1629205212/jessica-felicio-BzSfM6n_LIE-unsplash_kznabd.jpg"
 author: Ruth Chernous
 description: 'CLICK NOW to find out how to use Jamaican black castor oil to grow your
   curly afro hair? '
