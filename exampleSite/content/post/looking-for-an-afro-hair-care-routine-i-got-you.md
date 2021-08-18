@@ -1,6 +1,7 @@
 +++
 author = ""
 categories = []
+cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = ""
 description = ""
 draft = true
