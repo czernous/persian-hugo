@@ -6,7 +6,7 @@ disqusShortname = "ruthchernous"
 theme = "persian"
 title = "Ruth Chernous"
 google_analitycs_id = 'G-TL6MYB6JXJ'
-cloudinary_base_url ="https://res.cloudinary.com/ruthchernous"
+cloudinaryUrl ="https://res.cloudinary.com/ruthchernous"
 [markup.goldmark.renderer]
 unsafe = true
 # [[menu.main]]
