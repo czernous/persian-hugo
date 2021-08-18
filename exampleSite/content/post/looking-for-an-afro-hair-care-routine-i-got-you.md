@@ -4,7 +4,6 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = ""
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Looking for an afro hair care routine? I got you"
