@@ -17,7 +17,7 @@ And has also inspired me to write an article about how to make homemade tomato j
 
 Why? Because the flavour of homemade always wins over let’s say Tesco tomato juice. And it is a damn sight cheaper. So what’s so special about this fruit or vegetable and.....
 
-**Is tomato juice good for you?**
+### **Is tomato juice good for you?**
 
 _Antioxidant_
 
@@ -47,7 +47,7 @@ Tomato juice contains high levels of vitamin K which can help with blood clottin
 
 Now that you have a few benefits under your belt. Let’s make tomato juice.
 
-**How to make tomato juice**
+### **How to make tomato juice**
 
 _Ingredients:_
 
@@ -75,7 +75,7 @@ _Method:_
 
 Find the original recipe [here](https://www.simplyrecipes.com/recipes/homemade_tomato_juice/).
 
-**What can I add to tomatoes to make it better?**
+### **What can I add to tomatoes to make it better?**
 
 Apple tomato juice recipe
 
@@ -111,7 +111,7 @@ _Ingredients:_
 
 Recipes can be found in Easy Tomato Juice Recipes e book on Amazon
 
-**How to preserve tomato juice?**
+### **How to preserve tomato juice?**
 
 _Canning_
 
@@ -128,6 +128,8 @@ _Freezing_
 
 If you don’t want to can your tomatoes you can freeze them. Once the juice has cooled, put the mixture into freezer bags and leave 1 inch at the top to give it room to expand. Label, freeze and store for a year.
 
-**Now that you’re aware of how tomato juice benefits you. I hope you will try your hand at making some of this flavoursome juice at home.**
+### **The Takeaway**
+
+Drinking tomato juice is an easy way of adding extra nutrients to your diet. And now that you’re aware of how tomato juice benefits you. I hope you will try your hand at making some of this flavoursome juice at home.
 
 ***
