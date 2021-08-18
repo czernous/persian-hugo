@@ -25,6 +25,12 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: cloudinaryurl
+  type: text
+  config:
+    required: false
+  label: cloudinaryUrl
+  default: https://
 pages:
 - exampleSite/content/post/looking-for-an-afro-hair-care-routine-i-got-you.md
 - exampleSite/content/post/test-post.md
