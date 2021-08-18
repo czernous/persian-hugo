@@ -11,6 +11,7 @@ tags:
 - afro hair
 - hair growth
 - black castor oil
+cloudinaryurl: https://res.cloudinary.com/ruthchernous/image/upload
 draft: true
 
 ---
