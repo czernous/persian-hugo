@@ -40,7 +40,7 @@
 			{{ range where .Site.RegularPages "Params.author" .Title }}
 			<div class="col-md-6 mb-4">
 				<div class="post post-sm">
-					<img src="{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
+					<img src="{{ .Params.Cloudinaryurl }}/{{ .Params.Image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
 					<div class="post-content">
 						<div class="post-date">
 							<span>{{ .PublishDate.Format "02" }}</span>
