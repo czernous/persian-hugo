@@ -30,7 +30,7 @@ fields:
   config:
     required: false
   label: cloudinaryUrl
-  default: https://
+  default: https://res.cloudinary.com/ruthchernous/image/upload
 pages:
 - exampleSite/content/post/looking-for-an-afro-hair-care-routine-i-got-you.md
 - exampleSite/content/post/test-post.md
