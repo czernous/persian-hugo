@@ -40,9 +40,9 @@ sections:
   match: "*.toml"
   new_doc_ext: toml
 upload_dir: ''
-public_path: ''
+public_path: https://res.cloudinary.com/ruthchernous/image/upload
 front_matter_path: https://res.cloudinary.com/ruthchernous/image/upload
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
