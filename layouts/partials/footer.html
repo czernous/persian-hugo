@@ -22,7 +22,7 @@
 <script src="{{ $script.Permalink }}"></script>
 
 {{ "<!-- google analitycs -->" | safeHTML }}
-{{ with .Site.google_analitycs_id}}
+{{ with .Site.Params.google_analitycs_id}}
 <script>
   (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;

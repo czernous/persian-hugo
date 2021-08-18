@@ -5,7 +5,6 @@ paginate = "6"
 disqusShortname = "ruthchernous"
 theme = "persian"
 title = "Ruth Chernous"
-google_analitycs_id = 'G-TL6MYB6JXJ'
 cloudinaryUrl ="https://res.cloudinary.com/ruthchernous"
 [markup.goldmark.renderer]
 unsafe = true
@@ -30,9 +29,10 @@ weight = 3
 home = ["HTML", "RSS", "json"]
 [params]
 author = "Ruth Chernous"
+google_analitycs_id = 'G-TL6MYB6JXJ'
 contact_form_action = "https://formspree.io/f/mjvjvjlr"
-copyright = ""
-description = "Get fit and healthy to improve your overall life and attract success. Learn how to accept yourself and solve problems one at a time."
+copyright = "Ruth Chernous"
+description = "Personal blog"
 logo = "images/logo.svg"
 
 search = true
