@@ -1,6 +1,6 @@
 ---
 title: How to make tomato juice at home
-date: 2020-08-18T12:00:34+00:00
+date: 2020-08-18T12:00:34.000+00:00
 image: https://res.cloudinary.com/ruthchernous/image/upload/v1629287352/Tomato_juice_qcbodf.jpg
 author: Ruth Chernous
 description: Learn how to make tomato juice at home
@@ -11,9 +11,9 @@ tags:
 - Tomato juice
 
 ---
-For some reason the idea of consuming vegetable juice made my stomach churn. But after trying tomato juice a few weeks ago. It has now made its way onto my shopping list. 
+For some reason the idea of consuming vegetable juice made my stomach churn. But after trying tomato juice a few weeks ago. It has now made its way onto my shopping list.
 
-And has also inspired me to write an article about how to make homemade tomato juice. 
+And has also inspired me to write an article about how to make homemade tomato juice.
 
 Why? Because the flavour of homemade always wins over let’s say Tesco tomato juice. And it is a damn sight cheaper. So what’s so special about this fruit or vegetable and.....
 
@@ -21,23 +21,23 @@ Why? Because the flavour of homemade always wins over let’s say Tesco tomato j
 
 _Antioxidant_
 
-Tomatoes contain an antioxidant called Lycopene. In general antioxidants are great because they remove free radicals from your body. Free radicals are molecules that are left in your blood cells when food is broken down into waste. 
+Tomatoes contain an antioxidant called Lycopene. In general antioxidants are great because they remove free radicals from your body. Free radicals are molecules that are left in your blood cells when food is broken down into waste.
 
 It can also be left when you are exposed to smoking, pollution and radiation. We need to get rid of free radicals as they are responsible for various diseases.
 
 _Weight Management_
 
-Have you ever tried to lose weight? It can feel like running a marathon. However your weight loss goals can be achieved by regularly consuming tomato juice. 
+Have you ever tried to lose weight? It can feel like running a marathon. However your weight loss goals can be achieved by regularly consuming tomato juice.
 
 This is because when you are overweight chronic inflammation occurs and stops the hormone leptin from telling your brain to stop eating when you’re full. Tomato juice reduces that inflammation allowing the hormone to do its thing.
 
 _Digestion_
 
-Constipation can be a real pain. I know I used to suffer a lot from it. But thanks to tomato juice you don’t need to spend ages in the loo. The high fibre content helps aid digestion. 
+Constipation can be a real pain. I know I used to suffer a lot from it. But thanks to tomato juice you don’t need to spend ages in the loo. The high fibre content helps aid digestion.
 
 _High in vitamin C_
 
-Come winter time and everyone is sneezing and coughing. If only they had some tomato juice. Not only is this juice great for treating a cold, it is used for different skin conditions, helps with mental ailments like depression and Alzheimer's. 
+Come winter time and everyone is sneezing and coughing. If only they had some tomato juice. Not only is this juice great for treating a cold, it is used for different skin conditions, helps with mental ailments like depression and Alzheimer's.
 
 And can be used for anti aging purposes. Vitamin C also helps your immune system to function properly.
 
@@ -130,4 +130,4 @@ If you don’t want to can your tomatoes you can freeze them. Once the juice has
 
 **Now that you’re aware of how tomato juice benefits you. I hope you will try your hand at making some of this flavoursome juice at home.**
 
-****
+***
