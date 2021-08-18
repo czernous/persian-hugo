@@ -20,29 +20,29 @@ Why? Because the flavour of homemade always wins over let’s say Tesco tomato j
 
 ### **Is tomato juice good for you?**
 
-_Antioxidant_
+**_Antioxidant_**
 
 Tomatoes contain an antioxidant called Lycopene. In general antioxidants are great because they remove free radicals from your body. Free radicals are molecules that are left in your blood cells when food is broken down into waste.
 
 It can also be left when you are exposed to smoking, pollution and radiation. We need to get rid of free radicals as they are responsible for various diseases.
 
-_Weight Management_
+**_Weight Management_**
 
 Have you ever tried to lose weight? It can feel like running a marathon. However your weight loss goals can be achieved by regularly consuming tomato juice.
 
 This is because when you are overweight chronic inflammation occurs and stops the hormone leptin from telling your brain to stop eating when you’re full. Tomato juice reduces that inflammation allowing the hormone to do its thing.
 
-_Digestion_
+**_Digestion_**
 
 Constipation can be a real pain. I know I used to suffer a lot from it. But thanks to tomato juice you don’t need to spend ages in the loo. The high fibre content helps aid digestion.
 
-_High in vitamin C_
+**_High in vitamin C_**
 
 Come winter time and everyone is sneezing and coughing. If only they had some tomato juice. Not only is this juice great for treating a cold, it is used for different skin conditions, helps with mental ailments like depression and Alzheimer's.
 
 And can be used for anti aging purposes. Vitamin C also helps your immune system to function properly.
 
-_Clotting blood_
+**_Clotting blood_**
 
 Tomato juice contains high levels of vitamin K which can help with blood clotting. Very useful when having an operation or when you have a cut or graze as this is necessary during the healing process.
 
@@ -50,7 +50,7 @@ Now that you have a few benefits under your belt. Let’s make tomato juice.
 
 ### **How to make tomato juice**
 
-_Ingredients:_
+**_Ingredients:_**
 
 Chopped tomatoes - 3 pounds
 
@@ -66,7 +66,7 @@ Chopped tomatoes - 3 pounds
 
 6-8 drops Tabasco sauce
 
-_Method:_
+**_Method:_**
 
 1. Place all the ingredients into a saucepan
 2. Simmer on low to medium heat for 25 minutes
@@ -80,7 +80,7 @@ Find the original recipe [here](https://www.simplyrecipes.com/recipes/homemade_t
 
 Apple tomato juice recipe
 
-_Ingredients:_
+**_Ingredients:_**
 
 4 cups of chopped tomatoes
 
@@ -96,7 +96,7 @@ _Ingredients:_
 
 **Basil tomato juice recipe**
 
-_Ingredients:_
+**_Ingredients:_**
 
 4 cups of chopped fresh tomatoes
 
@@ -114,7 +114,7 @@ Recipes can be found in Easy Tomato Juice Recipes e book on Amazon
 
 ### **How to preserve tomato juice?**
 
-_Canning_
+**_Canning_**
 
 1. To begin sterilize the jars
 2. Add 2 tbsp of lemon juice whilst the can is hot and then pour the tomato juice into the jars.
@@ -125,7 +125,7 @@ _Canning_
 7. Write the date on a sticky label and stick it to the jar
 8. Store for a year
 
-_Freezing_
+**_Freezing_**
 
 If you don’t want to can your tomatoes you can freeze them. Once the juice has cooled, put the mixture into freezer bags and leave 1 inch at the top to give it room to expand. Label, freeze and store for a year.
 
