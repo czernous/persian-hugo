@@ -17,7 +17,7 @@
           />
           {{ else }}
           <img
-          src="{{ .Params.image }}"
+          src="{{ .Params.Image | absURL }}"
           class="img-fluid w-100 post__image"
           alt="{{ .Title }}"
           height="100"
