@@ -22,13 +22,13 @@ Why? Because the flavour of homemade always wins over let’s say Tesco tomato j
 
 **_Antioxidant_**
 
-Tomatoes contain an antioxidant called Lycopene. In general antioxidants are great because they remove free radicals from your body. Free radicals are molecules that are left in your blood cells when food is broken down into waste.
+Tomatoes contain an antioxidant called Lycopene. In general, antioxidants are great because they remove free radicals from your body. Free radicals are molecules that are left in your blood cells when food is broken down into waste.
 
 It can also be left when you are exposed to smoking, pollution and radiation. We need to get rid of free radicals as they are responsible for various diseases.
 
 **_Weight Management_**
 
-Have you ever tried to lose weight? It can feel like running a marathon. However your weight loss goals can be achieved by regularly consuming tomato juice.
+Have you ever tried to lose weight? It can feel like running a marathon. However, your weight loss goals can be achieved by regularly consuming tomato juice.
 
 This is because when you are overweight chronic inflammation occurs and stops the hormone leptin from telling your brain to stop eating when you’re full. Tomato juice reduces that inflammation allowing the hormone to do its job.
 
@@ -38,9 +38,9 @@ Constipation can be a real pain. I know I used to suffer a lot from it. But than
 
 **_High in vitamin C_**
 
-Come winter time and everyone is sneezing and coughing. If only they had some tomato juice. Not only is this juice great for treating a cold, it is used for different skin conditions, helps with mental ailments like depression and Alzheimer's.
+Come wintertime and everyone is sneezing and coughing. If only they had some tomato juice. This juice great for treating a cold, it is used for different skin conditions, helps with mental ailments like depression and Alzheimer's.
 
-And can be used for anti aging purposes. Vitamin C also helps your immune system to function properly.
+And can be used for anti ageing purposes. Vitamin C also helps your immune system to function properly.
 
 **_Clotting blood_**
 
@@ -110,7 +110,7 @@ Apple tomato juice recipe
 
 \*use the previous method
 
-Recipes can be found in Easy Tomato Juice Recipes e book on Amazon
+Recipes can be found in Easy Tomato Juice Recipes ebook on Amazon
 
 ### **How to preserve tomato juice?**
 
