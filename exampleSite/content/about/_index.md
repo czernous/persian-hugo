@@ -14,4 +14,4 @@ Interested in working with me. Here's how? I can write you well researched and e
 
 Need help persuading them to sign up to your email list?
 
-Please drop me a line using the contact form.
+Click [yes!](https://www.ruthchernous.com/contact/)
