@@ -30,7 +30,7 @@ It can also be left when you are exposed to smoking, pollution and radiation. We
 
 Have you ever tried to lose weight? It can feel like running a marathon. However your weight loss goals can be achieved by regularly consuming tomato juice.
 
-This is because when you are overweight chronic inflammation occurs and stops the hormone leptin from telling your brain to stop eating when you’re full. Tomato juice reduces that inflammation allowing the hormone to do its thing.
+This is because when you are overweight chronic inflammation occurs and stops the hormone leptin from telling your brain to stop eating when you’re full. Tomato juice reduces that inflammation allowing the hormone to do its job.
 
 **_Digestion_**
 
