@@ -4,7 +4,6 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-08-20T09:26:00Z
 description = "Learn about copywriting and how to be a copywriter"
-draft = true
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
 tags = ["writing", "digital marketing", "copywriting"]
 title = "What is meant by copywriting? (the ins and outs)"
