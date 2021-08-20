@@ -6,7 +6,7 @@ date = 2021-08-20T09:28:00Z
 description = "Learn about copywriting and how to be a copywriter"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
 tags = ["writing", "digital marketing", "copywriting"]
-title = "What is meant by copywriting? (the ins and outs)"
+title = "What is meant by copywriting?"
 
 +++
 Before beginning my journey as a copywriter I had no idea what copywriting was. I knew I was interested in marketing. But it wasn’t till I delved deeper into digital marketing, copywriting found me.
