@@ -12,11 +12,11 @@ title = "Researching copywriting"
 +++
 When I first started writing I was always stuck on what to research. So I would read other blog posts and write the information in my own words. I am not saying that you can’t use other articles to inform your writing.
 
-But don’t make this the one and only way of finding information. Using various methods ensures that your writing isn’t just a copy of someone else’s.
+But don’t make this the only way you find information. Using various methods ensures that your writing is unique.
 
-If you didn’t know already Google penalizes you if your content is a replica of someone else’s, google notes it as irrelevant to what the searcher has searched for.
+If you didn’t know Google penalizes you if your content is a replica of someone else’s. 
 
-So ranks your content low in its search engine. Google wants to solve the user’s problem efficiently and doesn’t want several copies of the same thing in its database.
+Google wants to solve the user’s problem efficiently and doesn’t want several copies of the same thing in its database.
 
 ### **Do copywriters do research?**
 
@@ -24,7 +24,7 @@ The simple answer to this question is they should. Research is the difference be
 
 There are many ways writers might approach the research phrase. Some might do all their research upfront and then go to the writing phase. Others might research as they go along.
 
-I don’t think it matters how you approach it as long as the final outcome is what the client wants and is suitable to their brand and message.
+I don’t think it matters how you approach it as long as the final outcome is what the client wants and speaks to their audience.
 
 ### **Market Research**
 
@@ -33,7 +33,9 @@ During your research, the first thing you should ask yourself is:
 1. Who are you writing for?
 2. What problem are you solving?
 
-If you don’t know then I suggest you stop what you are doing and answer these questions. Your content should feel like you are speaking to one person as opposed to many. To help you get the ball rolling, create a persona. A persona is your ideal client for your business. This persona should include:
+If you don’t know then I suggest you stop what you are doing and answer these questions. Your content should feel like you are speaking to one person as opposed to many. 
+
+To help you get the ball rolling, create a persona. A persona is your ideal client for your business. This persona should include:
 
 * Demographics: Age, location, salary, race, ethnicity, marital status, education and employment.
 * Goals and motivation
@@ -47,13 +49,15 @@ The second question is important as all marketing addresses a need or problem. I
 
 He shared a story of his time as a copywriting teacher. Whereby, he asked students to imagine they each had a burger stand and their stand had one advantage.
 
-Some of his students chose premium meat, others chose buns with seeds etc. He said if he had one advantage it would beat everyone else’s and can you guess his advantage? It was a starving crowd.
+Some of his students chose premium meat, others chose buns with seeds etc. He said if he had one advantage it would beat everyone else’s. Can you guess his advantage? It was a starving crowd.
 
-This statement really resonated with me. Because similar to the example for your content to be effective, you need to find an audience so desperate to consume your content because it solves their problem.
+This statement really resonated with me. Because similar to the burger story your content needs a starving crowd. You need to find an audience so desperate to consume your content because it solves their problem.
 
 _Company research_
 
-It is useful to know some background information about the company to understand how to write for them. As a copywriter, you’re not writing as yourself. You have to write in the company’s voice. Things to think about are:
+It is useful to know some background information about the company you are writing for to understand how to write in the company’s voice.
+
+Things to think about are:
 
 * What is their story? How did they start their business? What are their achievements?
 * What are their business goals?
@@ -71,7 +75,7 @@ You can get inspiration by hanging out where your target audience hangs out and 
 
 For instance, you scroll through your company’s social media and in the comments section, something has grabbed your interest. You can use that as inspiration for your introduction.
 
-So you now know what to think about when doing research. You might be wondering? But **how do you research copywriting?** What tools can I use to begin my research?
+So you now know what to think about when doing research. You might also be wondering? But how do you research copywriting? What tools can I use to begin my research?
 
 ### **How do research on Google?**
 
@@ -127,7 +131,7 @@ Also if you are not familiar with a specific industry you could interview indust
 
 Research doesn’t just end with finding out about the business, products and consumers. You should also be aware of their competitors.
 
-What sort of content are they producing on their blogs and website? And how much traffic they are generating from that content?
+What sort of content are they producing on their blogs and website? And how much traffic are they generating from that content?
 
 You can use SEMRush to see where their competitors are getting their backlinks from and what keywords they are ranking for.
 
