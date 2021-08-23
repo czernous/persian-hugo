@@ -10,7 +10,7 @@ Hi, My name is Ruth. Just here, sharing my curiosities with you. I write about H
 
 **Work with me**
 
-Interested in working with me. Here's how? I am a qualified copywriter who can write well researched and engaging content specifically targeted to your audience they can't resist.
+Interested in working with me. Here's how? I am a qualified copywriter. I create content for companies in the Health, Education and Marketing niche. 
 
 I write:
 
@@ -26,4 +26,4 @@ I write:
 * Pay per click ads
 * Leaflets
 
-  Need help driving traffic and sales to your business? [YES!](https://www.ruthchernous.com/contact/)
+  Need help driving traffic and sales to your business? [Send me an email](https://www.ruthchernous.com/contact/ "Contact me")
