@@ -5,7 +5,7 @@ cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-08-20T09:28:00Z
 description = "Learn about copywriting and how to be a copywriter"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
-tags = ["marketing", "writing", "copywriting"]
+tags = ["copywriting", "marketing", "writing"]
 title = "What is meant by copywriting?"
 
 +++
