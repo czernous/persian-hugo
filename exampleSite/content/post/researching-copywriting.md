@@ -14,7 +14,7 @@ When I first started writing I was always stuck on what to research. So I would 
 
 But don’t make this the only way you find information. Using various methods ensures that your writing is unique.
 
-If you didn’t know Google penalizes you if your content is a replica of someone else’s. 
+If you didn’t know Google penalizes you if your content is a replica of someone else’s.
 
 Google wants to solve the user’s problem efficiently and doesn’t want several copies of the same thing in its database.
 
@@ -33,7 +33,7 @@ During your research, the first thing you should ask yourself is:
 1. Who are you writing for?
 2. What problem are you solving?
 
-If you don’t know then I suggest you stop what you are doing and answer these questions. Your content should feel like you are speaking to one person as opposed to many. 
+If you don’t know then I suggest you stop what you are doing and answer these questions. Your content should feel like you are speaking to one person as opposed to many.
 
 To help you get the ball rolling, create a persona. A persona is your ideal client for your business. This persona should include:
 
@@ -142,3 +142,5 @@ You can also gauge what to include in your copy by reading what their competitor
 There is no set way of doing research. I think it all depends on the project. Sometimes you might have to use all these techniques to write good content if it is an industry you aren’t familiar with.
 
 Or you might find your copy comes together quickly if you are knowledgeable about that industry and its target audience.
+
+Interested in being a copywriter? Find out what skills you need in this [article.]()
