@@ -6,7 +6,7 @@ author: Ruth Chernous
 description: Learn how to make tomato juice at home
 categories: []
 tags:
-- Healthy living
+- health
 - Nutrition
 - Juicing
 cloudinaryurl: https://res.cloudinary.com/ruthchernous/image/upload
