@@ -1,7 +1,7 @@
 ---
-title: ''
+title: About me
 image: images/author.jpg
-description: This is meta description.
+description: Need content for your business?
 
 ---
 **"I have no special talents. I am only passionately curious." _-Albert Einstein_**
