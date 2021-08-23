@@ -5,7 +5,7 @@ cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-08-23T11:40:00Z
 description = "Learn how to research effectively"
 image = "/v1629718628/Learn_how_to_research_effectively_gnk4yb.jpg"
-tags = ["digital marketing", "research", "copywriting"]
+tags = ["writing", "marketing", "copywriting"]
 title = "How do you do copywriting research?"
 
 +++
