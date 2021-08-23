@@ -6,11 +6,11 @@ description: Need to drive sales to your business?
 ---
 **"I have no special talents. I am only passionately curious." _-Albert Einstein_**
 
-Hi, My name is Ruth. Just here, sharing my curiosities with you. I write about Health, Languages and Digital marketing.
+Hi, My name is Ruth. Just here, sharing my curiosities with you. I write about Health and Digital marketing.
 
 **Work with me**
 
-Interested in working with me? Here's how. I am a qualified copywriter. I create content for companies in the Health, ESL and Marketing niche.
+Interested in working with me? Here's how. I am a qualified copywriter. I create content for companies in the Health and Marketing niche.
 
 I write:
 
