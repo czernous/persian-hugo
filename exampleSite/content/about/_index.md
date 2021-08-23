@@ -6,11 +6,11 @@ description: Need to drive sales to your business?
 ---
 **"I have no special talents. I am only passionately curious." _-Albert Einstein_**
 
-Hi, My name is Ruth. I am a lifestyle blogger. Just here, sharing my curiosities with you. I write about Health, Beauty, Digital marketing.
+Hi, My name is Ruth. Just here, sharing my curiosities with you. I write about Health (Fitness, Nutrition, Weight loss, Beauty) and Digital marketing.
 
 **Work with me**
 
-Interested in working with me. Here's how? I am a qualified copywriter who can write well researched and engaging content specifically targeted to your audience that they can't resist. 
+Interested in working with me. Here's how? I am a qualified copywriter who can write well researched and engaging content specifically targeted to your audience they can't resist.
 
 I write:
 
@@ -20,7 +20,7 @@ I write:
 * Website content
 * Pay per click ads
 * Advertising content
-* Direct mail and emails 
+* Direct mail and emails
 * Press releases
 * Newsletters
 * Pay per click ads
