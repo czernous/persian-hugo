@@ -7,8 +7,8 @@ description: 'CLICK NOW to find out how to use Jamaican black castor oil to grow
   curly afro hair? '
 categories: []
 tags:
+- health
 - beauty
-- afro hair
 - hair growth
 cloudinaryurl: https://res.cloudinary.com/ruthchernous/image/upload
 
