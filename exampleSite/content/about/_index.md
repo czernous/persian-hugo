@@ -1,7 +1,7 @@
 ---
 title: About me
 image: images/author.jpg
-description: Need content for your business?
+description: Need to drive sales to your business?
 
 ---
 **"I have no special talents. I am only passionately curious." _-Albert Einstein_**
