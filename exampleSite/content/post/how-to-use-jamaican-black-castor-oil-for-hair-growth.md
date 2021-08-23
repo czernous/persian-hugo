@@ -1,5 +1,5 @@
 ---
-title: How to use Jamaican black castor oil for hair growth
+title: Can you use Jamaican black castor oil for hair growth?
 date: 2021-08-18T10:00:00.000+00:00
 image: "/v1629309169/Curly_hair_rhkxiz.jpg"
 author: Ruth Chernous
