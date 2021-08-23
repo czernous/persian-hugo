@@ -7,7 +7,7 @@ description = "Learn how to research effectively"
 draft = true
 image = "/v1629718628/Learn_how_to_research_effectively_gnk4yb.jpg"
 tags = ["digital marketing", "research", "copywriting"]
-title = "Researching copywriting"
+title = "How do you do copywriting research?"
 
 +++
 When I first started writing I was always stuck on what to research. So I would read other blog posts and write the information in my own words. I am not saying that you can’t use other articles to inform your writing.
