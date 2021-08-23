@@ -26,4 +26,4 @@ I write:
 * Pay per click ads
 * Leaflets
 
-  Need help driving traffic and sales to your business? [Send me an email](https://www.ruthchernous.com/contact/ "Contact me")
+  Need help driving traffic and sales to your business? [Drop me a line.](https://www.ruthchernous.com/contact/ "contact me")
