@@ -6,7 +6,13 @@ description: Need to drive sales to your business?
 ---
 **"I have no special talents. I am only passionately curious." _-Albert Einstein_**
 
-Hi, My name is Ruth. Just here, sharing my curiosities with you. I write for people who want to get away from their 9-5 and want the freedom to set their own work schedule.
+Hi, My name is Ruth. Just here, sharing my curiosities with you. 
+
+I like writing about copywriting and digital marketing.
+
+My content is for those of you that want to get away from the daily grind of your 9-5.
+
+And want the freedom to set your own work schedule.
 
 **Work with me**
 
