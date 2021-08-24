@@ -72,6 +72,8 @@ You can get inspiration by hanging out where they hang out and using their langu
 
 For instance, you scroll through your company’s social media and in the comments section, something has grabbed your interest. You could use that as inspiration for your introduction or add it as a quote in your content.
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1629799761/Target_audience_n6tduj.jpg)
+
 ### **5. How do research on Google?**
 
 _Basic search_
@@ -101,6 +103,8 @@ I like getting a few different books and pulling up the most interesting informa
 ### **8. Social media**
 
 If you’re still stuck for ideas after researching Google. You can also find information on social media. Most social media sites have a search bar where you can include a phrase or a relevant keyword. Remember to put a hashtag alongside the keyword.
+
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1629799621/Social_media_q5jhjy.jpg)
 
 ### **9. Amazon**
 
