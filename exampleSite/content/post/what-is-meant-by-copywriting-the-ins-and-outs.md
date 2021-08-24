@@ -35,7 +35,7 @@ I have named several but the list isn’t extensive. There are more types of cop
 
 ### **What exactly does a copywriter do?**
 
-_If you are working for an agency you will:_
+**If you are working for an agency you will:**
 
 * Be sent a brief and examples of similar content liked by their clients.
 * Given keywords and background information on the company, you are writing for.
@@ -44,7 +44,7 @@ _If you are working for an agency you will:_
 * Proofread and edit your content.
 * Submit your content and make any revisions.
 
-_If you are working for yourself you will have to:_
+**If you are working for yourself you will have to:**
 
 * Find companies to pitch to.
 * Set up a phone call to find out more about the client goals.
@@ -70,27 +70,27 @@ Another option is to used [headline formulas.](https://copyblogger.com/10-sure-f
 
 ### **What skills are needed to be a copywriter?**
 
-_Writing_
+**Writing**
 
 Obviously, you need to be able to write well. But writing doesn’t just include jotting down your thoughts on a piece of paper. You need to be able to write in different voices, styles and for different types of content.
 
-_Research_
+**Research**
 
 Without good research, writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
 
-_Editing and proofreading_
+**Editing and Proofreading**
 
 This stage requires you to read through your content and rearrange elements that don't fit together. Remember to check for grammar and punctuation mistakes. Of course, no one is perfect which is why using tools like Grammarly helps.
 
-_Good vocabulary_
+**Good vocabulary**
 
 Luckily I was a language teacher before getting into this career. So my vocabulary isn’t too bad. If you feel this isn’t your strong suit, you can improve your vocabulary by reading books which leads to my next point.
 
-_Reading_
+**Reading**
 
 Let's face it, to be a better writer you need to read. Reading helps you see how to structure a piece of writing which is useful when creating your own content.
 
-_Curiosity_
+**Curiosity**
 
 I will be honest here. If you’re not a curious person, you might struggle in this field. You should want to dive deep into a topic not because it is expected from your client but because you want to.
 
