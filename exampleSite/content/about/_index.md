@@ -16,7 +16,7 @@ _Blog posts_
 
 _Social media posts_
 
-_Articles_
+_SEO Articles_
 
 _Advertising features_
 
