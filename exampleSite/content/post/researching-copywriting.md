@@ -50,9 +50,9 @@ Some of his students chose premium meat, others chose buns with seeds etc. He sa
 
 This statement really resonated with me. Because similar to the burger story your content needs a starving crowd. You need to find an audience so desperate to consume your content because it solves their problem.
 
-### **2.Company research**
+### **2. Company research**
 
-It is useful to know some background information about the company you are writing for to understand how to write in the company’s voice.
+It is useful to know some background information about the company you are writing for so as to understand how to write in the company’s voice.
 
 Things to think about are:
 
@@ -70,7 +70,7 @@ For customers to read your content. You need to grab their attention quickly. An
 
 You can get inspiration by hanging out where they hang out and using their language to write your copy.
 
-For instance, you scroll through your company’s social media and in the comments section, something has grabbed your interest. You can use that as inspiration for your introduction or add it as a quote in your content.
+For instance, you scroll through your company’s social media and in the comments section, something has grabbed your interest. You could use that as inspiration for your introduction or add it as a quote in your content.
 
 ### **5. How do research on Google?**
 
@@ -100,7 +100,7 @@ I like getting a few different books and pulling up the most interesting informa
 
 ### **8. Social media**
 
-If you’re still stuck for ideas after researching Google. You can also find information on social media. Most social media sites have a search bar where you can include a phrase or a relevant keyword. Remember to put a hashtag along with the keyword.
+If you’re still stuck for ideas after researching Google. You can also find information on social media. Most social media sites have a search bar where you can include a phrase or a relevant keyword. Remember to put a hashtag alongside the keyword.
 
 ### **9. Amazon**
 
@@ -134,8 +134,8 @@ You can also gauge what to include in your copy by reading what their competitor
 
 ### **Final thoughts**
 
-There is no set way of doing research. I think it all depends on the project. Sometimes you might have to use all these techniques to write good content if it is an industry you aren’t familiar with.
+There is no set way of doing research. I think it all depends on the project. Sometimes you might use all these techniques to write good content if it is an industry you aren’t familiar with.
 
-Or you might find your copy comes together quickly if you are knowledgeable about that industry and its target audience.
+Or you might only need to use one of these methods if you are writing about a topic you are comfortable with. The most important thing is that your content brings something new to the table and offers value to your readers.
 
 Interested in being a copywriter? Find out what skills you need in this [article.]()
