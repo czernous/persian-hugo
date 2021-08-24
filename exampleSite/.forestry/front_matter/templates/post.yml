@@ -32,6 +32,5 @@ fields:
   label: cloudinaryUrl
   default: https://res.cloudinary.com/ruthchernous/image/upload
 pages:
-- exampleSite/content/post/looking-for-an-afro-hair-care-routine-i-got-you.md
 - exampleSite/content/post/researching-copywriting.md
 - exampleSite/content/post/what-is-meant-by-copywriting-the-ins-and-outs.md
