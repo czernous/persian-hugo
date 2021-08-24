@@ -8,7 +8,7 @@ description: Need to drive sales to your business?
 
 Hi, My name is Ruth. Just here, sharing my curiosities with you. 
 
-I like writing about copywriting and digital marketing.
+I like writing about Copywriting and Digital Marketing.
 
 My content is for those of you that want to get away from the daily grind of your 9-5.
 
@@ -18,12 +18,12 @@ And want the freedom to set your own work schedule.
 
 Interested in working with me? Here's how. I am a qualified copywriter. I specialize in writing:
 
-_Blog posts_
+**_Blog posts_**
 
-_Social media posts_
+**_Social media posts_**
 
-_SEO Articles_
+**_SEO Articles_**
 
-_Advertising features_
+**_Advertising features_**
 
 Need help driving traffic and sales to your website? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
