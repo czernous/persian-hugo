@@ -12,9 +12,12 @@ Hi, My name is Ruth. Just here, sharing my curiosities with you. I write about t
 
 Interested in working with me? Here's how. I am a qualified copywriter. I specialize in writing:
 
-* Blog posts
-* Social media posts
-* Articles
-* Advertising features
+Blog posts
 
-  Need help driving traffic and sales to your business? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
+Social media posts
+
+Articles
+
+Advertising features
+
+Need help driving traffic and sales to your business? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
