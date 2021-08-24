@@ -11,6 +11,7 @@ tags:
 - beauty
 - hair growth
 cloudinaryurl: https://res.cloudinary.com/ruthchernous/image/upload
+draft: true
 
 ---
 As black women our curly hair strands make it difficult for natural oils to travel down the hair shaft making it susceptible to breakage.
