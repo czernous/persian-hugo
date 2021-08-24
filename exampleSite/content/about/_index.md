@@ -20,4 +20,4 @@ _SEO Articles_
 
 _Advertising features_
 
-Need help driving traffic and sales to your business? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
+Need help driving traffic and sales to your website? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
