@@ -146,7 +146,7 @@ Some copywriters charge per word, others charge per hour or per project. It is s
 
 I think a fixed price for the whole project works well as there are no hidden costs for the clients. Always take a 50% deposit upfront. So clients don’t disappear without paying you.
 
-### **Final thoughts**
+### **The bottom line**
 
 Now you know the ins and outs of being a copywriter. I think copywriting is a great career because it is in demand with excellent chances of growth and income. And best of all you don’t need any qualifications to get started. 
 
