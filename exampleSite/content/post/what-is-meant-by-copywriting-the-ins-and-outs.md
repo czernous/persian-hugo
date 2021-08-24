@@ -11,9 +11,9 @@ title = "The surprising truth about copywriting"
 +++
 Before beginning my journey as a copywriter I had no idea what copywriting was. I knew I was interested in marketing. But it wasn’t till I delved deeper into digital marketing, copywriting found me.
 
-The funny thing is before then, I saw copywriting everywhere. In ads, on billboards, I was even doing it on social media. 
+The funny thing is before then, I saw copywriting everywhere. In ads, on billboards, I was even doing it on social media.
 
-So if you’re sitting there wondering the same thing. Don’t worry I have you covered. 
+So if you’re sitting there wondering the same thing. Don’t worry I have you covered.
 
 In this article, I will write about the ins and outs of copywriting, how to train as a copywriter and how to find work.
 
@@ -54,6 +54,8 @@ _If you are working for yourself you will have to:_
 * Edit and proofread the content.
 * Submit and make any revisions.
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1629800102/Pitching_vbxram.jpg)
+
 ### **What do you need to do to become a copywriter?**
 
 Luckily you don’t have any qualifications to become a copywriter. However, it is advisable that you sign up for one. Doing copywriting courses allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
@@ -66,7 +68,7 @@ Practise writing headlines as they are the most important element to write. With
 
 A swipe file is a collection of written content that can be used to inspire your writing. I sometimes get stuck when writing headlines. So I often look at examples of headlines for inspiration and think of how I can rewrite them in my own way.
 
-Another option is to used [headline formulas.](https://copyblogger.com/10-sure-fire-headline-formulas-that-work/ "copywriting formulas") These have been tried and tested and are used regularly by marketers. 
+Another option is to used [headline formulas.](https://copyblogger.com/10-sure-fire-headline-formulas-that-work/ "copywriting formulas") These have been tried and tested and are used regularly by marketers.
 
 ### **What skills are needed to be a copywriter?**
 
@@ -92,7 +94,7 @@ Let's face it, to be a better writer you need to read. Reading helps you see how
 
 _Curiosity_
 
-I will be honest here. If you’re not a curious person, you might struggle in this field. You should want to dive deep into a topic not because it is expected from your client but because you want to. 
+I will be honest here. If you’re not a curious person, you might struggle in this field. You should want to dive deep into a topic not because it is expected from your client but because you want to.
 
 The thirst for knowledge should excite you. And guess what the more information you have. The more you have to play within your writing.
 
@@ -102,25 +104,25 @@ As a freelancer when it comes to offering your services there is always the ques
 
 But the downside is having to compete with other copywriters that may be qualified and have more experience than you.
 
-Personally, I think it is a good idea to write for an industry that you have experience in. This can be professionally or it can be a topic you know a lot about. 
+Personally, I think it is a good idea to write for an industry that you have experience in. This can be professionally or it can be a topic you know a lot about.
 
 That way it is easy for you to differentiate from your competition and charge more money.
 
 **Pitching**
 
-Finding a niche isn’t enough. It is also important to do some background research on the companies you want to work for. List them down and follow them on social media. 
+Finding a niche isn’t enough. It is also important to do some background research on the companies you want to work for. List them down and follow them on social media.
 
 Keep notes on what type of content they produce. This will help when you approach them as you will already be familiar with their company.
 
 **Social media and blogging**
 
-When it comes to offering your services, social media and blogging are your best friend. Start a blog showcasing your skills and knowledge in copywriting or the industry you are specializing in. 
+When it comes to offering your services, social media and blogging are your best friend. Start a blog showcasing your skills and knowledge in copywriting or the industry you are specializing in.
 
 Also, optimize your content with keywords used by companies or individuals you want to work for.
 
 **Upwork**
 
-Finding copywriting jobs is not for the faint-hearted. You might get rejections but don’t give up. 
+Finding copywriting jobs is not for the faint-hearted. You might get rejections but don’t give up.
 
 I started off working with a company on Upwork. Even though I was getting $10 for 500 words which is next to nothing as the average pay is $50 for 500 words.
 
@@ -128,7 +130,7 @@ I focused on getting experience rather than on getting money. However, don’t g
 
 **Job boards**
 
-Some people may not fancy Upwork. So in this case sites like Pro blogger and Freelance copywriting jobs are useful for finding gigs. 
+Some people may not fancy Upwork. So in this case sites like Pro blogger and Freelance copywriting jobs are useful for finding gigs.
 
 If you struggle to find jobs in your niche. Don’t let your lack of experience hold you back. Look at what is listed, the requirements and write tailored samples for those specifications.
 
@@ -138,7 +140,7 @@ These guys are often looking for writers to work with. Send them an introductory
 
 ### **How much should I charge as a copywriter?**
 
-The best way to do this is to look at what you want to make annually. Look at job sites and find out how much money people with your experience are getting. 
+The best way to do this is to look at what you want to make annually. Look at job sites and find out how much money people with your experience are getting.
 
 When doing this make sure to charge higher than you would get working for an agency to cover things like insurance and pension.
 
@@ -146,8 +148,10 @@ Some copywriters charge per word, others charge per hour or per project. It is s
 
 I think a fixed price for the whole project works well as there are no hidden costs for the clients. Always take a 50% deposit upfront. So clients don’t disappear without paying you.
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1629800249/Money_ibzlcd.jpg)
+
 ### **The bottom line**
 
-Now you know the ins and outs of being a copywriter. I think copywriting is a great career because it is in demand with excellent chances of growth and income. And best of all you don’t need any qualifications to get started. 
+Now you know the ins and outs of being a copywriter. I think copywriting is a great career because it is in demand with excellent chances of growth and income. And best of all you don’t need any qualifications to get started.
 
-Are you ready to begin writing copy. Read my article [12 ways to do copywriting research ](https://www.ruthchernous.com/post/researching-copywriting/ "12 ways to do copywriting research")to get started.
+Are you ready to begin writing copy? Read my article [12 ways to do copywriting research ](https://www.ruthchernous.com/post/researching-copywriting/ "12 ways to do copywriting research")to get started.
