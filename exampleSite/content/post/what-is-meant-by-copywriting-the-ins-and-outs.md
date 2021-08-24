@@ -60,9 +60,7 @@ _If you are working for yourself you will have to:_
 
 Luckily you don’t have any qualifications to become a copywriter. However, it is advisable that you sign up for one. Doing copywriting courses allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
 
-However, not everyone can afford to pay for a course. In this situation, you can teach yourself. To begin, find examples of different types of content. Some examples are
-
-leaflets that come in your postbox, promotional emails and articles. Think of ways you could rewrite these.
+However, not everyone can afford to pay for a course. In this situation, you can teach yourself. To begin, find examples of different types of content. Some examples are leaflets that come in your postbox, promotional emails and articles. Think of ways you could rewrite these.
 
 Practise writing headlines as they are the most important element to write. Without good headlines, readers won’t click on your content. You could start collecting these examples to create a swipe file.
 
