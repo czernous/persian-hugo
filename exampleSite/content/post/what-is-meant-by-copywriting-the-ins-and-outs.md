@@ -6,14 +6,14 @@ date = 2021-08-24T08:42:00Z
 description = "Learn about copywriting and how to be a copywriter"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
 tags = ["copywriting", "marketing", "writing"]
-title = "What is meant by copywriting?"
+title = "The surprising truth about copywriting"
 
 +++
 Before beginning my journey as a copywriter I had no idea what copywriting was. I knew I was interested in marketing. But it wasn’t till I delved deeper into digital marketing, copywriting found me.
 
 The funny thing is before then, I saw copywriting everywhere. In ads, on billboards, I was even doing it on social media. So if you’re sitting there wondering the same thing. Don’t worry I have you covered.
 
-**What is copywriting and how does it work?**
+### **What is copywriting and how does it work?**
 
 So what is meant by copywriting? Copywriting is the act of using words to sell or promote a service or product. When writing it is better to write with fewer words and get straight to the point. As a copywriter you might write:
 
@@ -29,7 +29,7 @@ So what is meant by copywriting? Copywriting is the act of using words to sell o
 
 I have named several but the list isn’t extensive. There are more types of copy you can focus on that isn’t included in this list.
 
-**What exactly does a copywriter do?**
+### **What exactly does a copywriter do?**
 
 _If you are working for an agency:_
 
@@ -51,7 +51,7 @@ _If you are working for yourself you will most likely have to:_
 * Sent it to your client
 * Make any revisions
 
-**What do you need to do to become a copywriter?**
+### **What do you need to do to become a copywriter?**
 
 Luckily you don’t have to have a qualification to become a copywriter. However, it is advisable that you sign up for one. Doing copywriting courses allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
 
@@ -63,7 +63,7 @@ Practise writing headlines as they are the most important element to write. With
 
 A swipe file is a collection of written content that can be used to inspire your writing. I sometimes get stuck when writing headlines. So I often look at examples of headlines for inspiration and think of how I can rewrite them in my own way.
 
-**What skills are needed to be a copywriter?**
+### **What skills are needed to be a copywriter?**
 
 _Writing_
 
@@ -91,7 +91,7 @@ _Curiosity_
 
 I will be honest here. If you’re not a curious person, you might struggle in this field. You should want to dive deep into a topic not because it is expected from your client but because you want to. The thirst for knowledge should excite you. And guess what the more information you have. The more you have to play within your writing.
 
-**How do I get copywriting gigs?**
+### **How do I get copywriting gigs?**
 
 As a freelancer when it comes to offering your services there is always the question of should I niche down or not. From one perspective not niching down might allow you to take more work.
 
@@ -121,12 +121,14 @@ Some people may not fancy Upwork. So in this case sites like Pro blogger and Fre
 
 These guys are often looking for writers to work with. Send them an introductory letter and share information about yourself and your copywriting experience. Look for marketing and web design agencies or agencies in your niche.
 
-**How much should I charge as a copywriter?**
+### **How much should I charge as a copywriter?**
 
 The best way to do this is to look at what you want to make annually. Look at job sites and find out how much money people with your experience are getting. When doing this make sure to charge higher than you would get working for an agency to cover things like insurance and pension.
 
 Some copywriters charge per word, others charge per hour or per project. It is still helpful to know how much money you are charging per hour irrespective of how you decide to charge your clients.
 
 I think a fixed price for the whole project works well as there are no hidden costs for the clients. Always take a 50% deposit upfront. So clients don’t disappear without paying you.
+
+### **Final thoughts**
 
 Now you know the ins and outs of being a copywriter. Copywriting is a great career because it is in demand with excellent chances of growth and income. And best of all you don’t need any qualifications to get started.
