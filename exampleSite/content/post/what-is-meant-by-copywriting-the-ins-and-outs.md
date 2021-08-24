@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = 2021-08-20T09:28:00Z
+date = 2021-08-24T08:42:00Z
 description = "Learn about copywriting and how to be a copywriter"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
 tags = ["copywriting", "marketing", "writing"]
