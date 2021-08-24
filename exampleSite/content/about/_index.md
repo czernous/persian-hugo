@@ -1,5 +1,5 @@
 ---
-title: About
+title: ''
 image: images/author.jpg
 description: Need to drive sales to your business?
 
