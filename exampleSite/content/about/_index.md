@@ -4,26 +4,28 @@ image: images/author.jpg
 description: Need to drive sales to your business?
 
 ---
-**"I have no special talents. I am only passionately curious." _-Albert Einstein_**
+Are you tired of your 9-5?
 
-Hi, My name is Ruth. Just here, sharing my curiosities with you. 
+Do you want the freedom to set your own work schedule?
 
-I like writing about Copywriting and Digital Marketing.
+If you love to read and the idea of of getting paid to write gets you excited.
 
-My content is for those of you that want to get away from the daily grind of your 9-5.
-
-And want the freedom to set your own work schedule.
+Then my content is for you. I write about tips and tricks I have learnt on my journey to being a Copywriter.
 
 **Work with me**
 
-Interested in working with me? Here's how. I am a qualified copywriter. I specialize in writing:
+Interested in working with me? Here's how. I  will help your business shine by writing high quality, optimised content targeted to your audience. That will increase traffic to your website.
+
+ I specialise in writing:
 
 **_Blog posts_**
 
 **_Social media posts_**
 
-**_SEO Articles_**
+**_Articles_**
+
+**_Website content_**
 
 **_Advertising features_**
 
-Need help driving traffic and sales to your website? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
+Need help generating quality leads? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
