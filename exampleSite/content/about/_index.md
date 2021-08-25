@@ -10,7 +10,7 @@ Do you want the freedom to set your own work schedule?
 
 If you love to read and the idea of getting paid to write gets you excited.
 
-Then my content is for you. I write about tips and tricks I have learnt on my journey to being a Copywriter.
+Then my content is for you. I share tips and tricks I have learnt on my journey to being a Copywriter.
 
 **Work with me**
 
