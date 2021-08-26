@@ -6,7 +6,7 @@ date = 2021-08-24T08:42:00Z
 description = "Learn about copywriting and how to be a copywriter"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
 tags = ["copywriting", "marketing", "writing"]
-title = "The surprising truth about copywriting"
+title = "Ever wondered? What does a copywriter do?"
 
 +++
 Before beginning my journey as a copywriter I had no idea what copywriting was. I knew I was interested in marketing. But it wasn’t till I delved deeper into digital marketing, copywriting found me.
