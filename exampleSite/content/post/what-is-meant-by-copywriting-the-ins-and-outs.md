@@ -17,7 +17,7 @@ So if you’re sitting there wondering the same thing. Don’t worry I have you 
 
 In this article, I will write about the ins and outs of copywriting, how to train as a copywriter and how to find work.
 
-### **What is copywriting and how does it work?**
+## **What is copywriting and how does it work?**
 
 So what is meant by copywriting? Copywriting is the act of using words to sell or promote a service or product. As a copywriter you might write:
 
@@ -33,7 +33,7 @@ So what is meant by copywriting? Copywriting is the act of using words to sell o
 
 I have named several but the list isn’t extensive. There are more types of copywriting content you could focus on that isn’t included in this list.
 
-### **What exactly does a copywriter do?**
+## **What exactly does a copywriter do?**
 
 **If you are working for an agency you will:**
 
@@ -56,7 +56,7 @@ I have named several but the list isn’t extensive. There are more types of cop
 
 ![](https://res.cloudinary.com/ruthchernous/image/upload/v1629800102/Pitching_vbxram.jpg)
 
-### **What do you need to do to become a copywriter?**
+## **What do you need to do to become a copywriter?**
 
 Luckily you don’t have any qualifications to become a copywriter. However, it is advisable that you sign up for one. Doing copywriting courses allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
 
@@ -68,7 +68,7 @@ A swipe file is a collection of written content that can be used to inspire your
 
 Another option is to used [headline formulas.](https://copyblogger.com/10-sure-fire-headline-formulas-that-work/ "copywriting formulas") These have been tried and tested and are used regularly by marketers.
 
-### **What skills are needed to be a copywriter?**
+## **What skills are needed to be a copywriter?**
 
 **Writing**
 
@@ -96,9 +96,9 @@ I will be honest here. If you’re not a curious person, you might struggle in t
 
 The thirst for knowledge should excite you. And guess what the more information you have. The more you have to play within your writing.
 
-### **How do I get copywriting gigs?**
+## **How do I get copywriting gigs?**
 
-As a freelancer when it comes to offering your services there is always the question of should I niche down or not. From one perspective not niching down might allow you to take more work.
+As a freelancer when it comes to offering your services, there is always the question of should I niche down or not. From one perspective not niching down might allow you to take more work.
 
 But the downside is having to compete with other copywriters that may be qualified and have more experience than you.
 
@@ -136,7 +136,7 @@ If you struggle to find jobs in your niche. Don’t let your lack of experience 
 
 These guys are often looking for writers to work with. Send them an introductory letter and share information about yourself and your copywriting experience. Look for marketing and web design agencies or agencies in your niche.
 
-### **How much should I charge as a copywriter?**
+## **How much should I charge as a copywriter?**
 
 The best way to do this is to look at what you want to make annually. Look at job sites and find out how much money people with your experience are getting.
 
@@ -148,7 +148,7 @@ I think a fixed price for the whole project works well as there are no hidden co
 
 ![](https://res.cloudinary.com/ruthchernous/image/upload/v1629800249/Money_ibzlcd.jpg)
 
-### **The bottom line**
+## **The bottom line**
 
 Now you know the ins and outs of being a copywriter. I think copywriting is a great career because it is in demand with excellent chances of growth and income. And best of all you don’t need any qualifications to get started.
 
