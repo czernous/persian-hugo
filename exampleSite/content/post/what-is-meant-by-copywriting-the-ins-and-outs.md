@@ -3,23 +3,25 @@ author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-08-24T08:42:00Z
-description = "Learn about copywriting and how to be a copywriter"
+description = "Find out what exactly does a copywriter do"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
 tags = ["copywriting", "marketing", "writing"]
 title = "Ever wondered? What does a copywriter do?"
 
 +++
-Before beginning my journey as a copywriter I had no idea what copywriting was. I knew I was interested in marketing. But it wasn’t till I delved deeper into digital marketing, copywriting found me.
+Before beginning my journey as a copywriter I had no idea what copywriting was. It never crossed my mind " what does a copywriter do?" 
+
+I knew I was interested in marketing. But it wasn’t till I delved deeper into digital marketing, copywriting found me.
 
 The funny thing is before then, I saw copywriting everywhere. In ads, on billboards, I was even doing it on social media.
 
 So if you’re sitting there wondering the same thing. Don’t worry I have you covered.
 
-In this article, I will write about the ins and outs of copywriting, how to train as a copywriter and how to find work.
+In this article, I will write about what copywriting entails and how to find work.
 
 ## **What is copywriting and how does it work?**
 
-So what is meant by copywriting? Copywriting is the act of using words to sell or promote a service or product. As a copywriter you might write:
+So what is meant by copywriting? Copywriting is the act of using words to sell or promote a service or product. A copywriter might write:
 
 * **Slogans**: A short phrase used in advertising. Some famous ones are finger-licking good (KFC), Just do it - (Nike), I’m loving it - (Mcdonalds).
 * **Brochures**: A book created by a business selling its products or services.
