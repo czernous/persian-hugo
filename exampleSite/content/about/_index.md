@@ -4,19 +4,15 @@ image: images/author.jpg
 description: Need to drive sales to your business?
 
 ---
-Are you tired of your 9-5?
+I have no special talents. I am passionately curious- Albert Einstein
 
-Do you want the freedom to set your own work schedule?
-
-If you love to read and the idea of getting paid to write gets you excited.
-
-Then my content is for you. I share tips and tricks I have learnt on my journey to being a Copywriter.
+Just here sharing my curiosities with you.
 
 **Work with me**
 
 Interested in working with me? Here's how. I  will help your business shine by writing high quality, optimised content targeted to your audience. That will increase traffic to your website.
 
- I specialise in writing:
+I specialise in writing:
 
 **_Blog posts_**
 
