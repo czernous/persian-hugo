@@ -9,7 +9,7 @@ tags = ["copywriting", "marketing", "writing"]
 title = "12 ways to do copywriting research"
 
 +++
-When I first started writing I was always stuck on how to research. So I would read other blog posts and write the information in my own words. I am not saying that you can’t use other articles to inform your writing.
+When I first started writing I was always stuck on how to do copywriting research. So I would read other blog posts and write the information in my own words. I am not saying that you can’t use other articles to inform your writing.
 
 But don’t make this the only way you find information. Using various methods ensures that your writing is unique.
 
@@ -25,7 +25,7 @@ I don’t think it matters how you approach it as long as the final outcome spea
 
 ## **1. Market Research**
 
-During your research, the first thing you should ask yourself is:
+During your copywriting research, the first thing you should ask yourself is:
 
 1. Who are you writing for?
 2. What problem are you solving?
@@ -78,7 +78,7 @@ For instance, you scroll through your company’s social media and in the commen
 
 _Basic search_
 
-When using Google to research. It is easiest to start with a basic search. Go to the search bar and insert a keyword or phrase that relates to what you are looking for.
+When using Google to do copywriting research. It is easiest to start with a basic search. Go to the search bar and insert a keyword or phrase that relates to what you are looking for.
 
 You can look for the location of something by writing the location next to the search phrase. E.g. Copywriter London.
 
