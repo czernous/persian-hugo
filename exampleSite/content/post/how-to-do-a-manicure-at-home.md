@@ -6,7 +6,7 @@ date = 2021-08-28T16:19:00Z
 description = "Learn how to do a manicure at home"
 image = "/v1630167261/manicure_xsm4w2.jpg"
 tags = ["Manicure", "Nails", "Beauty"]
-title = "How to do a manicure at home"
+title = "Who else wants to know how to do a manicure at home?"
 
 +++
 When you think about self-care. Knowing how to do a manicure at home may not be on the top of your list.
