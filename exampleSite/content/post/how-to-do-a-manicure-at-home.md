@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = ""
+date = 2021-08-28T16:19:00Z
 description = "Learn how to do a manicure at home"
 draft = true
 image = "/v1630167261/manicure_xsm4w2.jpg"
