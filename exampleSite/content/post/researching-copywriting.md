@@ -23,7 +23,7 @@ There are many ways writers might approach the research phrase. Some might do al
 
 I don’t think it matters how you approach it as long as the final outcome speaks to your client's audience. So in this article, I will tell 10 ways to do copywriting research.
 
-### **1. Market Research**
+## **1. Market Research**
 
 During your research, the first thing you should ask yourself is:
 
@@ -50,7 +50,7 @@ Some of his students chose premium meat, others chose buns with seeds etc. He sa
 
 This statement really resonated with me. Because similar to the burger story your content needs a starving crowd. You need to find an audience so desperate to consume your content because it solves their problem.
 
-### **2. Company research**
+## **2. Company research**
 
 It is useful to know some background information about the company you are writing for so as to understand how to write in the company’s voice.
 
@@ -60,11 +60,11 @@ Things to think about are:
 * What are their business goals?
 * Who are their competitors?
 
-### **3. Product Research**
+## **3. Product Research**
 
 Let's say you’re selling a product. You really should know everything about that product before you write about it. Ideally, you should be using that product yourself. What are its features and benefits? How did using the product change your life?
 
-### **4. Your target audience**
+## **4. Your target audience**
 
 For customers to read your content. You need to grab their attention quickly. And what better way to do that than to get inspiration from them.
 
@@ -74,7 +74,7 @@ For instance, you scroll through your company’s social media and in the commen
 
 ![](https://res.cloudinary.com/ruthchernous/image/upload/v1629799761/Target_audience_n6tduj.jpg)
 
-### **5. How do research on Google?**
+## **5. How do research on Google?**
 
 _Basic search_
 
@@ -88,11 +88,11 @@ _Advanced search_
 
 If you are looking for something specific it is better to try an advanced search. You can combine keywords or you can search by date or country.
 
-### **6. Google Scholar**
+## **6. Google Scholar**
 
 This platform contains numerous published e-journals in different subject areas. These articles also include a bibliography or a list of references that you can use for further research.
 
-### **7. Books**
+## **7. Books**
 
 This is the method I use the most in combination with the web when I am researching. I go on Amazon and download a sample of a book. Sometimes I use the information in the sample, on other occasions I invest in the book.
 
@@ -100,17 +100,17 @@ Another option is to use Google books or go to a library and get a hard copy of 
 
 I like getting a few different books and pulling up the most interesting information as-well-as using my own knowledge to recreate a new piece.
 
-### **8. Social media**
+## **8. Social media**
 
 If you’re still stuck for ideas after researching Google. You can also find information on social media. Most social media sites have a search bar where you can include a phrase or a relevant keyword. Remember to put a hashtag alongside the keyword.
 
 ![](https://res.cloudinary.com/ruthchernous/image/upload/v1629799621/Social_media_q5jhjy.jpg)
 
-### **9. Amazon**
+## **9. Amazon**
 
 Reading reviews left by customers is a great way of doing research. Go to Amazon, find some books in your niche and read the reviews. This can be used as inspiration for your copywriting content.
 
-### **10. Surveys**
+## **10. Surveys**
 
 When creating surveys for research, make sure your questions include qualitative data. Qualitative data doesn’t involve numbers and usually involves open-ended questions that analyze consumer behaviours.
 
@@ -118,7 +118,7 @@ You can email your surveys, find people to complete them on social media or by a
 
 Offering a reward in exchange for completing the survey is a good way of persuading people to take part.
 
-### **11. Interviews**
+## **11. Interviews**
 
 Interviewing is a great way of validating those pain points you have spotted using the previous techniques.
 
@@ -126,7 +126,7 @@ These interviews can be held on the phone, by Skype or in person. You can interv
 
 Also if you are not familiar with a specific industry you could interview industry experts.
 
-### **12. Competitors**
+## **12. Competitors**
 
 Research doesn’t just end with finding out about the business, products and consumers. You should also be aware of their competitors.
 
@@ -136,7 +136,7 @@ You can use SEMRush to see where their competitors are getting their backlinks f
 
 You can also gauge what to include in your copy by reading what their competitors have included and left out.
 
-### **Final thoughts**
+## **Final thoughts**
 
 There is no set way of doing research. I think it all depends on the project. Sometimes you might use all these techniques to write good content if it is an industry you aren’t familiar with.
 
