@@ -10,37 +10,37 @@ tags = ["copywriting", "marketing", "writing"]
 title = "15 principles to writing good headlines"
 
 +++
-Writing content is a good way for businesses to show off their expertise and products. And for you to create a good side or full-time income. However no matter how valuable and interesting your content is. 
+Writing content is a good way for businesses to show off their expertise and products. And for you to create a good side or full-time income. However no matter how valuable and interesting your content is.
 
-Without good headlines, readers won’t click through and read your content. This is why it is important to spend enough time writing your headlines. 
+Without good headlines, readers won’t click through and read your content. This is why it is important to spend enough time writing your headlines.
 
-Some people prefer to write the headlines first and get it out of the way and others like to write the headline last. 
+Some people prefer to write the headlines first and get it out of the way and others like to write the headline last.
 
 The choice is yours and you should do whatever works for you. In this article, I will share a number of techniques I have learnt in my course as well as techniques I have found through research. So let’s get started.
 
 ## **Tell readers what the copy is about.**
 
-As an avid reader, I love to consume blog posts and online articles so I have come across my fair share of clickbait headlines. Yes, I get it. 
+As an avid reader, I love to consume blog posts and online articles so I have come across my fair share of clickbait headlines. Yes, I get it.
 
 Writing clickbait headlines does work and you will probably get the clicks you need. But what happens when your audience clicks on a headline and they find out your content has nothing to do with the headline?
 
-I am sure you have been in the same boat at some point. What did you do? Let me guess. You got frustrated and left the page. 
+I am sure you have been in the same boat at some point. What did you do? Let me guess. You got frustrated and left the page.
 
-So long story short it is better to create a headline that may not be exciting. But gets to the point and leads your readers to what is promised in your content. 
+So long story short it is better to create a headline that may not be exciting. But gets to the point and leads your readers to what is promised in your content.
 
 Than to write a headline that is clickbaity, serves no purpose and offers nothing in relation to the content. Readers don't like to be tricked into reading something.
 
 ## **Leave them feeling curious**
 
-Nobody likes to be left out. I remember being at school, overhearing my friends gossip about who is now going out with you. 
+Nobody likes to be left out. I remember being at school, overhearing my friends gossip about who is now going out with you.
 
 Immediately, I wanted in on the conversation. Your readers are the same. Give them part of the news in a headline and leave it up to them to find the rest in the content.
 
 ## **Be conversational**
 
-Copywriting isn't like academic writing. No one cares about how good your vocabulary is and how much you know if what you know isn’t beneficial to them. 
+Copywriting isn't like academic writing. No one cares about how good your vocabulary is and how much you know if what you know isn’t beneficial to them.
 
-Your readers want to feel like they are communicating with you on a friendship level. Think about it. If you were writing to a friend? How would you speak to them? 
+Your readers want to feel like they are communicating with you on a friendship level. Think about it. If you were writing to a friend? How would you speak to them?
 
 An easy way to do this is to create a persona and write to them.
 
@@ -50,9 +50,9 @@ I love asking questions in my headline. When you ask questions the natural thing
 
 ## **Evoke feelings**
 
-How many times have you been moved by a headline? Were you able to stop yourself from clicking on it? 
+How many times have you been moved by a good headline? Were you able to stop yourself from clicking on it?
 
-When you bring out strong feelings using your writing. Your readers feel inspired to take action like sharing your information with others. 
+When you bring out strong feelings using your writing. Your readers feel inspired to take action like sharing your information with others.
 
 ## **Motivate**
 
@@ -80,9 +80,9 @@ Readers love lists because the information is scannable, easy to remember and re
 
 ## **Add keywords**
 
-If you are writing online. Then this is the most important thing to do. You want your headline to contain a keyword that your readers are searching for. 
+If you are writing online. Then this is the most important thing to do. You want your headline to contain a keyword that your readers are searching for.
 
-So that it comes up in Google. You can find keywords using SEMrush or Ahfrefs. Enter your topic into a keyword search bar and look for keywords that have high search traffic and low difficulty. 
+So that it comes up in Google. You can find keywords using SEMrush or Ahfrefs. Enter your topic into a keyword search bar and look for keywords that have high search traffic and low difficulty.
 
 Low difficulty meaning that a load of other people aren’t searching for the same keywords. This gives you more chance to rank for those keywords. Keywords with 3 or more words are generally easier to rank for.
 
@@ -106,9 +106,9 @@ This is another technique mentioned by Nathan Gotch. You might have seen headlin
 
 ## **Headline formulas**
 
-For some reason when I started using headline formulas it felt like cheating but I came to realize that it isn’t and it works. 
+For some reason when I started using headline formulas it felt like cheating but I came to realize that it isn’t and it works.
 
-Headline formulas have been tested by other marketers and the fact that they are still being used means that they are effective. 
+Headline formulas have been tested by other marketers and the fact that they are still being used means that they are effective.
 
 Although, I don’t advise just picking one formula and going with it. Use different formulas to inspire you to come up with a list of different headlines.
 
@@ -120,6 +120,6 @@ There is nothing wrong with being creative in your headlines. But make sure your
 
 ## **Bottom line**
 
-Writing headlines takes some practice. I am nowhere near writing the best headlines. But I love writing and will continue to practise writing them. 
+Writing headlines takes some practice. I am nowhere near writing the best headlines. But I love writing and will continue to practise writing them.
 
 I hope you do the same using these techniques. If you enjoyed this article, please comment and tell me what techniques you have tried so far.
