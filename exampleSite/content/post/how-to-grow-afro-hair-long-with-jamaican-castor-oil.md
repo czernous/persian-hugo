@@ -85,6 +85,8 @@ If you get the oil in your eyes, don’t worry as it is safe. Simply wash your e
 
 ## **Final Thoughts**
 
-So does Jamaican castor oil really grow your hair? Well, hair comes in different textures and lengths so you can’t predict how the oil will react to yours. 
+So does Jamaican castor oil really grow your hair? Well, hair comes in different textures and lengths so you can’t predict how the oil will react to yours.
 
-But facts do state that it increases hair thickness, density, and strength which naturally will allow you to retain length. 
+But facts do state that it increases hair thickness, density, and strength which naturally will allow you to retain length.
+
+Do you struggle to find time to do your hair? check out this [simple hair routine](https://app.forestry.io/sites/j9epj9vms0w-5w/#/pages/examplesite-content-post-looking-for-a-simple-afro-hair-routine-i-got-you-md/ "Simple hair routine").
