@@ -77,12 +77,14 @@ Creating your own pomade will not only allow you to style your hair but will pro
 
 ## **Can black castor oil grow your eyelashes?**
 
-Black castor oil isn’t only used for growing your hair. It can also be used to grow your eyelashes. There are several ways to do this. You can dip a mascara brush in the oil and go over your lashes. 
+Black castor oil isn’t only used for growing your hair. It can also be used to grow your eyelashes and [eyebrows](https://www.byrdie.com/castor-oil-for-eyebrows "Grow eyebrows with castor oil"). To grow your eyelashes, dip a mascara brush in the oil and go over your lashes.
 
-If you don’t have a mascara brush, you can use an eyeliner brush. Alternatively, you can just dip your finger in the castor oil and spread it across your lashes and then let it absorb. 
+If you don’t have a mascara brush, you can use an eyeliner brush. Alternatively, you can just dip your finger in the castor oil and spread it across your lashes and then let it absorb.
 
 If you get the oil in your eyes, don’t worry as it is safe. Simply wash your eyes with water.
 
 ## **Final Thoughts**
 
-So does Jamaican castor oil really grow your hair? Well, hair comes in different textures and lengths so you can’t predict how the oil will react to yours. But facts do state that it increases hair thickness, density, and strength which naturally will allow you to retain length.
+So does Jamaican castor oil really grow your hair? Well, hair comes in different textures and lengths so you can’t predict how the oil will react to yours. 
+
+But facts do state that it increases hair thickness, density, and strength which naturally will allow you to retain length. 
