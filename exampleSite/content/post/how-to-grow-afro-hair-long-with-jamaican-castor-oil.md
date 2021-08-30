@@ -2,9 +2,8 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = 2021-08-30T12:00:00Z
+date = 2021-08-30T12:48:00Z
 description = "Grow afro hair long with Jamaican castor oil"
-draft = true
 image = "/v1630173057/Long_afro_hair_syp0vh.jpg"
 tags = ["Hair", "Beauty", "Health"]
 title = "How to grow afro hair long with Jamaican castor oil"
