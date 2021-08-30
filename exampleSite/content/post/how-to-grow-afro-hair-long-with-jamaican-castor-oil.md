@@ -6,14 +6,14 @@ date = 2021-08-30T12:48:00Z
 description = "Grow afro hair long with Jamaican castor oil"
 image = "/v1630173057/Long_afro_hair_syp0vh.jpg"
 tags = ["Hair", "Beauty", "Health"]
-title = "How to grow afro hair long with Jamaican castor oil"
+title = "How to use Jamaican black castor oil for hair growth"
 
 +++
 As black women, our curly hair strands make it difficult for natural oils to travel down the hair shaft making it susceptible to breakage.
 
-Giving us the label “ black hair doesn’t grow”. However, there are certain things we can do to prevent this like adding Jamaican black castor oil to your hair regime.
+Giving us the label “ black hair doesn’t grow”. However, there are certain things we can do to prevent this like using Jamaican black castor oil.
 
-## **What is black castor oil?**
+## **Castor oil vs Jamaican black castor oil**
 
 Castor oil comes from the seed Ricinus Communis. It is found in Eastern Africa, India and the Mediterranean. The oil is extracted from the seed and cold-pressed giving it a pale yellow colour.
 
@@ -45,7 +45,7 @@ Also, the smell can be overwhelming but adding essential oils like Lavender and 
 
 ![](https://res.cloudinary.com/ruthchernous/image/upload/v1630173115/Long_afro_braids_ykzhbv.jpg)
 
-## **How do you use Jamaican castor oil for hair growth?**
+## **How do you use Jamaican black castor oil for hair growth?**
 
 **_For shampooing your hair_**
 
@@ -75,7 +75,7 @@ Creating your own pomade will not only allow you to style your hair but will pro
 * Add some essential oils to the mixture. Don’t use more than 2 drops of essential oils to 1 tbsp of castor oil and beeswax
 * Pour the pomade into the tin and allow it to cool
 
-## **Can black castor oil grow your eyelashes?**
+## **Can Jamaican black castor oil grow your eyelashes?**
 
 Black castor oil isn’t only used for growing your hair. It can also be used to grow your eyelashes and [eyebrows](https://www.byrdie.com/castor-oil-for-eyebrows "Grow eyebrows with castor oil"). To grow your eyelashes, dip a mascara brush in the oil and go over your lashes.
 
