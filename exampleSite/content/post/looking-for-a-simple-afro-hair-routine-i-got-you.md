@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = 2021-08-29T12:00:00Z
+date = 2021-08-29T12:12:00Z
 description = "Struggle to look after your afro hair? Check out this simple afro hair routine."
 draft = true
 image = "/v1630169959/Afro_hair_xtzncw.jpg"
