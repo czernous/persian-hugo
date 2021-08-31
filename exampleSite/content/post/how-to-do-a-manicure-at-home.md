@@ -27,7 +27,9 @@ It was the belief that the longer nails you had, the wealthier you were because 
 
 Red nail polish was used by the upper class and lower class women were forced to stick to paler colours.
 
-Before the Chinese, Babylonian men would paint their nails to show their rank. Black Kohl was used by high-class men and the low class would use green. Cleopatra and [Queen Nefertiti](https://www.marieclaire.com/beauty/makeup/a9570/history-of-manicures/ "Manicure history") were fond of covering their hands in oils and applying henna to their nails to show off their status.
+Before the Chinese, Babylonian men would paint their nails to show their rank. Black Kohl was used by high-class men and the low class would use green.
+
+Cleopatra and [Queen Nefertiti](https://www.marieclaire.com/beauty/makeup/a9570/history-of-manicures/ "Manicure history") were fond of covering their hands in oils and applying henna to their nails to show off their status.
 
 ## **When did manicures become popular?**
 
