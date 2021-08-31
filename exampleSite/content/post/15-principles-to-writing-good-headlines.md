@@ -5,7 +5,7 @@ cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-09-01T12:00:00Z
 description = "Stop turning readers away by using these techniques to write good headlines"
 draft = true
-image = ""
+image = "/v1630429114/Writing_good_headlines_ywhhrs.jpg"
 tags = ["copywriting", "marketing", "writing"]
 title = "15 principles to writing good headlines"
 
@@ -16,7 +16,7 @@ Without good headlines, readers won’t click through and read your content. Thi
 
 Some people prefer to write the headlines first and get it out of the way and others like to write the headline last.
 
-The choice is yours and you should do whatever works for you. In this article, I will share a number of techniques I have learnt in my course as well as techniques I have found through research. So let’s get started.
+The choice is yours and you should do whatever works for you. In this article, I will share with you some principles for headline writing that I have learnt in my course. As well as techniques I have found through research. So let’s dive in.
 
 ## **Tell readers what the copy is about.**
 
@@ -47,6 +47,8 @@ An easy way to do this is to create a persona and write to them.
 ## **Questions**
 
 I love asking questions in my headline. When you ask questions the natural thing is to want to find out what the answer is. Your content is the perfect opportunity to provide those answers to your readers.
+
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1630429230/Asking_questions_in_headlines_ouu7vx.jpg)
 
 ## **Evoke feelings**
 
@@ -80,7 +82,7 @@ Readers love lists because the information is scannable, easy to remember and re
 
 ## **Add keywords**
 
-If you are writing online. Then this is the most important thing to do. You want your headline to contain a keyword that your readers are searching for.
+Writing headlines online and for blogs differ from writing for print. Headlines in this case need to contain keywords that your readers are searching for.
 
 So that it comes up in Google. You can find keywords using SEMrush or Ahfrefs. Enter your topic into a keyword search bar and look for keywords that have high search traffic and low difficulty.
 
