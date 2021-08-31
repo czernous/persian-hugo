@@ -142,4 +142,4 @@ There is no set way of doing research. I think it all depends on the project. So
 
 Or you might only need to use one of these methods if you are writing about a topic you are comfortable with. The most important thing is that your content brings something new to the table and offers value to your readers.
 
-Are you interested in using copywriting to drive leads to your website? If so [drop me a line.](https://www.ruthchernous.com/contact/ "Contact me")
+Need help using content writing to drive leads to your website? If so [drop me a line.](https://www.ruthchernous.com/contact/ "Contact me")
