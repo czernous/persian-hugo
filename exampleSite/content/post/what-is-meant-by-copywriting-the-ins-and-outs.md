@@ -70,27 +70,27 @@ Another option is to used [headline formulas.](https://copyblogger.com/10-sure-f
 
 ## **What skills are needed to be a copywriter?**
 
-### **Writing**
+### Writing
 
 Obviously, you need to be able to write well. But writing doesn’t just include jotting down your thoughts on a piece of paper. You need to be able to write in different voices, styles and for different types of content.
 
-### **Research**
+### Research
 
 Without good research, writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
 
-### **Editing and Proofreading**
+### Editing and Proofreading
 
 This stage requires you to read through your content and rearrange elements that don't fit together. Remember to check for grammar and punctuation mistakes. Of course, no one is perfect which is why using tools like Grammarly helps.
 
-### **Good vocabulary**
+### Good vocabulary
 
 Luckily I was a language teacher before getting into this career. So my vocabulary wasn't too bad, to begin with. But if you feel this isn’t your strong suit, you can improve your vocabulary by reading books which leads to my next point.
 
-### **Reading**
+### Reading
 
 Let's face it, to be a better writer you need to read. Reading helps you see how to structure a piece of writing which is useful when creating your own content.
 
-### **Curiosity**
+### Curiosity
 
 I will be honest here. If you’re not a curious person, you might struggle in this field. You should want to dive deep into a topic not because it is expected from your client but because you want to.
 
@@ -106,19 +106,19 @@ Personally, I think it is a good idea to write for an industry that you have exp
 
 That way it is easy for you to differentiate from your competition and charge more money.
 
-### **Pitching**
+### Pitching
 
 Finding a niche isn’t enough. It is also important to do some background research on the companies you want to work for. List them down and follow them on social media.
 
 Keep notes on what type of content they produce. This will help when you approach them as you will already be familiar with their company.
 
-### **Social media and blogging**
+### Social media and blogging
 
 When it comes to offering your services, social media and blogging are your best friend. Start a blog showcasing your skills and knowledge in copywriting or the industry you are specializing in.
 
 Also, optimize your content with keywords used by companies or individuals you want to work for.
 
-### **Upwork**
+### Upwork
 
 Finding copywriting jobs is not for the faint-hearted. You might get rejections but don’t give up.
 
@@ -126,13 +126,13 @@ I started off working with a company on Upwork. Even though I was getting $10 fo
 
 I focused on getting experience rather than on getting money. However, don’t get caught up with doing this for a long period of time. Always have a time limit in mind and part ways when you are ready.
 
-### **Job boards**
+### Job boards
 
 Some people may not fancy Upwork. So in this case sites like Pro blogger and Freelance copywriting jobs are useful for finding gigs.
 
 If you struggle to find jobs in your niche. Don’t let your lack of experience hold you back. Look at what is listed, the requirements and write tailored samples for those specifications.
 
-### **Agencies**
+### Agencies
 
 These guys are often looking for writers to work with. Send them an introductory letter and share information about yourself and your copywriting experience. Look for marketing and web design agencies or agencies in your niche.
 
