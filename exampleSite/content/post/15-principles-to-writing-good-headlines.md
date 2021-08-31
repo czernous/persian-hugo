@@ -123,4 +123,8 @@ There is nothing wrong with being creative in your headlines. But make sure your
 
 Writing headlines takes some practice. I am nowhere near writing the best headlines. But I love writing and will continue to practise writing them.
 
-I hope you do the same using these techniques. If you enjoyed this article, please comment and tell me what techniques you have tried so far.
+I hope you do the same using these techniques. 
+
+Are you looking for someone who can create engaging headlines that persuades users to click on you content?
+
+If so I can help. Don't hesitate to [send me an email.](https://www.ruthchernous.com/contact/ "Contact me")
