@@ -89,4 +89,4 @@ So does Jamaican castor oil really grow your hair? Well, hair comes in different
 
 But facts do state that it increases hair thickness, density, and strength which naturally will allow you to retain length.
 
-Wanting a writer well versed in writing articles in the afro hair niche. [Contact me](https://www.ruthchernous.com/contact/ "Contact me")
+Are you anting a writer well versed in writing articles in the afro hair niche. [Contact me](https://www.ruthchernous.com/contact/ "Contact me")
