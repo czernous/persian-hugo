@@ -113,4 +113,4 @@ Let your nails dry for 5 minutes. Follow up with applying cuticle oil to your cu
 
 Doing your manicure at home is fun and simple to do. With just investing in a few items you can start doing your own manicures at home in no time.
 
-Looking for nail content to drive traffic to you business. [Message me.  ]()
+Looking for nail content to drive traffic to your business. [Message me.  ]()
