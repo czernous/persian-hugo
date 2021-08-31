@@ -21,9 +21,11 @@ So in this article, I will share with you a simple manicure you can do at home. 
 
 ## **What is the origin of the manicure?**
 
-According to the [Guardian](https://www.theguardian.com/fashion/2021/jan/27/from-ancient-egypt-to-cardi-b-a-cultural-history-of-the-manicure "origin of the manicure"), Chinese women would dip their nails in egg white, gelatine, beeswax and dyes from flowers. It was the belief that the longer nails you had, the wealthier you were. 
+According to the [Guardian](https://www.theguardian.com/fashion/2021/jan/27/from-ancient-egypt-to-cardi-b-a-cultural-history-of-the-manicure "origin of the manicure"), Chinese women would dip their nails in egg white, gelatine, beeswax and dyes from flowers. 
 
-Because working-class people often worked in the fields and were unable to grow and keep their nails in good condition. Red nail polish was used by the upper class and lower class women were forced to stick to paler colours.
+It was the belief that the longer nails you had, the wealthier you were because the working-class often worked in the fields. So they were unable to grow and keep their nails in good condition. 
+
+Red nail polish was used by the upper class and lower class women were forced to stick to paler colours.
 
 Before the Chinese, Babylonian men would paint their nails to show their rank. Black Kohl was used by high-class men and the low class would use green. Cleopatra and [Queen Nefertiti](https://www.marieclaire.com/beauty/makeup/a9570/history-of-manicures/ "Manicure history") were fond of covering their hands in oils and applying henna to their nails to show off their status.
 
