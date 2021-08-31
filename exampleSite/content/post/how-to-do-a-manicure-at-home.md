@@ -17,9 +17,21 @@ Damage to your cuticles can be caused by biting your nails, trimming your cuticl
 
 By having regular manicures as part of your self-care routine. Doing a DIY manicure is easy. In fact, with just a few items under your sleeve, you can do your nails from the comfort of your kitchen table.
 
-So in this article, I will share with you a simple manicure you can do at home.
+So in this article, I will share with you a simple manicure you can do at home. But before we start let's have a look at how manicures began.
 
-**Materials**
+## **What is the origin of the manicure?**
+
+According to the [Guardian](https://www.theguardian.com/fashion/2021/jan/27/from-ancient-egypt-to-cardi-b-a-cultural-history-of-the-manicure "origin of the manicure"), Chinese women would dip their nails in egg white, gelatine, beeswax and dyes from flowers. It was the belief that the longer nails you had, the wealthier you were. 
+
+Because working-class people often worked in the fields and were unable to grow and keep their nails in good condition. Red nail polish was used by the upper class and lower class women were forced to stick to paler colours.
+
+Before the Chinese, Babylonian men would paint their nails to show their rank. Black Kohl was used by high-class men and the low class would use green. Cleopatra and [Queen Nefertiti](https://www.marieclaire.com/beauty/makeup/a9570/history-of-manicures/ "Manicure history") were fond of covering their hands in oils and applying henna to their nails to show off their status.
+
+## **When did manicures become popular?**
+
+The 20s era saw young women painting their nails with car paint. During that period Revlon began manufacturing nail polish and drove it to the masses. Leading to the french manicure trend. Now you have a backstory into how the manicure began. Let's get started with how to do a manicure at home.
+
+**You will need:**
 
 Nail file
 
