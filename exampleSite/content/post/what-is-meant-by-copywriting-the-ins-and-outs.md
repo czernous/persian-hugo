@@ -35,7 +35,7 @@ I have named several but the list isn’t extensive. There are more types of cop
 
 ## **What exactly does a copywriter do?**
 
-### **If you are working for an agency you will:**
+### If you are working for an agency you will:
 
 * Be sent a brief and examples of similar content liked by their clients.
 * Given keywords and background information on the company, you are writing for.
@@ -44,7 +44,7 @@ I have named several but the list isn’t extensive. There are more types of cop
 * Proofread and edit your content.
 * Submit your content and make any revisions.
 
-### **What does a freelance copywriter do?**
+### What does a freelance copywriter do?
 
 * Find companies to pitch to.
 * Set up a phone call to find out more about the client goals.
