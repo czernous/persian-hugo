@@ -24,7 +24,7 @@ I enrolled on a PGCE program. But again something didn't feel right. So, I dropp
 
 I used the remnants of my student loan to pay for a course in Teaching English as a Foreign Language. After a month of intensive training, I received my TESOL certificate.
 
-The next thing I knew I was jetting off to Spain to teach. Spain led to teaching to Vietnam. After years of living in Vietnam and in other countries.
+The next thing I knew I was jetting off to Spain to teach. Spain led to teaching in Vietnam. After years of living in Vietnam and in other countries.
 
 I kept thinking of how much I would love to own my own online business. I had worked remotely before as some of my teaching days included teaching online. So I felt comfortable working independently.
 
