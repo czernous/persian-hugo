@@ -26,7 +26,7 @@ I used the remnants of my student loan to pay for a course in Teaching English a
 
 The next thing I knew I was jetting off to Spain to teach. Spain led to teaching in Vietnam. After years of living in Vietnam and in other countries.
 
-I kept thinking of how much I would love to own my own online business. I had worked remotely before as some of my teaching days included teaching online. So I felt comfortable working independently.
+I kept being bombarded with thoughts of owning an online business. I had worked remotely before as some of my teaching days included teaching online. So I felt comfortable working independently.
 
 I got online and researched ways to make money. I came across print on demand. So I decided to use my designing skills to create an activewear brand. Although, I knew how to design I had no idea about marketing and my business venture came to a quick close.
 
