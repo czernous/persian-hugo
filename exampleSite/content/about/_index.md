@@ -8,13 +8,13 @@ description: Need to drive sales to your business?
 
 Just here sharing my curiosities with you.
 
-## **Work with me**
+## **Need content writing?**
 
 Interested in working with me? I help small businesses in the beauty niche drive traffic to their website by writing engaging, well researched, optimised blog posts that will increase their business revenue.
 
 Need help generating quality leads? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
 
-## **My story**
+## **My story before copywriting**
 
 After studying for a degree in Art and Textile Design. The dreaded thought "what do I do next haunted me?". So I picked up any job and worked as a care assistant for a number of years. 
 
