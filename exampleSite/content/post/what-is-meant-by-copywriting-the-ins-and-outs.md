@@ -9,11 +9,9 @@ tags = ["copywriting", "marketing", "writing"]
 title = "Ever wondered? What does a copywriter do?"
 
 +++
-Before beginning my journey as a copywriter I had no idea what copywriting was. It never crossed my mind " what does a copywriter do?" 
+Before beginning my journey as a copywriter I had no idea what copywriting was. A friend once spoke about doing copywriting as a side gig alongside teaching and I remember thinking to myself " what does a copywriter even do?"
 
-I knew I was interested in marketing. But it wasn’t till I delved deeper into digital marketing, copywriting found me.
-
-The funny thing is before then, I saw copywriting everywhere. In ads, on billboards, I was even doing it on social media.
+Weirdly, I didn't ask and didn't think about it till my interest in online marketing began. The funny thing is before then, I saw copywriting everywhere. In ads, on billboards, I was even doing it on social media without realising.
 
 So if you’re sitting there wondering the same thing. Don’t worry I have you covered.
 
@@ -21,7 +19,7 @@ In this article, I will write about what copywriting entails and how to find wor
 
 ## **What is copywriting and how does it work?**
 
-So what is meant by copywriting? Copywriting is the act of using words to sell or promote a service or product. A copywriter might write:
+So what is meant by copywriting? Copywriting is the act of using words to sell a service or product. A copywriter might write:
 
 * **Slogans**: A short phrase used in advertising. Some famous ones are finger-licking good (KFC), Just do it - (Nike), I’m loving it - (Mcdonalds).
 * **Brochures**: A book created by a business selling its products or services.
@@ -60,7 +58,7 @@ I have named several but the list isn’t extensive. There are more types of cop
 
 ## **What do you need to do to become a copywriter?**
 
-Luckily you don’t have any qualifications to become a copywriter. However, it is advisable that you sign up for one. Doing copywriting courses allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
+Luckily you don’t have any qualifications to become a copywriter. However, it is advisable that you sign up for one. Doing a copywriting course allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
 
 However, not everyone can afford to pay for a course. In this situation, you can teach yourself. To begin, find examples of different types of content. Some examples are leaflets that come in your postbox, promotional emails and articles. Think of ways you could rewrite these.
 
@@ -86,7 +84,7 @@ This stage requires you to read through your content and rearrange elements that
 
 **Good vocabulary**
 
-Luckily I was a language teacher before getting into this career. So my vocabulary isn’t too bad. If you feel this isn’t your strong suit, you can improve your vocabulary by reading books which leads to my next point.
+Luckily I was a language teacher before getting into this career. So my vocabulary wasn't too bad, to begin with. But if you feel this isn’t your strong suit, you can improve your vocabulary by reading books which leads to my next point.
 
 **Reading**
 
