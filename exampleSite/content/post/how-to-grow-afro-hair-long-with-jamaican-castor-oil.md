@@ -47,7 +47,7 @@ Also, the smell can be overwhelming but adding essential oils like Lavender and 
 
 ## **How do you use Jamaican black castor oil for hair growth?**
 
-### **_For shampooing your hair_**
+### For shampooing your hair
 
 Washing your hair with shampoos can strip the natural oils making it dry and prone to breakage. Pre-pooing your hair with castor oil will protect and leave it moisturised throughout the washing process.
 
@@ -55,15 +55,15 @@ Washing your hair with shampoos can strip the natural oils making it dry and pro
 * Leave for 4-8 hours
 * Shampoo your hair
 
-### **_For moisturizing your hair_**
+### For moisturizing your hair
 
 Apply the oil to your scalp. Massage the oil with your fingers or use a scalp massager. You can get these on Amazon for a decent price. Massaging your scalp will enable faster hair growth by stimulating your hair follicles.
 
-### **_For conditioning your hair_**
+### For conditioning your hair
 
 We all know conditioning strengthens your hair and prevents it from damage. Apply the oil straight onto your hair. Put on a plastic cap and sit under a heat cap for 30 minutes. Then rinse. Alternatively, leave it overnight and rinse it out in the morning.
 
-### **_For styling your hair_**
+### For styling your hair
 
 Creating your own pomade will not only allow you to style your hair but will provide you with other benefits. To begin:
 
