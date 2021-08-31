@@ -21,9 +21,9 @@ So in this article, I will share with you a simple manicure you can do at home. 
 
 ## **What is the origin of the manicure?**
 
-According to the [Guardian](https://www.theguardian.com/fashion/2021/jan/27/from-ancient-egypt-to-cardi-b-a-cultural-history-of-the-manicure "origin of the manicure"), Chinese women would dip their nails in egg white, gelatine, beeswax and dyes from flowers. 
+According to the [Guardian](https://www.theguardian.com/fashion/2021/jan/27/from-ancient-egypt-to-cardi-b-a-cultural-history-of-the-manicure "origin of the manicure"), Chinese women would dip their nails in egg white, gelatine, beeswax and dyes from flowers.
 
-It was the belief that the longer nails you had, the wealthier you were because the working-class often worked in the fields. So they were unable to grow and keep their nails in good condition. 
+It was the belief that the longer nails you had, the wealthier you were because the working-class often worked in the fields. So they were unable to grow and keep their nails in good condition.
 
 Red nail polish was used by the upper class and lower class women were forced to stick to paler colours.
 
@@ -33,7 +33,7 @@ Cleopatra and [Queen Nefertiti](https://www.marieclaire.com/beauty/makeup/a9570/
 
 ## **When did manicures become popular?**
 
-The 20s era saw young women painting their nails with car paint. During that period Revlon began manufacturing nail polish and drove it to the masses. 
+The 20s era saw young women painting their nails with car paint. During that period Revlon began manufacturing nail polish and drove it to the masses.
 
 Leading to the french manicure trend. Now you have a backstory into where the manicure originated from. Let's get started with how to do a manicure at home.
 
@@ -65,7 +65,7 @@ Cuticle remover (optional)
 
 ## **Step 1- Remove your nail polish**
 
-A manicure at home starts with cleaning your nails with nail polish remover and a cotton pad. 
+A manicure at home starts with cleaning your nails with nail polish remover and a cotton pad.
 
 There are 2 types of nail polish: acetone and non-acetone. I always use an acetone-based one as the non-acetone is for use on false nails.
 
@@ -73,7 +73,7 @@ Wash your hands afterwards. If you don’t have any previous nail polish do this
 
 ## **Step 2 - Clip, File and Buff your nails**
 
-Using a nail clipper, clip your nail to the desired length and file them to a shape of your choice. 
+Using a nail clipper, clip your nail to the desired length and file them to a shape of your choice.
 
 The 6 main shapes are square, coffin, oval, squoval, almond, coffin, and stiletto. I opted for a square one as this is my natural shape and I wanted to enhance it.
 
@@ -113,4 +113,4 @@ Let your nails dry for 5 minutes. Follow up with applying cuticle oil to your cu
 
 Doing your manicure at home is fun and simple to do. With just investing in a few items you can start doing your own manicures at home in no time.
 
-So why not try this at home and let me know how you got on in the comments below.
+Looking for nail content to drive traffic to you business. [Message me.  ]()
