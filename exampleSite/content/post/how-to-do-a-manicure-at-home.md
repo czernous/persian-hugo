@@ -57,7 +57,7 @@ Using a nail clipper, clip your nail to the desired length and file them to a sh
 
 ## **Step 3 - Soak your nails**
 
-Fill a small bowl with lukewarm water and a few drops of essential oils. Soak for 3 minutes on each hand. This softens the cuticle and gets them ready to be pushed back.
+Fill a small bowl with lukewarm water and a few drops of essential oils. If you don't have essential oils. There are other ways to [soak your nails](https://bellezzaspava.com/7-great-ways-soak-nails-before-manicure/). Soak for 3 minutes on each hand. This softens the cuticle and gets them ready to be pushed back.
 
 ![](https://res.cloudinary.com/ruthchernous/image/upload/v1630167460/Blue_manicure_wq7dzr.jpg)
 
