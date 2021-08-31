@@ -15,7 +15,7 @@ But a lack of nail care can lead to infections. This is because your nail cuticl
 
 Damage to your cuticles can be caused by biting your nails, trimming your cuticles, using too much nail polish remover or having a vitamin deficiency. So how can damage be prevented?
 
-By having regular manicures as part of your self-care routine. Getting a manicure doesn’t have to be complicated or expensive. In fact, with just a few items under your sleeve, you can do your nails from the comfort of your kitchen table.
+By having regular manicures as part of your self-care routine. Doing a DIY manicure is easy. In fact, with just a few items under your sleeve, you can do your nails from the comfort of your kitchen table.
 
 So in this article, I will share with you a simple manicure you can do at home.
 
@@ -59,7 +59,7 @@ Using a nail clipper, clip your nail to the desired length and file them to a sh
 
 Fill a small bowl with lukewarm water and a few drops of essential oils. If you don't have essential oils. There are other ways to [soak your nails](https://bellezzaspava.com/7-great-ways-soak-nails-before-manicure/). Soak for 3 minutes on each hand. This softens the cuticle and gets them ready to be pushed back.
 
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1630167460/Blue_manicure_wq7dzr.jpg)
+![Manicure with green nail polish](https://res.cloudinary.com/ruthchernous/image/upload/v1630167460/Blue_manicure_wq7dzr.jpg "Manicure at home")
 
 ## **Step 4 - Push back cuticles**
 
@@ -89,6 +89,6 @@ Let your nails dry for 5 minutes. Follow up with applying cuticle oil to your cu
 
 ## **Conclusion**
 
-Doing your manicure at home is fun and easy to do. With just investing in a few items you can start doing your own manicures at home in no time.
+Doing your manicure at home is fun and simple to do. With just investing in a few items you can start doing your own manicures at home in no time.
 
 So why not try this at home and let me know how you got on in the comments below.
