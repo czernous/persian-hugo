@@ -54,7 +54,7 @@ I have named several but the list isn’t extensive. There are more types of cop
 * Edit and proofread the content.
 * Submit and make any revisions.
 
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1629800102/Pitching_vbxram.jpg)
+![Pitching to a copywriting client](https://res.cloudinary.com/ruthchernous/image/upload/v1629800102/Pitching_vbxram.jpg "Pitching")
 
 ## **How to become a copywriter**
 
@@ -146,7 +146,7 @@ Some copywriters charge per word, others charge per hour or per project. It is s
 
 I think a fixed price for the whole project works well as there are no hidden costs for the clients. Always take a 50% deposit upfront. So clients don’t disappear without paying you.
 
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1629800249/Money_ibzlcd.jpg)
+![A jar filled with coins ](https://res.cloudinary.com/ruthchernous/image/upload/v1629800249/Money_ibzlcd.jpg "Copywriting salary")
 
 ## **The bottom line**
 
