@@ -3,7 +3,7 @@ author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-08-28T16:19:00Z
-description = "Learn how to do a manicure at home"
+description = "Getting a manicure doesn't have to break the bank. With this easy tutorial you can start doing your own manicure at home."
 image = "/v1630167261/manicure_xsm4w2.jpg"
 tags = ["Manicure", "Nails", "Beauty"]
 title = "Who else wants to know how to do a manicure at home?"
@@ -47,7 +47,7 @@ Cuticle remover (optional)
 
 ## **Step 1- Remove your nail polish**
 
-A manicure starts with cleaning your nails with nail polish remover and a cotton pad. There are 2 types of nail polish: acetone and non-acetone. I always use an acetone-based one as the non-acetone is for use on false nails.
+A manicure at home starts with cleaning your nails with nail polish remover and a cotton pad. There are 2 types of nail polish: acetone and non-acetone. I always use an acetone-based one as the non-acetone is for use on false nails.
 
 Wash your hands afterwards. If you don’t have any previous nail polish do this step anyway as it removes dirt and debris from the nail and will give you a better finish.
 
@@ -89,6 +89,6 @@ Let your nails dry for 5 minutes. Follow up with applying cuticle oil to your cu
 
 ## **Conclusion**
 
-Manicures are fun and easy to do with just investing in a few items. You can start doing your own manicures in no time.
+Doing your manicure at home is fun and easy to do. With just investing in a few items you can start doing your own manicures at home in no time.
 
 So why not try this at home and let me know how you got on in the comments below.
