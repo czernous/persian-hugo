@@ -47,7 +47,7 @@ Also, the smell can be overwhelming but adding essential oils like Lavender and 
 
 ## **How do you use Jamaican black castor oil for hair growth?**
 
-**_For shampooing your hair_**
+### **_For shampooing your hair_**
 
 Washing your hair with shampoos can strip the natural oils making it dry and prone to breakage. Pre-pooing your hair with castor oil will protect and leave it moisturised throughout the washing process.
 
@@ -55,22 +55,22 @@ Washing your hair with shampoos can strip the natural oils making it dry and pro
 * Leave for 4-8 hours
 * Shampoo your hair
 
-**_For moisturizing your hair_**
+### **_For moisturizing your hair_**
 
 Apply the oil to your scalp. Massage the oil with your fingers or use a scalp massager. You can get these on Amazon for a decent price. Massaging your scalp will enable faster hair growth by stimulating your hair follicles.
 
-**_For conditioning your hair_**
+### **_For conditioning your hair_**
 
 We all know conditioning strengthens your hair and prevents it from damage. Apply the oil straight onto your hair. Put on a plastic cap and sit under a heat cap for 30 minutes. Then rinse. Alternatively, leave it overnight and rinse it out in the morning.
 
-**_For styling your hair_**
+### **_For styling your hair_**
 
 Creating your own pomade will not only allow you to style your hair but will provide you with other benefits. To begin:
 
 * Get a tin and sterilize it with some rubbing alcohol
 * Melt the same amount of beeswax and castor oil. You can also use petroleum jelly instead of beeswax.
 * Fill a pan halfway with water and put it on a stove
-* Put a bowl inside the pan. Add the wax and castor oil in the bowl
+* Put a bowl inside the pan. Add the wax and castor oil to the bowl
 * Once it has melted, mix and let it cool down
 * Add some essential oils to the mixture. Don’t use more than 2 drops of essential oils to 1 tbsp of castor oil and beeswax
 * Pour the pomade into the tin and allow it to cool
