@@ -22,7 +22,7 @@ As much as I loved care something was missing. It didn't cater to my creative na
 
 I enrolled on a PGCE program. But again something didn't feel right. So, I dropped out of my PGCE. Penniless and desperate I knew I had to get my life together fast.
 
-So, I used the remnants of my student loan to pay for a course in Teaching English as a Foreign Language. After a month of intensive training, I received my TESOL certificate.
+I used the remnants of my student loan to pay for a course in Teaching English as a Foreign Language. After a month of intensive training, I received my TESOL certificate.
 
 The next thing I knew I was jetting off to Spain to teach English. Spain led to teaching to Vietnam. After years of living in Vietnam and in other countries.
 
