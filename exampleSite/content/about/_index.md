@@ -28,7 +28,7 @@ The next thing I knew I was jetting off to Spain to teach. Spain led to teaching
 
 I kept being bombarded with thoughts of owning an online business. I had worked remotely before as some of my teaching days included teaching online. So I felt comfortable working independently.
 
-I got online and researched ways to make money. I came across print on demand. So I decided to use my designing skills to create an activewear brand. Although, I knew how to design I had no idea about marketing and my business venture came to a quick close.
+I got online and researched ways to make money. I came across print on demand. So I decided to use my designing skills to create an activewear brand. Although, I knew how to design I had no idea about marketing so my business venture came to a quick close.
 
 It was then I took it upon myself to figure out this thing called marketing. Since then, I have dedicated time to studying this topic.
 
