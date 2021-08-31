@@ -10,7 +10,7 @@ Just here sharing my curiosities with you.
 
 ## **Need content writing?**
 
-Interested in working with me? I help small UK businesses in the beauty niche drive traffic to their website by writing engaging, well researched, optimised blog posts.
+Interested in working with me? I help small UK businesses in the beauty niche drive traffic to their website by writing engaging, optimised and well-researched blog posts.
 
 Need help generating quality leads? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
 
