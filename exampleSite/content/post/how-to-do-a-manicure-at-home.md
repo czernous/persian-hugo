@@ -33,7 +33,9 @@ Cleopatra and [Queen Nefertiti](https://www.marieclaire.com/beauty/makeup/a9570/
 
 ## **When did manicures become popular?**
 
-The 20s era saw young women painting their nails with car paint. During that period Revlon began manufacturing nail polish and drove it to the masses. Leading to the french manicure trend. Now you have a backstory into how the manicure began. Let's get started with how to do a manicure at home.
+The 20s era saw young women painting their nails with car paint. During that period Revlon began manufacturing nail polish and drove it to the masses. 
+
+Leading to the french manicure trend. Now you have a backstory into where the manicure originated from. Let's get started with how to do a manicure at home.
 
 **You will need:**
 
@@ -63,13 +65,17 @@ Cuticle remover (optional)
 
 ## **Step 1- Remove your nail polish**
 
-A manicure at home starts with cleaning your nails with nail polish remover and a cotton pad. There are 2 types of nail polish: acetone and non-acetone. I always use an acetone-based one as the non-acetone is for use on false nails.
+A manicure at home starts with cleaning your nails with nail polish remover and a cotton pad. 
+
+There are 2 types of nail polish: acetone and non-acetone. I always use an acetone-based one as the non-acetone is for use on false nails.
 
 Wash your hands afterwards. If you don’t have any previous nail polish do this step anyway as it removes dirt and debris from the nail and will give you a better finish.
 
 ## **Step 2 - Clip, File and Buff your nails**
 
-Using a nail clipper, clip your nail to the desired length and file them to a shape of your choice. The 6 main shapes are square, coffin, oval, squoval, almond, coffin, and stiletto. I opted for a square one as this is my natural shape and I wanted to enhance it.
+Using a nail clipper, clip your nail to the desired length and file them to a shape of your choice. 
+
+The 6 main shapes are square, coffin, oval, squoval, almond, coffin, and stiletto. I opted for a square one as this is my natural shape and I wanted to enhance it.
 
 ## **Step 3 - Soak your nails**
 
