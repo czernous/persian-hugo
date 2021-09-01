@@ -152,4 +152,4 @@ I think a fixed price for the whole project works well as there are no hidden co
 
 Now you know the ins and outs of being a copywriter. I think copywriting is a great career because it is in demand with excellent chances of growth and income. And best of all you don’t need any qualifications to get started.
 
-Need help sending traffic to your website?[ Message me.](https://www.ruthchernous.com/contact/ "Contact me")
+In search of quality content that sends traffic to your website?[ Message me.](https://www.ruthchernous.com/contact/ "Contact me")
