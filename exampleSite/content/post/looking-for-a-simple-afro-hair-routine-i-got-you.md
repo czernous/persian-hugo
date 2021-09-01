@@ -39,7 +39,7 @@ Some people prefer to leave it in for a couple of hours or sometimes overnight.
 
 Hair must be cleaned with shampoo to remove dirt from the scalp. There are different types of shampoos available; moisturising, volumising, dandruff and more.
 
-But a clarifying shampoo will help remove build-up. However, only use these monthly as it can dry out your hair.
+But a clarifying shampoo will help remove build-up. However, only use it monthly as it can dry out your hair.
 
 Apple cider vinegar can also be used instead of shampoos to cleanse your hair. When using apple cider vinegar, dilute 1 part of apple cider with 3 parts of water.
 
