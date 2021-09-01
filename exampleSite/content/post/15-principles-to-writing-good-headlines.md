@@ -125,6 +125,6 @@ Writing headlines takes some practice. I am nowhere near writing the best headli
 
 I hope you do the same using these techniques.
 
-Are you looking for someone who can create engaging headlines that persuades users to click on your content?
+If you need help creating engaging headlines that persuade users to click on your content?
 
-If so I can help. Don't hesitate to [send me an email.](https://www.ruthchernous.com/contact/ "Contact me")
+Don't hesitate to [send me an email.](https://www.ruthchernous.com/contact/ "Contact me")
