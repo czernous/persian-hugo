@@ -32,8 +32,8 @@ I got online and researched ways to make money. I came across print on demand. S
 
 It was then I took it upon myself to figure out this thing called marketing. Since then, I have dedicated time to studying this topic.
 
-I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I also love to read blogs and Youtube videos on this topic. So it seemed natural to put my knowledge to good use by creating this blog.
+I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I also love to read blogs and watch Youtube videos on this topic. So it seemed natural to put my knowledge to good use by creating this blog.
 
-As well as reading marketing content, consuming fashion and beauty magazines is something I do on a regular basis. So again it made sense for me to use my newfound writing skills to help businesses in this sector.
+As well as reading marketing content,  I am very passionate about fashion and beauty. So I thought why not use my newfound writing skills to help businesses in this sector.
 
 When I am not writing,  you will find me reading, travelling, working out, and watching movies with my family.
