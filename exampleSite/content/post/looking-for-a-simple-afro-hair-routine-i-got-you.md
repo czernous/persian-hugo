@@ -77,4 +77,4 @@ This routine shouldn’t be followed to a T. Adapt it according to your hair typ
 
 You might need to wash your hair less often if you have a desk job and wash it more often if you work out. However, I wouldn’t suggest washing it more than twice a week.
 
-Need content to help customers look after their natural hair. [Contact me]().
+Need content to educate customers about their natural hair? [Contact me]().
