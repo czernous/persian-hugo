@@ -10,7 +10,9 @@ Just here sharing my curiosities with you.
 
 ## **Need content writing?**
 
-Interested in working with me? I help small UK businesses in the beauty niche drive traffic to their website by writing engaging, optimised and well-researched blog posts.
+Interested in working with me? I help small businesses in the UK drive traffic to their website by writing engaging, optimised and well-researched blog posts.
+
+My niches are Beauty, Digital Marketing and Education. Pricing is calculated on a project to project basis. 
 
 Need help generating quality leads? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
 
@@ -22,13 +24,13 @@ As much as I loved care something was missing. It didn't cater to my creative na
 
 I enrolled on a PGCE program. But again something didn't feel right. So, I dropped out of my PGCE. Penniless and desperate I knew I had to get my life together fast.
 
-I used the remnants of my student loan to pay for a course in Teaching English as a Foreign Language. After a month of intensive training, I received my TESOL certificate.
+I used the remnants of my student loan to pay for a course in Teaching English as a Foreign Language. After a month of intensive training, I received my Trinity TESOL certificate.
 
 The next thing I knew I was jetting off to Spain to teach. Spain led to teaching in Vietnam. After years of living in Vietnam and in other countries.
 
 I kept being bombarded with thoughts of owning an online business. I had worked remotely before as some of my teaching days included teaching online. So I felt comfortable working independently.
 
-I got online and researched ways to make money. I came across print on demand. So I decided to use my designing skills to create an activewear brand. Although, I knew how to design I had no idea about marketing so my business venture came to a quick close.
+I got online and researched ways to make money. I came across print on demand. So I decided to use my designing skills to create an active wear brand. Although, I knew how to design I had no idea about marketing so my business venture came to a quick close.
 
 It was then I took it upon myself to figure out this thing called marketing. Since then, I have dedicated time to studying this topic.
 
