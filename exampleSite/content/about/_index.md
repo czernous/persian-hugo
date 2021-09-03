@@ -10,9 +10,9 @@ Just here sharing my curiosities with you.
 
 ## **Need content writing?**
 
-Interested in working with me? I help small businesses in the UK drive traffic to their website by writing engaging, optimised and well-researched blog posts.
+I help small businesses in the UK drive traffic to their website by writing engaging, optimised and well-researched blog posts.
 
-My niches are Beauty, Digital Marketing and Education. Pricing is calculated on a project to project basis. 
+My niches are Beauty, Digital Marketing and Education. Pricing is calculated on a project to project basis.
 
 Need help generating quality leads? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
 
