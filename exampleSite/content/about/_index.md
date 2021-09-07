@@ -10,11 +10,9 @@ Just here sharing my curiosities with you.
 
 ## **Need content writing?**
 
-I help small businesses in the UK drive traffic to their website by writing engaging, optimised and well-researched blog posts.
+I help small businesses in the UK drive traffic to their website by writing engaging and optimised blog posts, social media and website content.
 
-My niches are Beauty, Digital Marketing and Education. Pricing is calculated on a project to project basis.
-
-Need help generating quality leads? [Get a quote](https://www.ruthchernous.com/contact/ "Contact")
+Need help generating quality leads? [Contact me](https://www.ruthchernous.com/contact/ "Contact me")
 
 ## **My story before copywriting**
 
@@ -30,12 +28,12 @@ The next thing I knew I was jetting off to Spain to teach. Spain led to teaching
 
 I kept being bombarded with thoughts of owning an online business. I had worked remotely before as some of my teaching days included teaching online. So I felt comfortable working independently.
 
-I got online and researched ways to make money. I came across print on demand. So I decided to use my designing skills to create an active wear brand. Although, I knew how to design I had no idea about marketing so my business venture came to a quick close.
+I got online and researched ways to make money. I came across print on demand. So I decided to use my designing skills to create an activewear brand. Although, I knew how to design I had no idea about marketing. So my business venture came to a quick close.
 
 It was then I took it upon myself to figure out this thing called marketing. Since then, I have dedicated time to studying this topic.
 
 I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I also love to read blogs and watch Youtube videos on this topic. So it seemed natural to put my knowledge to good use by creating this blog.
 
-As well as reading marketing content,  I am very passionate about fashion and beauty. So I thought why not use my newfound writing skills to help businesses in this sector.
+As well as marketing, I am also very passionate about Fashion, Beauty, and Textiles. 
 
-When I am not writing,  you will find me reading, travelling, working out, and watching movies with my family.
+When I am not writing, you will find me reading, shopping, travelling, working out, and watching movies with my family.
