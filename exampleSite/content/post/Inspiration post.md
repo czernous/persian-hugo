@@ -4,7 +4,6 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-09-07T17:07:00Z
 description = "Suffering from artists block? Read this to get your creative juices flowing"
-draft = true
 image = "/v1631034254/Creativity_lahjh9.jpg"
 tags = ["Design", "Art", "Creativity"]
 title = "17 ways to get your creative juices flowing"
