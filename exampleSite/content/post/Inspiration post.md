@@ -5,7 +5,7 @@ cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-09-06T21:00:00Z
 description = "Suffering from artists block? Read this to get your creative juices flowing"
 draft = true
-image = ""
+image = "/v1631034254/Creativity_lahjh9.jpg"
 tags = ["Design", "Art", "Creativity"]
 title = "17 ways to get your creative juices flowing"
 
@@ -45,6 +45,8 @@ Make a cup of tea and relax to some music. Get out your sketchbook and simply dr
 ## **Go for a walk**
 
 Leaving your house can be the perfect solution for your artistic block. Go into your garden or go for a walk. Don’t forget to take your camera or your sketchbook to capture anything which fascinates you.
+
+![Going for a walk](https://res.cloudinary.com/ruthchernous/image/upload/v1631034364/Finding_inspiration_gy5mzs.jpg)
 
 ## **Television**
 
