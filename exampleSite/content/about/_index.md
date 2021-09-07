@@ -37,3 +37,5 @@ I have completed a Level 4 in Copywriting and am in the midst of completing a Le
 As well as marketing, I am also very passionate about Fashion, Beauty, and Textiles. 
 
 When I am not writing, you will find me reading, shopping, travelling, working out, and watching movies with my family.
+
+Interested in content that helps you increase sales? [Message me](https://www.ruthchernous.com/contact/ "Contact me")
