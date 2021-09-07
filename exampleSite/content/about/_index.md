@@ -8,7 +8,9 @@ description: Need to drive sales to your business?
 
 Just here sharing my curiosities with you.
 
-## **Need content writing?**
+## **Need website content?**
+
+Would you like to increase your brand authority and have better conversion rates?
 
 I help small businesses in the UK drive traffic to their website by writing engaging and optimised blog posts, social media and website content.
 
@@ -34,7 +36,7 @@ It was then I took it upon myself to figure out this thing called marketing. Sin
 
 I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I also love to read blogs and watch Youtube videos on this topic. So it seemed natural to put my knowledge to good use by creating this blog.
 
-As well as marketing, I am also very passionate about Fashion, Beauty, and Textiles. 
+As well as marketing, I am also very passionate about Fashion, Beauty, and Textiles.
 
 When I am not writing, you will find me reading, shopping, travelling, working out, and watching movies with my family.
 
