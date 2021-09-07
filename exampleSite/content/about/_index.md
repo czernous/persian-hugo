@@ -14,7 +14,7 @@ Would you like to increase your brand authority and have better conversion rates
 
 I help small businesses in the UK drive traffic to their website by writing engaging and optimised blog posts, social media and website content.
 
-Need help generating quality leads? [Contact me](https://www.ruthchernous.com/contact/ "Contact me")
+**Need help generating quality leads?** [**Contact me**](https://www.ruthchernous.com/contact/ "Contact me")
 
 ## **My story before copywriting**
 
@@ -40,4 +40,4 @@ As well as marketing, I am also very passionate about Fashion, Beauty, and Texti
 
 When I am not writing, you will find me reading, shopping, travelling, working out, and watching movies with my family.
 
-Interested in content that helps you increase sales? [Message me](https://www.ruthchernous.com/contact/ "Contact me")
+**Interested in content that helps you increase sales?** [**Message me**](https://www.ruthchernous.com/contact/ "Contact me")
