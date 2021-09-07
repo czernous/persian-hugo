@@ -4,7 +4,7 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-09-07T17:07:00Z
 description = "Suffering from artists block? Read this to get your creative juices flowing"
-image = "/v1631034254/Creativity_lahjh9.jpg"
+image = "/v1631035163/Creative_juices_onoys0.jpg"
 tags = ["Design", "Art", "Creativity"]
 title = "17 ways to get your creative juices flowing"
 
@@ -27,7 +27,7 @@ Or you can also take your own photographs. Create several themed boards. 3- 5 [i
 
 ## **Other artists**
 
-Another way to spark inspiration is to look at the work created by others. Take a trip to an art gallery or look through books. Study techniques created by the masters and try to imitate them. You never know where it might take you.
+Another way to get your creative juices going is to look at the work created by others. Take a trip to an art gallery or look through books. Study techniques created by the masters and try to imitate them. You never know where it might take you.
 
 ## **Trends**
 
@@ -45,7 +45,7 @@ Make a cup of tea and relax to some music. Get out your sketchbook and simply dr
 
 Leaving your house can be the perfect solution for your artistic block. Go into your garden or go for a walk. Don’t forget to take your camera or your sketchbook to capture anything which fascinates you.
 
-![Going for a walk](https://res.cloudinary.com/ruthchernous/image/upload/v1631034364/Finding_inspiration_gy5mzs.jpg)
+![Going for a walk to get your creative juices flowing](https://res.cloudinary.com/ruthchernous/image/upload/v1631034364/Finding_inspiration_gy5mzs.jpg "Creative juices")
 
 ## **Television**
 
