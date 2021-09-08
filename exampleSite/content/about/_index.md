@@ -12,7 +12,7 @@ Just here sharing my curiosities with you.
 
 Would you like to increase your brand authority and have better conversion rates?
 
-I help small businesses in the UK drive traffic to their website by writing engaging and optimised blog posts, social media and website content.
+I help small businesses in the UK drive traffic to their website by writing engaging and optimised blog posts and social media content.
 
 **Need help generating quality leads?** [**Contact me**](https://www.ruthchernous.com/contact/ "Contact me")
 
@@ -34,7 +34,7 @@ I got online and researched ways to make money. I came across print on demand. S
 
 It was then I took it upon myself to figure out this thing called marketing. Since then, I have dedicated time to studying this topic.
 
-I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I also love to read blogs and watch Youtube videos on this topic. 
+I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I also love to read blogs and watch Youtube videos on this topic.
 
 When I am not writing, you will find me reading, shopping, travelling, working out, and watching movies with my family.
 
