@@ -47,8 +47,6 @@ Make a cup of tea and relax to some music. Get out your sketchbook and simply dr
 
 Leaving your house can be the perfect solution for your artistic block. Go into your garden or go for a walk. Don’t forget to take your camera or your sketchbook to capture anything which fascinates you.
 
-![Going for a walk](https://res.cloudinary.com/ruthchernous/image/upload/v1631034364/Finding_inspiration_gy5mzs.jpg "Get your creative juices flowing")
-
 ## **Television**
 
 This might not come to mind when you think of creativity. But watching your favourite shows can be a great source of inspiration.
