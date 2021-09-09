@@ -45,7 +45,9 @@ Make a cup of tea and relax to some music. Get out your sketchbook and simply dr
 
 ## **Go for a walk**
 
-Leaving your house can be the perfect solution for your artistic block. Go into your garden or go for a walk. Don’t forget to take your camera or your sketchbook to capture anything which fascinates you.![Going for a walk to get your creative juices flowing](https://res.cloudinary.com/ruthchernous/image/upload/v1631034364/Finding_inspiration_gy5mzs.jpg "Creative juices")
+Leaving your house can be the perfect solution for your artistic block. Go into your garden or go for a walk. Don’t forget to take your camera or your sketchbook to capture anything which fascinates you.
+
+![Going for a walk to get your creative juices flowing](https://res.cloudinary.com/ruthchernous/image/upload/v1631034364/Finding_inspiration_gy5mzs.jpg "Creative juices")
 
 ## **Television**
 
