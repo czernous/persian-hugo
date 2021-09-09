@@ -13,6 +13,8 @@ Suffering from artist block is something that all artists can relate to. For tho
 
 This can leave you feeling frustrated and unmotivated. Luckily there are ways to tackle this and get your creative juices flowing.
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1631206247/Get_your_creative_juices_flowing_ffxl7w.jpg)
+
 ## **Mind map**
 
 If you find yourself staring at a blank page, one thing you can do is to create a mind map.
@@ -79,7 +81,7 @@ If you are interested in creating word art, go through a magazine and cross out 
 
 ## **Museums and Galleries**
 
-If you have the weekend off, pop to a museum. Make it a day trip with your friends or family. Sketch interesting artefacts. Note down why they are interesting and remember to jot down any details like the artist and the period. 
+If you have the weekend off, pop to a museum. Make it a day trip with your friends or family. Sketch interesting artefacts. Note down why they are interesting and remember to jot down any details like the artist and the period.
 
 ## **Trends**
 
@@ -93,7 +95,7 @@ With content being pushed out on a daily basis, there is no shortage of inspirat
 
 Who else loves shopping at markets and thrift shops? I know I do, you never know what you can find. Put these items in boxes at home and then they are ready for you to use whenever you need them.
 
-When you are ready, look at the items and study them through drawings. Document aspects of the item. What does the shape look like? Is it made from any interesting materials? 
+When you are ready, look at the items and study them through drawings. Document aspects of the item. What does the shape look like? Is it made from any interesting materials?
 
 ## **Home**
 
