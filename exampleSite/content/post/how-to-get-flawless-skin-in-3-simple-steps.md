@@ -11,7 +11,7 @@ title = "How to get flawless skin in 3 simple steps"
 +++
 It is easy to make the mistake of buying skin-care products based on either the fragrance or brand. However, this is unlikely to get you good results. You should take into consideration the ingredients listed on the packaging.
 
-Many cosmetic brands use cheap ingredients to create their products. So when buying a beauty product, look for ingredients that have been scientifically proven to enhance your skin. 
+Many cosmetic brands use cheap ingredients to create their products. So when buying a beauty product, look for ingredients that have been scientifically proven to enhance your skin.
 
 Look for ingredients like Retinol, Sulfur, Salicylic Acid, Witch hazel, Glycolic Acid and Lactic Acid.
 
@@ -25,7 +25,7 @@ Large pores and shine go hand in hand with oily skin. This is because this skin 
 
 Using a salicylic acid cleanser reduces the overproduction of oil and reduces the size of pores. It also removes dead skin cells and reduces discolouration. Opt for a gel or foam cleanser as it doesn’t weigh down the skin like Cera Ve Foaming Facial Cleanser.
 
-When choosing a toner look for ingredients like beta-hydroxy acids or polyhydroxy acids as they are great for clearing your pores and reducing oil production. 
+When choosing a toner look for ingredients like beta-hydroxy acids or polyhydroxy acids as they are great for clearing your pores and reducing oil production.
 
 To avoid drying out your skin, also look for ingredients like aloe vera. Avoid toners with alcohol and witch hazel as they are too harsh on the skin. Try Kiehl’s Blue Astringent Herbal Lotion.
 
@@ -69,16 +69,18 @@ If your skin feels flaky, tight and lacks moisture you probably have dry skin. Y
 
 A Cleansing milk will gently remove dry flakes and fine lines without drying out your skin. Try Glossier Milky Jelly Cleanser.
 
-A toner that hydrates your skin is perfect for this skin type. Look for ingredients like hyaluronic acid, fruit oils and aloe vera. Try Fresh Rose and Hyaluronic Acid Deep Hydration Toner. Finish with Cetaphil moisturizing cream. 
+A toner that hydrates your skin is perfect for this skin type. Look for ingredients like hyaluronic acid, fruit oils and aloe vera. Try Fresh Rose and Hyaluronic Acid Deep Hydration Toner. Finish with Cetaphil moisturizing cream.
 
 ## **Normal**
 
-With this skin type, you might see yourself lucky as most products are suitable for your skin type. You don’t have to contend with any oiliness, dry skin, large pores or spots. 
+With this skin type, you might see yourself lucky as most products are suitable for your skin type. You don’t have to contend with any oiliness, dry skin, large pores or spots.
 
 Try Mario Badescu Enzyme Cleansing Gel to wash. To tone try Kate Somerville Liquid Exfolikate or Clean and Clear lemon juice toner. And to moisturise La Roche Posay Toleriane Double Repair Face Moisturize**r.**
 
 ## **Final thoughts**
 
-Skin reminds me of people. They don’t come in different shapes and sizes but they do come in different textures and have different needs. One product and skincare routine doesn’t fit all. 
+Skin reminds me of people. They don’t come in different shapes and sizes but they do come in different textures and have different needs. One product and skincare routine doesn’t fit all.
 
 As long as you use the right products and stick to a routine that supports your specific skin type. There is no reason why you can’t have beautiful, glowing skin.
+
+Need beauty content for your business? [Message me](https://www.ruthchernous.com/contact/ "contact me")
