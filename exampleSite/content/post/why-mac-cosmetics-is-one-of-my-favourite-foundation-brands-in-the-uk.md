@@ -96,3 +96,5 @@ WATER / AQUA / EAU, CYCLOPENTASILOXANE, PEG-10 DIMETHICONE, BUTYLENE GLYCOL, TRI
 ## **The Takeaway**
 
 If you are looking for a foundation that doesn’t feel heavy, has good coverage, blends well with a nice even finish and is good value for money. Then this one is right for you.
+
+Are you a small business owner? Need of a review for your products? [Get in touch](https://www.ruthchernous.com/contact/ "Contact me")
