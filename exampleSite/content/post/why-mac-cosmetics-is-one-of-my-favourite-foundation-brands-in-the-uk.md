@@ -2,8 +2,8 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = ""
-description = ""
+date = 2021-09-09T21:00:00Z
+description = "Find out why mac cosmetics is my favourite foundation brand in the UK"
 draft = true
 image = "/v1631288090/Foundation_olnstb.jpg"
 tags = ["Makeup", "Beauty", "Health"]
