@@ -6,7 +6,7 @@ description: Need to drive sales to your business?
 ---
 **"I have no special talents. I am passionately curious"** - Albert Einstein
 
-Just here sharing my curiosities with you.
+Just here sharing my curiosities with you. I enjoy writing about Creativity, Digital Marketing and Beauty
 
 ## **Need website content?**
 
