@@ -4,6 +4,7 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-09-01T12:41:00Z
 description = "Curious about your skin type and what products to use?"
+draft = true
 image = "/v1630330581/Skincare_opiv1g.jpg"
 tags = ["skincare", "beauty", "health"]
 title = "How to get flawless skin in 3 simple steps"
