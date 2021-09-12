@@ -4,6 +4,7 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-08-28T16:19:00Z
 description = "Getting a manicure doesn't have to break the bank. With this easy tutorial you can start doing your own manicure at home."
+draft = true
 image = "/v1630167261/manicure_xsm4w2.jpg"
 tags = ["Manicure", "Nails", "Beauty"]
 title = "Who else wants to know how to do a manicure at home?"
