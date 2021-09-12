@@ -6,24 +6,22 @@ date = 2021-08-31T17:02:00Z
 description = "Stop turning readers away by using these techniques to write good headlines"
 image = "/v1630429114/Writing_good_headlines_ywhhrs.jpg"
 tags = ["copywriting", "marketing", "writing"]
-title = "15 principles to writing good headlines"
+title = "15 principles of writing good headlines"
 
 +++
-Writing content is a good way for businesses to show off their expertise and products and for you to create a good side or full-time income. 
+Writing content is a good way for businesses like yours to show off their expertise.
 
 However no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content. This is why it is important to spend enough time writing your headlines.
 
-Some people prefer to write their headlines first, others last. Do whatever works for you. 
-
-In this article, I will share some principles for headline writing, I have learnt in my copywriting course. As well as techniques I have found through research. 
+In this article, I will share 15 principles of writing good headlines.
 
 So let’s dive in.
 
-## **Tell readers what the copy is about.**
+## **Tell your readers what your copy is about.**
 
 As an avid reader, I have come across my fair share of clickbait headlines. Yes, I get it.
 
-Writing clickbait headlines does work and you will probably get the clicks to your content. 
+Writing clickbait headlines does work and you will probably get the clicks to your content.
 
 But what happens when your audience clicks on a headline to find out your content has nothing to do with it?
 
@@ -31,13 +29,13 @@ I am sure you have been in the same boat. What did you do? Let me guess. You got
 
 So long story short it is better to create a headline that may not be exciting. But gets to the point and leads your readers to what is promised on your page.
 
-Than to write a headline that is clickbaity, serves no purpose and offers nothing in relation to the content. Readers don't like to be tricked into reading something.
+Than to write a headline that is clickbaity, serves no purpose and offers nothing in relation to the content. 
 
 ## **Leave them feeling curious**
 
 Nobody likes to be left out. I remember being at school, overhearing my friends gossip about who is now going out with who.
 
-Immediately, I wanted in on the conversation. Your readers are the same. Give them part of the news in the headline and leave it up to them to find the rest.
+Immediately, I wanted in on the conversation. Your potential customers are the same. Give them part of the news in the headline and leave it up to them to find out the rest.
 
 ## **Be conversational**
 
@@ -61,7 +59,7 @@ When you evoke strong feelings with your content. Your readers feel inspired to 
 
 ## **Motivate**
 
-People love to be inspired to make a positive change to their life or to the world. So if your headline contains information like Start a vegan diet. Or look 10 years younger. And you can back it up with evidence to help them achieve that goal. You will get readers scrolling through your article.
+People love to be inspired to make a positive change to their life or to the world. So if your headline contains information like Start a vegan diet. Or look 10 years younger. And you can back it up with evidence to help them achieve that goal. You will get potential customers scrolling through your article.
 
 ## **Use a powerful first word**
 
@@ -107,7 +105,7 @@ E.g. Why McDonald's should focus on a content marketing strategy.
 
 ## **VS**
 
-This is another technique mentioned by Nathan Gotch. You might have seen headlines like web design vs graphic design. These headlines usually address two main ideas. Giving pros and cons as to why you should use a product or get like in the example get into a specific sector.
+This is another technique mentioned by Nathan Gotch. You might have seen headlines like Web Design vs Graphic Design. These headlines usually address two main ideas. Giving pros and cons as to why you should use a product or get like in the example get into a specific sector.
 
 ## **Headline formulas**
 
@@ -125,7 +123,7 @@ There is nothing wrong with being creative in your headlines. But make sure your
 
 ## **Bottom line**
 
-Writing headlines can be a challenge but with practice, you will get there.
+If you want to use copywriting tactics to drive traffic to your business. You need to be able to write headlines. Good headlines will encourage potential customers to read your content and lead them to take action.
 
 If you need help creating engaging headlines that persuade users to click on your content?
 
