@@ -9,19 +9,19 @@ tags = ["copywriting", "marketing", "writing"]
 title = "12 ways to do copywriting research"
 
 +++
-When I first started writing I was always stuck on how to do copywriting research. So I would read other blog posts and write the information in my own words. I am not saying that you can’t use other articles to inform your writing.
+Should copywriters do research? 
 
-But don’t make this the only way you find information. Using various methods ensures that your writing is unique.
+Yes, they should. Research is the difference between great and mediocre content.
 
-If you didn’t know Google penalizes you if your content is a replica of someone else’s.
+If you didn’t know Google penalizes you if the content on your website is a replica of someone else’s.
 
 Google wants to solve the user’s problem efficiently and doesn’t want several copies of the same thing in its database.
 
-So should copywriters do research? Yes, they should. Research is the difference between great and mediocre content.
-
 There are many ways writers might approach the research phrase. Some might do all their research upfront and then go to the writing phase. Others might research as they go along.
 
-I don’t think it matters how you approach it as long as the final outcome speaks to your client's audience. So in this article, I will tell 10 ways to do copywriting research.
+I don’t think the approach matters along as the final outcome speaks to your audience. 
+
+So in this article, I will show 10 ways of doing copywriting research when writing content for your business.
 
 ## **1. Market Research**
 
@@ -52,17 +52,13 @@ This statement really resonated with me. Because similar to the burger story you
 
 ## **2. Company research**
 
-It is useful to know some background information about the company you are writing for so as to understand how to write in the company’s voice.
-
-Things to think about are:
-
-* What is their story? How did they start their business? What are their achievements?
-* What are their business goals?
-* Who are their competitors?
+* What is your story? How did you start your business? What are your achievements?
+* What are your business goals?
+* Who are your competitors?
 
 ## **3. Product Research**
 
-Let's say you’re selling a product. You really should know everything about that product before you write about it. Ideally, you should be using that product yourself. What are its features and benefits? How did using the product change your life?
+Let's say you’re selling a product. You really should know everything about your product before you write about it. What are its features and benefits? How did using the product change your life?
 
 ## **4. Your target audience**
 
@@ -78,7 +74,7 @@ For instance, you scroll through your company’s social media and in the commen
 
 _Basic search_
 
-When using Google to do copywriting research. It is easiest to start with a basic search. Go to the search bar and insert a keyword or phrase that relates to what you are looking for.
+When using Google to do copywriting research. It is easiest to start with a basic search. Go to the search bar and insert a keyword or phrase that relates to your business.
 
 You can look for the location of something by writing the location next to the search phrase. E.g. Copywriter London.
 
@@ -108,13 +104,15 @@ If you’re still stuck for ideas after researching Google. You can also find in
 
 ## **9. Amazon**
 
-Reading reviews left by customers is a great way of doing research. Go to Amazon, find some books in your niche and read the reviews. This can be used as inspiration for your copywriting content.
+Reading your customer's reviews is a great way of doing research. Go through the reviews and use them as inspiration for your copywriting content.
+
+Also, you could go to Amazon, find some books in your business niche and read the reviews. 
 
 ## **10. Surveys**
 
 When creating surveys for research, make sure your questions include qualitative data. Qualitative data doesn’t involve numbers and usually involves open-ended questions that analyze consumer behaviours.
 
-You can email your surveys, find people to complete them on social media or by adding them to your website.
+You can email your surveys to customers on social media or by adding them to your website.
 
 Offering a reward in exchange for completing the survey is a good way of persuading people to take part.
 
@@ -122,24 +120,22 @@ Offering a reward in exchange for completing the survey is a good way of persuad
 
 Interviewing is a great way of validating those pain points you have spotted using the previous techniques.
 
-These interviews can be held on the phone, by Skype or in person. You can interview customers or get in-depth information from the company you are writing for by interviewing the owners.
-
-Also if you are not familiar with a specific industry you could interview industry experts.
+These interviews can be held on the phone, by Skype or in person. Interview your customers and experts in your industry.
 
 ## **12. Competitors**
 
-Research doesn’t just end with finding out about the business, products and consumers. You should also be aware of their competitors.
+Research doesn’t just end with your business, products and consumers. You should also be aware of your competitors.
 
 What sort of content are they producing on their blogs and website? And how much traffic are they generating from that content?
 
-You can use SEMRush to see where their competitors are getting their backlinks from and what keywords they are ranking for.
+You can use SEMRush to see where your competitors are getting their backlinks from and what keywords they are ranking for.
 
-You can also gauge what to include in your copy by reading what their competitors have included and left out.
+You can also gauge what to include in your copy by reading what your competitors have included and left out.
 
 ## **Final thoughts**
 
-There is no set way of doing research. I think it all depends on the project. Sometimes you might use all these techniques to write good content if it is an industry you aren’t familiar with.
+There is no set way of doing research. I think it all depends on the project. Sometimes you might use all these techniques or you might prefer to focus on one.
 
-Or you might only need to use one of these methods if you are writing about a topic you are comfortable with. The most important thing is that your content brings something new to the table and offers value to your readers.
+The most important thing is that your content brings something new to the table and offers value to your readers and potential customers.
 
 Looking to use content writing to drive leads to your website? If so [drop me a line.](https://www.ruthchernous.com/contact/ "Contact me")
