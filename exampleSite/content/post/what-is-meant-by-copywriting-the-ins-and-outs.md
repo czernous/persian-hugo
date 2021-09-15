@@ -58,7 +58,7 @@ I have named several but the list isn’t extensive. There are more types of cop
 
 ## **How to become a copywriter**
 
-Luckily you don’t have any qualifications to become a copywriter. However, it is advisable that you sign up for one. Doing a copywriting course allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
+Luckily you don't need any qualifications to become a copywriter. However, it is advisable that you sign up for one. Doing a copywriting course allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
 
 However, not everyone can afford to pay for a course. In this situation, you can teach yourself. To begin, find examples of different types of content. Some examples are leaflets that come in your postbox, promotional emails and articles. Think of ways you could rewrite these.
 
@@ -66,7 +66,7 @@ Practise writing headlines as they are the most important element to write. With
 
 A swipe file is a collection of written content that can be used to inspire your writing. I sometimes get stuck when writing headlines. So I often look at examples of headlines for inspiration and think of how I can rewrite them in my own way.
 
-Another option is to used [headline formulas.](https://copyblogger.com/10-sure-fire-headline-formulas-that-work/ "copywriting formulas") These have been tried and tested and are used regularly by marketers.
+Another option is to use [headline formulas.](https://copyblogger.com/10-sure-fire-headline-formulas-that-work/ "copywriting formulas") These have been tried and tested and are used regularly by marketers.
 
 ## **What skills are needed to be a copywriter?**
 
@@ -84,21 +84,21 @@ This stage requires you to read through your content and rearrange elements that
 
 ### Good vocabulary
 
-Luckily I was a language teacher before getting into this career. So my vocabulary wasn't too bad, to begin with. But if you feel this isn’t your strong suit, you can improve your vocabulary by reading books which leads to my next point.
+Luckily I was a language teacher before copywriting. So my vocabulary wasn't too bad, to begin with. But if you feel this isn’t your strong suit, you can improve your vocabulary by reading books which leads to my next point.
 
 ### Reading
 
-Let's face it, to be a better writer you need to read. Reading helps you see how to structure a piece of writing which is useful when creating your own content.
+Let's face it, to be a better writer you need to read. Reading helps you when structuring written content which is useful when creating your own media.
 
 ### Curiosity
 
 I will be honest here. If you’re not a curious person, you might struggle in this field. You should want to dive deep into a topic not because it is expected from your client but because you want to.
 
-The thirst for knowledge should excite you. And guess what the more information you have. The more you have to play within your writing.
+The thirst for knowledge should excite you. And guess what? The more information you have. The more you have to play with.
 
 ## **How to find copywriter jobs?**
 
-As a freelancer when it comes to offering your services, there is always the question of should I niche down or not. From one perspective not niching down might allow you to take more work.
+As a freelancer when it comes to offering your services, there is always the question of should I niche down or not. From one perspective not niching down might allow you to take on more work.
 
 But the downside is having to compete with other copywriters that may be qualified and have more experience than you.
 
@@ -152,4 +152,6 @@ I think a fixed price for the whole project works well as there are no hidden co
 
 Now you know the ins and outs of being a copywriter. I think copywriting is a great career because it is in demand with excellent chances of growth and income. And best of all you don’t need any qualifications to get started.
 
-In search of quality content that sends traffic to your website?[ Message me.](https://www.ruthchernous.com/contact/ "Contact me")
+Have you ever considered a job in copywriting?
+
+How do you plan on breaking into the field?
