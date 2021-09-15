@@ -12,7 +12,7 @@ Just here sharing my curiosities with you.
 
 Would you like to increase your brand authority and have better conversion rates?
 
-I help small businesses in the UK drive traffic to their website by writing engaging and optimised blog posts and social media content.
+I help small businesses in the UK drive traffic to their website by writing engaging and optimised blog posts and website and social media content.
 
 **Need help generating quality leads?** [**Contact me**](https://www.ruthchernous.com/contact/ "Contact me")
 
