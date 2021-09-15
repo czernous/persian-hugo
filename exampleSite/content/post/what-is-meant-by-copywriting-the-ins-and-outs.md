@@ -5,7 +5,7 @@ cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-08-24T08:42:00Z
 description = "Find out what exactly does a copywriter do"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
-tags = ["copywriting", "marketing", "writing"]
+tags = ["copywriting", "Marketing", "Business"]
 title = "Ever wondered? What does a copywriter do?"
 
 +++
