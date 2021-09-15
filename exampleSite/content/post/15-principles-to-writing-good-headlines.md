@@ -5,7 +5,7 @@ cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-08-31T17:02:00Z
 description = "Stop turning readers away by using these techniques to write good headlines"
 image = "/v1630429114/Writing_good_headlines_ywhhrs.jpg"
-tags = ["copywriting", "marketing", "writing"]
+tags = ["Copywriting", "Marketing", "Business", ""]
 title = "15 principles of writing good headlines"
 
 +++
