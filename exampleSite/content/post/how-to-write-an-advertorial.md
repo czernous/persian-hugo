@@ -1,9 +1,9 @@
 +++
-author = ""
-categories = []
+author = "Ruth Chernous"
+categories = ["Copywriting", "Marketing", "Business"]
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = ""
-description = ""
+date = 2001-02-15T21:00:00Z
+description = "Want to promote your products or services? Learn to write an Advertorial"
 draft = true
 image = ""
 tags = []
