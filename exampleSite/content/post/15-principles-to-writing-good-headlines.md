@@ -11,7 +11,7 @@ title = "15 principles of writing good headlines"
 +++
 Writing content is a good way for businesses to show off their expertise.
 
-However, no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content. 
+However, no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content.
 
 This is why it is important to spend enough time writing your headlines.
 
@@ -130,3 +130,5 @@ If you want to use copywriting tactics to drive traffic to your business. You ne
 So what techniques do you use when creating your headlines?
 
 How many headlines do you create before choosing the right one?
+
+Comment below!
