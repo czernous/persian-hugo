@@ -155,3 +155,9 @@ Now you know the ins and outs of being a copywriter. I think copywriting is a gr
 Have you ever considered a job in copywriting?
 
 How do you plan on breaking into the field?
+
+Further reading
+
+[https://www.articulatemarketing.com/blog/what-does-a-copywriter-do](https://www.articulatemarketing.com/blog/what-does-a-copywriter-do "https://www.articulatemarketing.com/blog/what-does-a-copywriter-do")
+
+[https://www.awai.com/what-is-copywriting/](https://www.awai.com/what-is-copywriting/ "https://www.awai.com/what-is-copywriting/")
