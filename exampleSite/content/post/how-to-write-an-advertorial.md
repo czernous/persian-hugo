@@ -112,3 +112,9 @@ Imagine you are writing for your Web Design company. You have chosen to write an
 If you are want to provide value to potential customers, create authority and showcase what sets you apart from your competition. Then, Advertorials are the way to go.
 
 So, what are your thoughts on including Advertorials as part of your marketing strategy?
+
+Further reading
+
+[https://blog.hubspot.com/marketing/blog-versus-advertorial](https://blog.hubspot.com/marketing/blog-versus-advertorial "https://blog.hubspot.com/marketing/blog-versus-advertorial")
+
+[https://copyblogger.com/writing-advertorials/](https://copyblogger.com/writing-advertorials/ "https://copyblogger.com/writing-advertorials/")
