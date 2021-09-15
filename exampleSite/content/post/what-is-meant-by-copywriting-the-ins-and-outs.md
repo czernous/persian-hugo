@@ -76,7 +76,7 @@ Obviously, you need to be able to write well. But writing doesn’t just include
 
 ### Research
 
-Without good research, writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
+Without good[ research](https://www.ruthchernous.com/post/researching-copywriting/ "12 ways to do copywriting research"), writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
 
 ### Editing and Proofreading
 
