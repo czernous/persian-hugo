@@ -4,7 +4,6 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-09-15T21:35:00Z
 description = "Want to promote your products or services? Learn to write an Advertorial"
-draft = true
 image = "/v1631741828/How_to_write_an_advertorial_2_jvuloa.jpg"
 tags = ["copywriting", "marketing", "Business"]
 title = "How to write an advertorial"
