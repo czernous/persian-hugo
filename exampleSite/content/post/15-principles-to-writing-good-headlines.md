@@ -9,9 +9,11 @@ tags = ["copywriting", "marketing", "writing"]
 title = "15 principles of writing good headlines"
 
 +++
-Writing content is a good way for businesses like yours to show off their expertise.
+Writing content is a good way for businesses to show off their expertise.
 
-However no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content. This is why it is important to spend enough time writing your headlines.
+However, no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content. 
+
+This is why it is important to spend enough time writing your headlines.
 
 In this article, I will share 15 principles of writing good headlines.
 
@@ -21,7 +23,7 @@ So let’s dive in.
 
 As an avid reader, I have come across my fair share of clickbait headlines. Yes, I get it.
 
-Writing clickbait headlines does work and you will probably get the clicks to your content.
+Writing clickbait headlines does work and you will probably get clicks to your content.
 
 But what happens when your audience clicks on a headline to find out your content has nothing to do with it?
 
@@ -29,7 +31,7 @@ I am sure you have been in the same boat. What did you do? Let me guess. You got
 
 So long story short it is better to create a headline that may not be exciting. But gets to the point and leads your readers to what is promised on your page.
 
-Than to write a headline that is clickbaity, serves no purpose and offers nothing in relation to the content. 
+Rather than to write a headline that is clickbaity, serves no purpose and offers nothing in relation to the content.
 
 ## **Leave them feeling curious**
 
@@ -105,7 +107,7 @@ E.g. Why McDonald's should focus on a content marketing strategy.
 
 ## **VS**
 
-This is another technique mentioned by Nathan Gotch. You might have seen headlines like Web Design vs Graphic Design. These headlines usually address two main ideas. Giving pros and cons as to why you should use a product or get like in the example get into a specific sector.
+This is another technique mentioned by Nathan Gotch. You might have seen headlines like Web Design vs Graphic Design. These headlines usually address two main ideas. Giving pros and cons as to why you should use a product or get into a specific sector.
 
 ## **Headline formulas**
 
@@ -125,6 +127,6 @@ There is nothing wrong with being creative in your headlines. But make sure your
 
 If you want to use copywriting tactics to drive traffic to your business. You need to be able to write headlines. Good headlines will encourage potential customers to read your content and lead them to take action.
 
-If you need help creating engaging headlines that persuade users to click on your content?
+So what techniques do you use when creating your headlines?
 
-Don't hesitate to [send me an email.](https://www.ruthchernous.com/contact/ "Contact me")
+How many headlines do you create before choosing the right one?
