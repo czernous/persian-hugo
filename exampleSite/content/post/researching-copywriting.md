@@ -126,7 +126,7 @@ These interviews can be held on the phone, by Skype or in person. Interview your
 
 Research doesn’t just end with your business, products and consumers. You should also be aware of your competitors.
 
-What sort of content are they producing on their blogs and website? 
+What sort of content are they producing on their blogs and website?
 
 How much traffic are they generating from that content?
 
@@ -140,4 +140,6 @@ There is no set way of doing research. I think it all depends on the project. So
 
 The most important thing is that your content brings something new to the table and offers value to your readers and potential customers.
 
-So what is your go-to method when creating content? Comment below
+So what is your go-to method when creating content? 
+
+Comment below
