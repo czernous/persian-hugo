@@ -9,7 +9,7 @@ tags = ["copywriting", "marketing", "writing"]
 title = "12 ways to do copywriting research"
 
 +++
-Should copywriters do research? 
+Should copywriters do research?
 
 Yes, they should. Research is the difference between great and mediocre content.
 
@@ -17,9 +17,9 @@ If you didn’t know Google penalizes you if the content on your website is a re
 
 Google wants to solve the user’s problem efficiently and doesn’t want several copies of the same thing in its database.
 
-There are many ways writers might approach the research phrase. Some might do all their research upfront and then go to the writing phase. Others might research as they go along.
+There are many ways writers might approach the research phrase. Some might do all their research upfront. Others might research as they go along.
 
-I don’t think the approach matters along as the final outcome speaks to your audience. 
+I don’t think the approach matters along as the final outcome speaks to your audience.
 
 So in this article, I will show 10 ways of doing copywriting research when writing content for your business.
 
@@ -94,7 +94,7 @@ This is the method I use the most in combination with the web when I am research
 
 Another option is to use Google books or go to a library and get a hard copy of the book. I love books as the information is accurate and there is a wealth of information.
 
-I like getting a few different books and pulling up the most interesting information as-well-as using my own knowledge to recreate a new piece.
+I like getting different books and pulling up the most interesting information as-well-as using my own knowledge to recreate a new piece.
 
 ## **8. Social media**
 
@@ -106,7 +106,7 @@ If you’re still stuck for ideas after researching Google. You can also find in
 
 Reading your customer's reviews is a great way of doing research. Go through the reviews and use them as inspiration for your copywriting content.
 
-Also, you could go to Amazon, find some books in your business niche and read the reviews. 
+Also, you could go to Amazon, find some books in your business niche and read the reviews.
 
 ## **10. Surveys**
 
@@ -126,7 +126,9 @@ These interviews can be held on the phone, by Skype or in person. Interview your
 
 Research doesn’t just end with your business, products and consumers. You should also be aware of your competitors.
 
-What sort of content are they producing on their blogs and website? And how much traffic are they generating from that content?
+What sort of content are they producing on their blogs and website? 
+
+How much traffic are they generating from that content?
 
 You can use SEMRush to see where your competitors are getting their backlinks from and what keywords they are ranking for.
 
@@ -138,4 +140,4 @@ There is no set way of doing research. I think it all depends on the project. So
 
 The most important thing is that your content brings something new to the table and offers value to your readers and potential customers.
 
-Looking to use content writing to drive leads to your website? If so [drop me a line.](https://www.ruthchernous.com/contact/ "Contact me")
+So what is your go-to method when creating content? Comment below
