@@ -132,3 +132,11 @@ So what techniques do you use when creating your headlines?
 How many headlines do you create before choosing the right one?
 
 Comment below!
+
+Further reading
+
+[https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/](https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/ "https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/")
+
+[https://www.crazyegg.com/blog/headlines-9-steps/](https://www.crazyegg.com/blog/headlines-9-steps/ "https://www.crazyegg.com/blog/headlines-9-steps/")
+
+[https://coschedule.com/blog/write-a-headline](https://coschedule.com/blog/write-a-headline "https://coschedule.com/blog/write-a-headline")
