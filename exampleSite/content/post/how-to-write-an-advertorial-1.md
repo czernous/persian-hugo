@@ -3,10 +3,10 @@ author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-09-15T21:30:00Z
-description = ""
+description = "Want to promote your products or services? Learn to write an Advertorial"
 draft = true
 image = ""
-tags = []
+tags = ["marketing", "Business"]
 title = "How to write an advertorial"
 
 +++
