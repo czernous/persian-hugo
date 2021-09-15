@@ -49,7 +49,7 @@ Next, decide on your content’s structure. Here are some ideas:
 
 ### **Choose your angle**
 
-An angle is how you approach your story**.** There are a number of ways to do this.
+An angle is how you approach your story. There are a number of ways to do this.
 
 _Human interest feature_
 
