@@ -14,6 +14,17 @@ Would you like to increase your brand authority and have better conversion rates
 
 I help small businesses in the UK drive traffic to their website by writing engaging, optimised blog posts, website and social media content.
 
+**Published posts**
+
+[https://hldgeneralcontractor.ca/bathroom-renovation-in-coquitlam/](https://hldgeneralcontractor.ca/bathroom-renovation-in-coquitlam/ "https://hldgeneralcontractor.ca/bathroom-renovation-in-coquitlam/")
+
+[https://kmfauto.ca/oil-change-burnaby/](https://kmfauto.ca/oil-change-burnaby/ "https://kmfauto.ca/oil-change-burnaby/")
+
+[https://kmfauto.ca/auto-repair-burnabycomputerized-wheel-alignment/](https://kmfauto.ca/auto-repair-burnabycomputerized-wheel-alignment/ "https://kmfauto.ca/auto-repair-burnabycomputerized-wheel-alignment/")
+
+[https://www.antonchernous.com/](https://www.antonchernous.com/ "https://www.antonchernous.com/")
+
+  
 **Need help generating quality leads?** [**Contact me**](https://www.ruthchernous.com/contact/ "Contact me")
 
 ## **My story before copywriting**
