@@ -84,6 +84,8 @@ Imagine you are writing for your Web Design company. You have chosen to write an
 * Interview industry experts.
 * Read books about your subject.
 
+Related content: [https://www.ruthchernous.com/post/researching-copywriting/](https://www.ruthchernous.com/post/researching-copywriting/ "https://www.ruthchernous.com/post/researching-copywriting/")
+
 ### **Write your outline**
 
 * Use all your research to create a draft.
