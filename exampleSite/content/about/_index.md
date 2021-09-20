@@ -4,28 +4,13 @@ image: images/author.jpg
 description: Need to drive sales to your business?
 
 ---
-**"I have no special talents. I am passionately curious"** - Albert Einstein
+Are you a small business owner?
 
-Just here sharing my curiosities with you.
+Do you have a low marketing budget?
 
-## **Need website content?**
+Maybe you're a startup and can't afford to invest a load of money into marketing your products or services.
 
-Would you like to increase your brand authority and have better conversion rates?
-
-I help small businesses in the UK drive traffic to their website by writing engaging, optimised blog posts, website and social media content.
-
-**Published posts**
-
-[https://hldgeneralcontractor.ca/bathroom-renovation-in-coquitlam/](https://hldgeneralcontractor.ca/bathroom-renovation-in-coquitlam/ "https://hldgeneralcontractor.ca/bathroom-renovation-in-coquitlam/")
-
-[https://kmfauto.ca/oil-change-burnaby/](https://kmfauto.ca/oil-change-burnaby/ "https://kmfauto.ca/oil-change-burnaby/")
-
-[https://kmfauto.ca/auto-repair-burnabycomputerized-wheel-alignment/](https://kmfauto.ca/auto-repair-burnabycomputerized-wheel-alignment/ "https://kmfauto.ca/auto-repair-burnabycomputerized-wheel-alignment/")
-
-[https://www.antonchernous.com/](https://www.antonchernous.com/ "https://www.antonchernous.com/")
-
-  
-**Need help generating quality leads?** [**Contact me**](https://www.ruthchernous.com/contact/ "Contact me")
+If so my blog is for you. I share organic marketing tips to help you drive traffic and increase your website conversions.
 
 ## **My story before copywriting**
 
