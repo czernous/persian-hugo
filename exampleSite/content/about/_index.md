@@ -14,7 +14,7 @@ In this situation, your business would benefit from using organic marketing tact
 
 On my blog, I share organic marketing tips to help you drive traffic and increase your website conversions.
 
-## My story before copywriting
+## My story before marketing
 
 After studying for a degree in Art and Textile Design. The dreaded thought "what do I do next haunted me?". So I picked up whatever job I could and worked as a care assistant for several years.
 
@@ -32,6 +32,6 @@ I got online and researched ways to make money. I came across print on demand. S
 
 It was then I took it upon myself to figure out this thing called marketing. Since then, I have dedicated time to studying this topic.
 
-I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I also love to read blogs and watch Youtube videos on this topic.
+I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I also love reading blogs and watching Youtube videos on this topic.
 
-When I am not writing, you will find me reading, shopping, travelling, working out, and watching movies with my family.
+When I am not writing, you will find me reading, shopping, travelling, working out, visiting pubs/restaurants and watching movies with my family.
