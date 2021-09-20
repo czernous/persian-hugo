@@ -137,7 +137,7 @@ How many headlines do you create before choosing the right one?
 
 Comment below!
 
-Related content
+**Related content**
 
 [**https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/**](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/")
 
