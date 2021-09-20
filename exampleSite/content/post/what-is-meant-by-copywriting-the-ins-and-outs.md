@@ -66,7 +66,7 @@ Practise writing headlines as they are the most important element to write. With
 
 A swipe file is a collection of written content that can be used to inspire your writing. I sometimes get stuck when writing headlines. So I often look at examples of headlines for inspiration and think of how I can rewrite them in my own way.
 
-Another option is to use [headline formulas.](https://copyblogger.com/10-sure-fire-headline-formulas-that-work/ "copywriting formulas") These have been tried and tested and are used regularly by marketers.
+Another option is to use [**headline formulas**](https://copyblogger.com/10-sure-fire-headline-formulas-that-work/ "Headline Formulas")**.** These have been tried and tested and are used regularly by marketers.
 
 ## **What skills are needed to be a copywriter?**
 
@@ -76,7 +76,9 @@ Obviously, you need to be able to write well. But writing doesn’t just include
 
 ### Research
 
-Without good[ research](https://www.ruthchernous.com/post/researching-copywriting/ "12 ways to do copywriting research"), writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
+Without good research, writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
+
+Related content: [https://www.ruthchernous.com/post/researching-copywriting/](https://www.ruthchernous.com/post/researching-copywriting/ "https://www.ruthchernous.com/post/researching-copywriting/")
 
 ### Editing and Proofreading
 
