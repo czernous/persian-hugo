@@ -53,7 +53,7 @@ Further reading: [**https://buffer.com/library/marketing-personas-beginners-guid
 
 ## **4. Ask questions**
 
-I love asking questions in my headline. When you ask questions, readers are curious to find answers. Your content is the perfect opportunity for them to do s
+I love asking questions in my headline. When you ask questions, readers are curious to find answers. Your content is the perfect opportunity for them to do so.
 
 ## **5. Evoke emotions**
 
