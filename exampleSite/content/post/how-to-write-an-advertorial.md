@@ -33,6 +33,8 @@ However, when creating advertorials make sure you tell your readers upfront what
 
 ## **How to write an Advertorial**
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1632171461/How_to_write_an_advertorial_in_6_steps_xzib4w.jpg)![](https://res.cloudinary.com/ruthchernous/image/upload/v1632171494/How_to_write_an_advertorial_in_6_steps_mjyxny.jpg)![](https://res.cloudinary.com/ruthchernous/image/upload/v1632171614/How_to_write_an_advertorial_in_6_steps_1_ksw4dn.jpg)
+
 ### **Choose a topic**
 
 Brainstorm various ideas that you would like to cover. E.g. If you are a music school. You might want to write about guitar lessons for adults.
@@ -94,10 +96,10 @@ Imagine you are writing for your Web Design company. You have chosen to write an
 * Underneath your headings. Write a bulleted list of what you are going to include.
 * Don’t forget to add interesting facts, quotes and links to other websites.
 
-### **Write your article**
+### **Write your draft**
 
 * Start writing and extend on what you have included in your outline
-* Proofread and edit your article
+* Proofread and edit your article several times until you are satisfied with the outcome.
 
 ### **You now know to write an advertorial. But here are some extra things to think about:**
 
