@@ -78,7 +78,7 @@ Obviously, you need to be able to write well. But writing doesn’t just include
 
 Without good research, writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
 
-Related content: [https://www.ruthchernous.com/post/researching-copywriting/](https://www.ruthchernous.com/post/researching-copywriting/ "https://www.ruthchernous.com/post/researching-copywriting/")
+**Related content:** [**https://www.ruthchernous.com/post/researching-copywriting/**](https://www.ruthchernous.com/post/researching-copywriting/ "https://www.ruthchernous.com/post/researching-copywriting/")
 
 ### Editing and Proofreading
 
@@ -160,6 +160,6 @@ How do you plan on breaking into the field?
 
 Further reading
 
-[https://www.articulatemarketing.com/blog/what-does-a-copywriter-do](https://www.articulatemarketing.com/blog/what-does-a-copywriter-do "https://www.articulatemarketing.com/blog/what-does-a-copywriter-do")
+[**https://www.articulatemarketing.com/blog/what-does-a-copywriter-do**](https://www.articulatemarketing.com/blog/what-does-a-copywriter-do "https://www.articulatemarketing.com/blog/what-does-a-copywriter-do")
 
-[https://www.awai.com/what-is-copywriting/](https://www.awai.com/what-is-copywriting/ "https://www.awai.com/what-is-copywriting/")
+[**https://www.awai.com/what-is-copywriting/**](https://www.awai.com/what-is-copywriting/ "https://www.awai.com/what-is-copywriting/")
