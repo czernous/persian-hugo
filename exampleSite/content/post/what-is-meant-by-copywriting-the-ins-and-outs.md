@@ -54,8 +54,6 @@ I have named several but the list isn’t extensive. There are more types of cop
 * Edit and proofread the content.
 * Submit and make any revisions.
 
-![Pitching to a copywriting client](https://res.cloudinary.com/ruthchernous/image/upload/v1629800102/Pitching_vbxram.jpg "Pitching")
-
 ## **How to become a copywriter**
 
 Luckily you don't need any qualifications to become a copywriter. However, it is advisable that you sign up for one. Doing a copywriting course allows you to practise different copywriting techniques and build a portfolio to send to agencies and companies.
@@ -108,6 +106,8 @@ Personally, I think it is a good idea to write for an industry that you have exp
 
 That way it is easy for you to differentiate from your competition and charge more money.
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1632170166/What_does_a_copywriter_do_swfsjc.jpg)
+
 ### Pitching
 
 Finding a niche isn’t enough. It is also important to do some background research on the companies you want to work for. List them down and follow them on social media.
@@ -147,8 +147,6 @@ When doing this make sure to charge higher than you would get working for an age
 Some copywriters charge per word, others charge per hour or per project. It is still helpful to know how much money you are charging per hour irrespective of how you decide to charge your clients.
 
 I think a fixed price for the whole project works well as there are no hidden costs for the clients. Always take a 50% deposit upfront. So clients don’t disappear without paying you.
-
-![A jar filled with coins ](https://res.cloudinary.com/ruthchernous/image/upload/v1629800249/Money_ibzlcd.jpg "Copywriting salary")
 
 ## **The bottom line**
 
