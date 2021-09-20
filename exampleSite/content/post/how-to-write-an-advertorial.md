@@ -29,7 +29,7 @@ You may notice a short with a headline, image and a few sentences about the prod
 
 These are very different as they are written to sell directly. Whereas an advertorial should inform a reader in the same way as a magazine or newspaper article does.
 
-However, when creating advertorials make sure you tell your readers up front what they are reading is paid content to prevent any confusion.
+However, when creating advertorials make sure you tell your readers upfront what they are reading is paid content to prevent any confusion.
 
 ## **How to write an Advertorial**
 
@@ -84,7 +84,7 @@ Imagine you are writing for your Web Design company. You have chosen to write an
 * Interview industry experts.
 * Read books about your subject.
 
-Related content: [https://www.ruthchernous.com/post/researching-copywriting/](https://www.ruthchernous.com/post/researching-copywriting/ "https://www.ruthchernous.com/post/researching-copywriting/")
+**Related content:** [**https://www.ruthchernous.com/post/researching-copywriting/**](https://www.ruthchernous.com/post/researching-copywriting/ "https://www.ruthchernous.com/post/researching-copywriting/")
 
 ### **Write your outline**
 
@@ -114,8 +114,8 @@ If you are want to provide value to potential customers, create authority and sh
 
 So, what are your thoughts on including Advertorials as part of your marketing strategy?
 
-Further reading
+**Further reading**
 
-[https://blog.hubspot.com/marketing/blog-versus-advertorial](https://blog.hubspot.com/marketing/blog-versus-advertorial "https://blog.hubspot.com/marketing/blog-versus-advertorial")
+[**https://blog.hubspot.com/marketing/blog-versus-advertorial**](https://blog.hubspot.com/marketing/blog-versus-advertorial "https://blog.hubspot.com/marketing/blog-versus-advertorial")
 
-[https://copyblogger.com/writing-advertorials/](https://copyblogger.com/writing-advertorials/ "https://copyblogger.com/writing-advertorials/")
+[**https://copyblogger.com/writing-advertorials/**](https://copyblogger.com/writing-advertorials/ "https://copyblogger.com/writing-advertorials/")
