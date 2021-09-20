@@ -47,7 +47,7 @@ Your readers want to feel like they are communicating with you on a friendship l
 
 An easy way to do this is to create a persona and write to them.
 
-Further reading: [https://buffer.com/library/marketing-personas-beginners-guide/](https://buffer.com/library/marketing-personas-beginners-guide/ "https://buffer.com/library/marketing-personas-beginners-guide/")
+Further reading: [**https://buffer.com/library/marketing-personas-beginners-guide/**](https://buffer.com/library/marketing-personas-beginners-guide/ "https://buffer.com/library/marketing-personas-beginners-guide/")
 
 ## **Questions**
 
@@ -81,7 +81,7 @@ Tricks to making delicious desserts
 
 Tips to making delicious desserts
 
-Further reading: [https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/](https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/ "https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/")
+Further reading: [**https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/**](https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/ "https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/")
 
 ## **Lists**
 
@@ -139,6 +139,6 @@ Comment below!
 
 Related content
 
-[https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/")
+[**https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/**](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/")
 
-[https://www.ruthchernous.com/post/how-to-write-an-advertorial/](https://www.ruthchernous.com/post/how-to-write-an-advertorial/ "https://www.ruthchernous.com/post/how-to-write-an-advertorial/")
+[**https://www.ruthchernous.com/post/how-to-write-an-advertorial/**](https://www.ruthchernous.com/post/how-to-write-an-advertorial/ "https://www.ruthchernous.com/post/how-to-write-an-advertorial/")
