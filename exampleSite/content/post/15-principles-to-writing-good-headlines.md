@@ -6,7 +6,7 @@ date = 2021-08-31T17:02:00Z
 description = "Stop turning readers away by using these techniques to write good headlines"
 image = "/v1630429114/Writing_good_headlines_ywhhrs.jpg"
 tags = ["Copywriting", "Marketing", "Business", ""]
-title = "15 principles to writing good headlines"
+title = "15 principles of writing good headlines"
 
 +++
 Writing content is a good way for businesses to show off their expertise.
@@ -19,7 +19,7 @@ In this article, I will share 15 principles of writing good headlines.
 
 So let’s dive in.
 
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1632162451/15_principles_of_writing_good_headlines_b5bflj.jpg)
+![List of 15 principles of writing good headlines](https://res.cloudinary.com/ruthchernous/image/upload/v1632162632/15_principles_of_writing_good_headlines_kigwu0.jpg "15 principles of writing good headlines")
 
 ## **1. Tell your readers what your copy is about.**
 
