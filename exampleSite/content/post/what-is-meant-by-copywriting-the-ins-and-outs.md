@@ -158,7 +158,7 @@ Have you ever considered a job in copywriting?
 
 How do you plan on breaking into the field?
 
-Further reading
+**Further reading**
 
 [**https://www.articulatemarketing.com/blog/what-does-a-copywriter-do**](https://www.articulatemarketing.com/blog/what-does-a-copywriter-do "https://www.articulatemarketing.com/blog/what-does-a-copywriter-do")
 
