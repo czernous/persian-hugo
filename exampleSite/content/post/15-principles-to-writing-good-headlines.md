@@ -41,11 +41,13 @@ Immediately, I wanted in on the conversation. Your potential customers are the s
 
 ## **Be conversational**
 
-[Copywriting](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "Ever wondered? What does a copywriter do?") isn't like academic writing. No one cares about how good your vocabulary is and how much you know if what you know isn’t beneficial to them.
+Copywriting isn't like academic writing. No one cares about how good your vocabulary is and how much you know if what you know isn’t beneficial to them.
 
 Your readers want to feel like they are communicating with you on a friendship level. Think about it. If you were writing to a friend? How would you speak to them?
 
-An easy way to do this is to create a [persona](https://buffer.com/library/marketing-personas-beginners-guide/ "Marketing persona") and write to them.
+An easy way to do this is to create a persona and write to them.
+
+Further reading: [https://buffer.com/library/marketing-personas-beginners-guide/](https://buffer.com/library/marketing-personas-beginners-guide/ "https://buffer.com/library/marketing-personas-beginners-guide/")
 
 ## **Questions**
 
@@ -65,7 +67,7 @@ People love to be inspired to make a positive change to their life or to the wor
 
 ## **Use a powerful first word**
 
-I came across this method in my copywriting course and on Neil Patel's blog. Neil refers to them as [Rationales](https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/ "Rationales"). Basically, they are words that tell you why you should do something.
+I came across this method in my copywriting course and on Neil Patel's blog. Neil refers to them as Rationals. Basically, they are words that tell you why you should do something.
 
 For instance:
 
@@ -78,6 +80,8 @@ Principles to making delicious desserts
 Tricks to making delicious desserts
 
 Tips to making delicious desserts
+
+Further reading: [https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/](https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/ "https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/")
 
 ## **Lists**
 
@@ -133,10 +137,8 @@ How many headlines do you create before choosing the right one?
 
 Comment below!
 
-Further reading
+Related content
 
-[https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/](https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/ "https://neilpatel.com/blog/the-step-by-step-guide-to-writing-powerful-headlines/")
+[https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/")
 
-[https://www.crazyegg.com/blog/headlines-9-steps/](https://www.crazyegg.com/blog/headlines-9-steps/ "https://www.crazyegg.com/blog/headlines-9-steps/")
-
-[https://coschedule.com/blog/write-a-headline](https://coschedule.com/blog/write-a-headline "https://coschedule.com/blog/write-a-headline")
+[https://www.ruthchernous.com/post/how-to-write-an-advertorial/](https://www.ruthchernous.com/post/how-to-write-an-advertorial/ "https://www.ruthchernous.com/post/how-to-write-an-advertorial/")
