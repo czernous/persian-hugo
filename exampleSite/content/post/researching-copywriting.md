@@ -6,7 +6,7 @@ date = 2021-08-23T11:40:00Z
 description = "Learn how to do copywriting research effectively"
 image = "/v1629718628/Learn_how_to_research_effectively_gnk4yb.jpg"
 tags = ["copywriting", "marketing", "Business"]
-title = "12 ways to do copywriting research"
+title = "12 effective ways of doing copywriting research"
 
 +++
 Should copywriters do research?
@@ -21,7 +21,9 @@ There are many ways writers might approach the research phrase. Some might do al
 
 I don’t think the approach matters along as the final outcome speaks to your audience.
 
-So in this article, I will show 10 ways of doing copywriting research when writing content for your business.
+So in this article, I will show 12 effective ways of doing copywriting research when writing content for your business.
+
+![A list of 12 effective ways of doing copywriting research](https://res.cloudinary.com/ruthchernous/image/upload/v1632158551/12_effective_ways_of_doing_copywriting_research_2_gt0bve.jpg "12 effective ways of doing copywriting research")
 
 ## **1. Market Research**
 
@@ -50,9 +52,13 @@ Some of his students chose premium meat, others chose buns with seeds etc. He sa
 
 This statement really resonated with me. Because similar to the burger story your content needs a starving crowd. You need to find an audience so desperate to consume your content because it solves their problem.
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1632160607/Effective_ways_of_doing_copywriting_research_wcriiu.jpg)
+
 ## **2. Company research**
 
-* What is your story? How did you start your business? What are your achievements?
+* What is your story? 
+* How did you start your business? 
+* What are your achievements?
 * What are your business goals?
 * Who are your competitors?
 
@@ -67,8 +73,6 @@ For customers to read your content. You need to grab their attention quickly. An
 You can get inspiration by hanging out where they hang out and using their language to write your copy.
 
 For instance, you scroll through your company’s social media and in the comments section, something has grabbed your interest. You could use that as inspiration for your introduction or add it as a quote in your content.
-
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1629799761/Target_audience_n6tduj.jpg)
 
 ## **5. How do research on Google?**
 
@@ -99,8 +103,6 @@ I like getting different books and pulling up the most interesting information a
 ## **8. Social media**
 
 If you’re still stuck for ideas after researching Google. You can also find information on social media. Most social media sites have a search bar where you can include a phrase or a relevant keyword. Remember to put a hashtag alongside the keyword.
-
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1629799621/Social_media_q5jhjy.jpg)
 
 ## **9. Amazon**
 
