@@ -40,9 +40,9 @@ To help you get the ball rolling, create a persona. A persona is your ideal clie
 * Main objections
 * Interests
 
-Further reading: [https://www.breakthroughmarketingsecrets.com/blog/what-a-list-copywriters-care-about-when-they-do-research-for-projects/](https://www.breakthroughmarketingsecrets.com/blog/what-a-list-copywriters-care-about-when-they-do-research-for-projects/ "https://www.breakthroughmarketingsecrets.com/blog/what-a-list-copywriters-care-about-when-they-do-research-for-projects/")
+Further reading: [**https://www.breakthroughmarketingsecrets.com/blog/what-a-list-copywriters-care-about-when-they-do-research-for-projects/**](https://www.breakthroughmarketingsecrets.com/blog/what-a-list-copywriters-care-about-when-they-do-research-for-projects/ "https://www.breakthroughmarketingsecrets.com/blog/what-a-list-copywriters-care-about-when-they-do-research-for-projects/")
 
-The second question is important as all marketing addresses a need or problem. I recently read the boron letters written by Gary Halbert to his son during his time behind bars. You can find these letters[ here.](https://morgancrozier.com/boron-letters/)
+The second question is important as all marketing addresses a need or problem. I recently read the boron letters written by Gary Halbert to his son during his time behind bars. You can find these letters [**here.**](https://morgancrozier.com/boron-letters/)
 
 He shared a story of his time as a copywriting teacher. Whereby, he asked students to imagine they each had a burger stand and their stand had one advantage.
 
@@ -144,8 +144,8 @@ So what is your go-to method when creating content?
 
 Comment below!
 
-Related: 
+**Related:**
 
-[https://www.ruthchernous.com/post/how-to-write-an-advertorial/](https://www.ruthchernous.com/post/how-to-write-an-advertorial/ "https://www.ruthchernous.com/post/how-to-write-an-advertorial/")
+[**https://www.ruthchernous.com/post/how-to-write-an-advertorial/**](https://www.ruthchernous.com/post/how-to-write-an-advertorial/ "https://www.ruthchernous.com/post/how-to-write-an-advertorial/")
 
-[https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/](https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/ "https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/")
+[**https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/**](https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/ "https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/")
