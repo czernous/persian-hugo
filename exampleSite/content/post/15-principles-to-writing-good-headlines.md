@@ -105,7 +105,7 @@ After creating a load of headlines it is a good idea to check how effective and 
 
 ## **Name dropping**
 
-I recently found out about this technique from [Nathan Gotch](https://www.youtube.com/watch?v=t5qqW6NH7mc&ab_channel=NathanGotch "Name dropping"). Namedropping is when you use a famous brand in your article’s headline. The idea is to get traffic from their name.
+I recently found out about this technique from [**Nathan Gotch**](https://www.youtube.com/watch?v=t5qqW6NH7mc&ab_channel=NathanGotch "Name dropping")**.** Namedropping is when you use a famous brand in your article’s headline. The idea is to get traffic from their name.
 
 E.g. Why McDonald's should focus on a content marketing strategy.
 
