@@ -146,7 +146,7 @@ After running your page for some time it might be in your interest to increase y
 
 Not every social media is relevant to your audience. It is important to find out where your audience hangs out and target those areas.
 
-If you are targeting other businesses and aren’t promoting on Linked In. You are missing out on leads and sales.
+If you are targeting other businesses and aren’t promoting using Linked In Marketing. You are missing out on leads and sales.
 
 Now over to you. Are you currently using Linked In to market your business? If so what strategies are you using? Are they similar or different from the ones mentioned in this post?
 
