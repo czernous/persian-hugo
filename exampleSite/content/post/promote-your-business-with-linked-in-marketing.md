@@ -30,21 +30,33 @@ There are many benefits that it has to offer.
 
 ## **How do I create a Linked In marketing strategy?**
 
+### **Decide on your marketing goals**
+
+Having a goal helps you measure to see if you have marketing efforts have been successful. When choosing a goal. It is better to decide on 1 or 2 goals and your goals should be SMART; Specific, Measurable, Attainable, Realistic and Timely. Your company might want to:
+
+* Generate traffic
+* Increase leads
+* Increase your revenue
+* Focus on brand awareness
+* Build brand loyalty
+
 ### **Set up a profile**
 
 ![Tips to creating a profile when promoting your business with Linked In Marketing](https://res.cloudinary.com/ruthchernous/image/upload/v1632342016/How_to_create_a_Linked_In_profile_yzauwv.jpg "Linked In Marketing")
 
-When using Linked In Marketing to promote your company you need to start with creating a profile. That should include:
+Once you have decided on a goal, you need to create a profile. That should include:
 
-* A professional headshot with a clear background.
-* Your current position job title along with your company name and time at the company.
+* A professional headshot with a clear background
+
+
+* Your current position job title along with your company name and time at the company
 * An up to date list of all your skills
 * Your location
 * A summary of your experience and goals
 * A custom header that showcases your professional brand
 * An up to date CV
-* An about us page that includes keywords and phrases your audience is using.
-* A link to your blog or website.
+* An about us page that includes keywords and phrases your audience is using
+* A link to your blog or website
 
 ### **Create content**
 
@@ -141,6 +153,10 @@ After running your page for some time it might be in your interest to increase y
 * Promote your company's Linked In page using emails newsletters and blog posts
 * Use [paid promotio](https://business.linkedin.com/marketing-solutions/how-to-advertise-on-linkedin)n like sponsored content to boost your feed, Text Ads and Sponsored InMail
 * A/B test your posts to see which is most effective and similar posts
+
+  ### **Keep track of your analytics**
+
+  Once your page is up and running and you have promoted it. You need to check your marketing efforts regularly. Log in to your Linked In analytics to see how your content is doing. Keep note of any posts that have done particularly well and create more of those posts.
 
   ## **Conclusion**
 
