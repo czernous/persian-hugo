@@ -6,23 +6,35 @@ date = 2021-09-22T21:33:00Z
 description = "How to market your business on Linked In"
 image = "/v1632342274/Market_your_business_on_Linked_In_mjfvlg.jpg"
 tags = ["Social Media", "Digital Marketing", "Business"]
-title = "Promote your business with Linked In marketing"
+title = "Promote your business with Linked In Marketing"
 
 +++
-If your company sells B2B products or services, then Linked In is the way to go. There are many benefits that it has to offer.
+Before studying my social media marketing course. It never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs. 
+
+So, therefore my profile always consisted of a few details of who I was and my educational and work history. 
+
+But learning more about Linked In has made me realise the possibilities are endless when it comes to Marketing on this platform. 
+
+So if your company sells B2B products or services, then Linked In Marketing is the way to go to push your small business to the next level.
+
+In this article, I will show you how to market your small business on Linked In.
+
+## **What are the benefits of Linked In Marketing?**
+
+There are many benefits that it has to offer.
 
 * If you are a freelancer, you can gain exposure from hiring managers and recruiters
 * Form authority and expertise
 * Network with others in your niche through Linked In groups
 * Follow companies you would like to do business with and interact with them
 
-In this article, I will show you how you can market your small business on Linked In.
+## **How do I create a Linked In marketing strategy?**
 
-## **Set up a profile**
+### **Set up a profile**
 
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1632342016/How_to_create_a_Linked_In_profile_yzauwv.jpg)
+![Tips to creating a profile when promoting your business with Linked In Marketing](https://res.cloudinary.com/ruthchernous/image/upload/v1632342016/How_to_create_a_Linked_In_profile_yzauwv.jpg "Linked In Marketing")
 
-When marketing on LinkedIn you need to start with creating a profile which should include:
+When using Linked In Marketing to promote your company you need to start with creating a profile. That should include:
 
 * A professional headshot with a clear background.
 * Your current position job title along with your company name and time at the company.
@@ -34,7 +46,7 @@ When marketing on LinkedIn you need to start with creating a profile which shoul
 * An about us page that includes keywords and phrases your audience is using.
 * A link to your blog or website.
 
-## **Create content**
+### **Create content**
 
 You’ve now created your LinkedIn profile. So what’s next? Creating your content.
 
@@ -71,31 +83,33 @@ Link___
 
 \# Smoothie #Healthyeating
 
-Taking the time to create good content helps you appear higher in the search ranks and allows other people on LinkedIn to see your content. Now you might be thinking well I know I need to create good content but what types of content can I share?
+**Taking the time to create good content helps you appear higher in the search ranks and allows other people on LinkedIn to see your content.** 
 
-Here are some ideas:
+**Now you might be thinking well I know I need to create good content but what types of content can I share?**
 
-## **Create an article on LinkedIn**
+**Here are some ideas:**
+
+* **Create an article on LinkedIn**
 
 Keep in mind that your article should be between 300 to 500 words. Also, share your article on your page to get it in front of viewers
 
-### **Blog post**
+* **Blog post**
 
 Similar to an article you can also create a blog post. Include subheadings as they help readers scan your information to the section they find the most relevant. Use images and bullets to break up your text and include lots of white space. You shouldn’t have more than four sentences in each paragraph.
 
-### **Pictures**
+* **Pictures**
 
-Be creative with your pictures. Take your images yourself, create collages or create graphics using sites like Canva, Photoshop or Illustrator.
+Be creative with your pictures. Take your images yourself, create collages or create graphics using sites like Canva, Photoshop or Illustrator. 
 
-### **Videos**
+* **Videos**
 
 Readers love videos. They are engaging and can be used to teach or showcase your products. Make your videos 1 to 2 minutes long and have subtitles for people who may not want to watch your video with the sound on.
 
-### **PowerPoints and PDFs**
+* **PowerPoints and PDFs**
 
 Use Slideshare to upload powerpoints to share with your audience.
 
-### **Moments in your business**
+* **Moments in your business**
 
 If you have images and videos of business and team building events you can include those. Readers are excited to see what goes on within your company.
 
@@ -138,8 +152,8 @@ Now over to you. Are you currently using Linked In to market your business? If s
 
 Comment below
 
-Related content
+**Related content**
 
-[https://blog.hootsuite.com/linkedin-for-business/](https://blog.hootsuite.com/linkedin-for-business/ "https://blog.hootsuite.com/linkedin-for-business/")
+[**https://blog.hootsuite.com/linkedin-for-business/**](https://blog.hootsuite.com/linkedin-for-business/ "https://blog.hootsuite.com/linkedin-for-business/")
 
-[https://blog.hubspot.com/blog/tabid/6307/bid/23454/the-ultimate-cheat-sheet-for-mastering-linkedin.aspx](https://blog.hubspot.com/blog/tabid/6307/bid/23454/the-ultimate-cheat-sheet-for-mastering-linkedin.aspx "https://blog.hubspot.com/blog/tabid/6307/bid/23454/the-ultimate-cheat-sheet-for-mastering-linkedin.aspx")
+[**https://blog.hubspot.com/blog/tabid/6307/bid/23454/the-ultimate-cheat-sheet-for-mastering-linkedin.aspx**](https://blog.hubspot.com/blog/tabid/6307/bid/23454/the-ultimate-cheat-sheet-for-mastering-linkedin.aspx "https://blog.hubspot.com/blog/tabid/6307/bid/23454/the-ultimate-cheat-sheet-for-mastering-linkedin.aspx")
