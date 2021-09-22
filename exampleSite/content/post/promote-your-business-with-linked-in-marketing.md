@@ -13,7 +13,7 @@ Before studying my social media marketing course. It never occurred to me to mar
 
 So, therefore my profile always consisted of a few details of who I was and my educational and work history. 
 
-But learning more about Linked In has made me realise the possibilities are endless when it comes to Marketing on this platform. 
+But learning more about Linked In has made me realise that the possibilities are endless when it comes to marketing on this platform. 
 
 So if your company sells B2B products or services, then Linked In Marketing is the way to go to push your small business to the next level.
 
