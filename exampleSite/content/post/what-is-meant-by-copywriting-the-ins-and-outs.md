@@ -6,7 +6,7 @@ date = 2021-08-24T08:42:00Z
 description = "Find out what exactly does a copywriter do"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
 tags = ["copywriting", "Marketing", "Business"]
-title = "Ever wondered? What does a copywriter do?"
+title = "Ever wondered what a copywriter does?"
 
 +++
 Before beginning my journey as a copywriter I had no idea what copywriting was. A friend once spoke about doing copywriting as a side gig alongside teaching and I remember thinking to myself " what does a copywriter even do?"
