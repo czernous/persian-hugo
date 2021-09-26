@@ -116,6 +116,8 @@ If you are want to provide value to potential customers, create authority and sh
 
 So, what are your thoughts on including Advertorials as part of your marketing strategy?
 
+Let me know in the comments.
+
 **Further reading**
 
 [**https://blog.hubspot.com/marketing/blog-versus-advertorial**](https://blog.hubspot.com/marketing/blog-versus-advertorial "https://blog.hubspot.com/marketing/blog-versus-advertorial")
