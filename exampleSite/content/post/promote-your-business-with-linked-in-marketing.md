@@ -162,9 +162,13 @@ Not every social media is relevant to your audience. It is important to find out
 
 If you are targeting other businesses and aren’t promoting using Linked In Marketing. You are missing out on leads and sales.
 
-Now over to you. Are you currently using Linked In to market your business? If so what strategies are you using? Are they similar or different from the ones mentioned in this post?
+So are you currently using Linked In to market your business? 
 
-Comment below
+If so what strategies are you using? 
+
+Are they similar or different from the ones mentioned in this post?
+
+Let me know in the comments.
 
 **Related content**
 
