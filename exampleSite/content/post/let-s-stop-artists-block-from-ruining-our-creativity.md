@@ -12,7 +12,7 @@ title = "Let's stop artists block from ruining our creativity "
 +++
 Suffering from artists block is something that all artists can relate to. For those of you who haven’t experienced this, artists block is when you cannot generate ideas.
 
-This can leave you feeling frustrated and unmotivated. Luckily there are ways to tackle this and get your creative juices flowing. 
+This can leave you feeling frustrated and unmotivated. Luckily there are ways to tackle this and get your creative juices flowing.
 
 But first, let's look at what can block your creativity.
 
@@ -20,11 +20,11 @@ But first, let's look at what can block your creativity.
 
 ## **What causes artists block?**
 
-Have you been in a situation where you grab your sketchbook raring to go? 
+Have you been in a situation where you grab your sketchbook raring to go?
 
-Only to be met with a creative block. As an artist, I have been in this situation many times. 
+Only to be met with a creative block. As an artist, I have been in this situation many times.
 
-This usually happens when I haven't done enough research,  lack the skills to execute my ideas or lack confidence in my abilities. 
+This usually happens when I haven't done enough research,  lack the skills to execute my ideas or lack confidence in my abilities.
 
 ### **Research**
 
@@ -36,9 +36,9 @@ Like they say practice makes perfect. If you are struggling to create your artwo
 
 ### **Lack of confidence**
 
-Feeling like your artwork isn't good enough is real. 
+Feeling like your artwork isn't good enough is real.
 
-I cannot keep count of how many times I have created a piece of artwork and binned it because I thought it wasn't good enough. 
+I cannot keep count of how many times I have created a piece of artwork and binned it because I thought it wasn't good enough.
 
 1 tip I learnt from art school is to never bin your artwork. By reworking and adapting old creations. You could build it into something spectacular.
 
@@ -112,12 +112,18 @@ You've tried all the methods listed. But you've had no luck. Then have a break. 
 
 ## **Conclusion**
 
-Creating artwork doesn’t have to be difficult. 
+Creating artwork doesn’t have to be difficult.
 
 With these ideas under your belt, you can say goodbye to staring at a blank page and begin your creative process with excitement and ease.
 
-What do you do when you experience a creative block? 
+What do you do when you experience a creative block?
 
 Are there any methods you use that isn't listed above?
 
 Let me know in the comments
+
+**Further reading**
+
+[**https://andielafdesigns.com/blogs/learn/how-to-overcome-artists-block**](https://andielafdesigns.com/blogs/learn/how-to-overcome-artists-block "https://andielafdesigns.com/blogs/learn/how-to-overcome-artists-block")
+
+[**https://medium.com/@aa13707/what-is-an-art-block-and-how-to-get-out-of-one-9e00ab3f238c**](https://medium.com/@aa13707/what-is-an-art-block-and-how-to-get-out-of-one-9e00ab3f238c "https://medium.com/@aa13707/what-is-an-art-block-and-how-to-get-out-of-one-9e00ab3f238c")
