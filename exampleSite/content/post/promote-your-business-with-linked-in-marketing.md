@@ -9,15 +9,15 @@ tags = ["Social Media", "Digital Marketing", "Business"]
 title = "Promote your creative business with Linked In Marketing"
 
 +++
-Before studying my social media marketing course. It never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs. 
+Before studying my social media marketing course. It never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs.
 
-So, therefore my profile always consisted of a few details of who I was and my educational and work history. 
+So, therefore my profile always consisted of a few details of who I was and my educational and work history.
 
-But learning more about Linked In has made me realise that the possibilities are endless when it comes to marketing on this platform. 
+But learning more about Linked In has made me realise that the possibilities are endless when it comes to marketing on this platform.
 
 So if your company sells B2B products or services, then Linked In Marketing is the way to go to push your small business to the next level.
 
-In this article, I will show you how to market your small business on Linked In.
+In this article, I will show you how to market your creative business on Linked In.
 
 ## **What are the benefits of Linked In Marketing?**
 
@@ -47,8 +47,6 @@ Having a goal helps you measure to see if you have marketing efforts have been s
 Once you have decided on a goal, you need to create a profile. That should include:
 
 * A professional headshot with a clear background
-
-
 * Your current position job title along with your company name and time at the company
 * An up to date list of all your skills
 * Your location
@@ -95,7 +93,7 @@ Link___
 
 \# Smoothie #Healthyeating
 
-**Taking the time to create good content helps you appear higher in the search ranks and allows other people on LinkedIn to see your content.** 
+**Taking the time to create good content helps you appear higher in the search ranks and allows other people on LinkedIn to see your content.**
 
 **Now you might be thinking well I know I need to create good content but what types of content can I share?**
 
@@ -111,7 +109,7 @@ Similar to an article you can also create a blog post. Include subheadings as th
 
 * **Pictures**
 
-Be creative with your pictures. Take your images yourself, create collages or create graphics using sites like Canva, Photoshop or Illustrator. 
+Be creative with your pictures. Take your images yourself, create collages or create graphics using sites like Canva, Photoshop or Illustrator.
 
 * **Videos**
 
