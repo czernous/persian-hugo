@@ -7,10 +7,10 @@ description = "Get rid of artist's block once and for all"
 draft = true
 image = "/v1631035163/Creative_juices_onoys0.jpg"
 tags = ["Art", "Design", "Creativity"]
-title = "Let's stop artists block from ruining our creativity "
+title = "Let's stop artist's block from ruining our creativity "
 
 +++
-Suffering from artists block is something that all artists can relate to. For those of you who haven’t experienced this, artists block is when you cannot generate ideas.
+Suffering from artist's block is something that all artists can relate to. For those of you who haven’t experienced this, artist's block is when you cannot generate ideas.
 
 This can leave you feeling frustrated and unmotivated. Luckily there are ways to tackle this and get your creative juices flowing.
 
@@ -18,7 +18,7 @@ But first, let's look at what can block your creativity.
 
 ![Beating artists block; a man painting a picture](https://res.cloudinary.com/ruthchernous/image/upload/v1631206247/Get_your_creative_juices_flowing_ffxl7w.jpg "Beating artists block")
 
-## **What causes artists block?**
+## **What causes artist's block?**
 
 Have you been in a situation where you grab your sketchbook raring to go?
 
@@ -42,11 +42,11 @@ I cannot keep count of how many times I have created a piece of artwork and binn
 
 1 tip I learnt from art school is to never bin your artwork. By reworking and adapting old creations. You could build it into something spectacular.
 
-## **How long does artists block last?**
+## **How long does artist's block last?**
 
-Artists block varies from person to person. But it can last for a week to several months.  So how do you unblock your creativity?
+Artist's block varies from person to person. But it can last for a week to several months.  So how do you unblock your creativity?
 
-## **How do you get rid of an artists block?**
+## **How do you get rid of an artist's block?**
 
 ### **Mind map**
 
@@ -106,7 +106,7 @@ Writing your thoughts and feelings in a diary is a therapeutic process that can 
 
 Maybe you've tried all of the techniques listed above and more.  Yet, you still aren't getting anywhere. In this situation, find a technique you love and create samples with your take on that technique.
 
-## **What now? I still can't create anything**
+## **What now? I still have artist's block**
 
 You've tried all the methods listed. But you've had no luck. Then have a break. Workout, cook a meal, speak to a friend. Then come back to your work with a set of fresh eyes.
 
@@ -114,9 +114,9 @@ You've tried all the methods listed. But you've had no luck. Then have a break. 
 
 Creating artwork doesn’t have to be difficult.
 
-With these ideas under your belt, you can say goodbye to staring at a blank page and begin your creative process with excitement and ease.
+With these ideas under your belt, you can say goodbye to artist's block and begin your creative process with excitement and ease.
 
-What do you do when you experience a creative block?
+What do you do when you experience artist's block?
 
 Are there any methods you use that isn't listed above?
 
