@@ -14,4 +14,4 @@ On my blog, I share marketing tips for businesses like yours.
 
 If you are looking for a qualified Copywriter who is knowledgeable about your industry.
 
-Don't hesitate to rop me a line.
+Don't hesitate to drop me a line.
