@@ -6,10 +6,10 @@ date = 2021-09-15T21:35:00Z
 description = "Want to promote your craft business? Learn to write an Advertorial"
 image = "/v1631741828/How_to_write_an_advertorial_2_jvuloa.jpg"
 tags = ["copywriting", "marketing", "Business"]
-title = "Write an advertorial to market your craft business"
+title = "Write an advertorial to market your business"
 
 +++
-Engaging with customers instead of bombarding them with promotions has become the preferred way to advertise. This is why Advertorials are a great option when it comes to promoting your craft business. In this article, I will discuss how advertorials can help your business and how to create one.
+Engaging with customers instead of bombarding them with promotions has become the preferred way to advertise. This is why Advertorials are a great option when it comes to promoting your business. In this article, I will discuss how advertorials can help your business and how to create one.
 
 ## **What is an Advertorial?**
 
