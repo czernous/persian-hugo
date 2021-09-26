@@ -6,7 +6,7 @@ date = 2021-09-22T21:33:00Z
 description = "How to market your business on Linked In"
 image = "/v1632342274/Market_your_business_on_Linked_In_mjfvlg.jpg"
 tags = ["Social Media", "Digital Marketing", "Business"]
-title = "Promote your creative business with Linked In Marketing"
+title = "Promote your business with Linked In Marketing"
 
 +++
 Before studying my social media marketing course. It never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs.
@@ -17,7 +17,7 @@ But learning more about Linked In has made me realise that the possibilities are
 
 So if your company sells B2B products or services, then Linked In Marketing is the way to go to push your small business to the next level.
 
-In this article, I will show you how to market your creative business on Linked In.
+In this article, I will show you how to market your business on Linked In.
 
 ## **What are the benefits of Linked In Marketing?**
 
@@ -162,9 +162,9 @@ Not every social media is relevant to your audience. It is important to find out
 
 If you are targeting other businesses and aren’t promoting using Linked In Marketing. You are missing out on leads and sales.
 
-So are you currently using Linked In to market your business? 
+So are you currently using Linked In to market your business?
 
-If so what strategies are you using? 
+If so what strategies are you using?
 
 Are they similar or different from the ones mentioned in this post?
 
