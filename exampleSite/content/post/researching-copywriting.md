@@ -58,8 +58,8 @@ This statement really resonated with me. Because similar to the burger story you
 
 When writing content for your business.  You should know jot down everything about your business. This will help you create content that aligns with your brand. Start with these questions:
 
-* What is your story? 
-* How did you start your business? 
+* What is your story?
+* How did you start your business?
 * What are your achievements?
 * What are your business goals?
 * Who are your competitors?
@@ -146,7 +146,7 @@ The most important thing is that your content brings something new to the table 
 
 So what is your go-to method when creating content?
 
-Comment below!
+Let me know in the comments
 
 **Related:**
 
