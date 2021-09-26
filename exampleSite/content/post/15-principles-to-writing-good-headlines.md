@@ -9,7 +9,7 @@ tags = ["Copywriting", "Marketing", "Business", ""]
 title = "15 principles of writing good headlines"
 
 +++
-Writing content is a good way for businesses to show off their expertise.
+Writing content is a good way for  Art or Design businesses to show off their expertise.
 
 However, no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content.
 
