@@ -135,7 +135,7 @@ So what techniques do you use when creating your headlines?
 
 How many headlines do you create before choosing the right one?
 
-Comment below!
+Let me know in the comments
 
 **Related content**
 
