@@ -6,7 +6,7 @@ date = 2021-09-22T21:33:00Z
 description = "How to market your business on Linked In"
 image = "/v1632342274/Market_your_business_on_Linked_In_mjfvlg.jpg"
 tags = ["Social Media", "Digital Marketing", "Business"]
-title = "Promote your business with Linked In Marketing"
+title = "Promote your creative business with Linked In Marketing"
 
 +++
 Before studying my social media marketing course. It never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs. 
