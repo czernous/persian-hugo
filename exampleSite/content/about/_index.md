@@ -12,6 +12,6 @@ If so, I write blog posts and social media content for companies in the Art and 
 
 On my blog, I share marketing tips for businesses like yours.
 
-If you are looking for a qualified Copywriter who is knowledgeable about your industry?
+If you are looking for a qualified Copywriter who is knowledgeable about your industry.
 
-Drop me a line.
+Don't hesitate to rop me a line.
