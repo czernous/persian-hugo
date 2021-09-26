@@ -9,7 +9,7 @@ tags = ["copywriting", "marketing", "Business"]
 title = "Write an advertorial to market your craft business"
 
 +++
-Engaging with customers instead of bombarding them with promotions has become the preferred way to advertise. This is why Advertorials are a great option when it comes to promoting your Art or Design business. In this article, I will discuss how advertorials can help your business and how to create one.
+Engaging with customers instead of bombarding them with promotions has become the preferred way to advertise. This is why Advertorials are a great option when it comes to promoting your craft business. In this article, I will discuss how advertorials can help your business and how to create one.
 
 ## **What is an Advertorial?**
 
