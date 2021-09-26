@@ -6,7 +6,7 @@ description: Need to drive sales to your business?
 ---
 Are you an art school or university? 
 
-In search of content to market your business?
+In search of content to market your courses?
 
 If so, I write blog posts and social media content for art schools based on my educational background in this sector and my work experience as a Teacher.
 
