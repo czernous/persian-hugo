@@ -146,7 +146,7 @@ The most important thing is that your content brings something new to the table 
 
 So what is your go-to method when creating content?
 
-Let me know in the comments
+Let me know in the comments.
 
 **Related:**
 
