@@ -10,7 +10,7 @@ If so, I help creatives promote their business using content and social media st
 
 ## **My story**
 
-After studying for a degree in Art and Textile Design. The dreaded thought "what do I do next haunted me?". So I did what everyone else does. I got a job. I worked as a care assistant for few years to support myself.
+After studying for a degree in Art and Textile Design. The dreaded thought "what do I do next haunted me?". So I did what everyone else does. I got a job. I worked as a care assistant for a few years to support myself.
 
 But as much as I loved working in Health and Social Care. Something was missing. It didn't cater to my creative nature. So I decided to become an Art Teacher.
 
