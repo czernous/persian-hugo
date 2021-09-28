@@ -30,7 +30,7 @@ There are many benefits that it has to offer.
 
 ## **How do I create a Linked In marketing strategy?**
 
-### **Decide on your marketing goals**
+### **1. Decide on your marketing goals**
 
 Having a goal helps you measure to see if you have marketing efforts have been successful. When choosing a goal. It is better to decide on 1 or 2 goals and your goals should be SMART; Specific, Measurable, Attainable, Realistic and Timely. Your company might want to:
 
@@ -40,7 +40,7 @@ Having a goal helps you measure to see if you have marketing efforts have been s
 * Focus on brand awareness
 * Build brand loyalty
 
-### **Set up a profile**
+### **2. Set up a profile**
 
 ![Tips to creating a profile when promoting your business with Linked In Marketing](https://res.cloudinary.com/ruthchernous/image/upload/v1632342016/How_to_create_a_Linked_In_profile_yzauwv.jpg "Linked In Marketing")
 
@@ -56,7 +56,7 @@ Once you have decided on a goal, you need to create a profile. That should inclu
 * An about us page that includes keywords and phrases your audience is using
 * A link to your blog or website
 
-### **Create content**
+### **3. Create content**
 
 You’ve now created your LinkedIn profile. So what’s next? Creating your content.
 
@@ -123,7 +123,7 @@ Use Slideshare to upload powerpoints to share with your audience.
 
 If you have images and videos of business and team building events you can include those. Readers are excited to see what goes on within your company.
 
-### **Publish and Share**
+### **4. Publish and Share**
 
 Creating content isn't enough, you need to publish and share your content at the right time and with the right people.
 
@@ -131,7 +131,7 @@ The best way to do this is to create a few posts at different times of the day. 
 
 Also, research shows that the best time to post is from 7:30 to 8:30 A.M, 12 PM and 5-6P.M.
 
-### **Manage your content**
+### **5. Manage your content**
 
 You’ve created your profile and come up with your content. Now you need to manage your page. You do this by:
 
@@ -141,7 +141,7 @@ You’ve created your profile and come up with your content. Now you need to man
 4. Create Linked In polls to engage followers
 5. Join[ Linked In groups](https://www.linkedin.com/pulse/main-benefits-joining-linkedin-group-sarah-santacroce)
 
-### **Grow your followers**
+### **6. Grow your followers**
 
 After running your page for some time it might be in your interest to increase your reach and grow your followers. To do this:
 
@@ -152,7 +152,7 @@ After running your page for some time it might be in your interest to increase y
 * Use [paid promotio](https://business.linkedin.com/marketing-solutions/how-to-advertise-on-linkedin)n like sponsored content to boost your feed, Text Ads and Sponsored InMail
 * A/B test your posts to see which is most effective and similar posts
 
-  ### **Keep track of your analytics**
+  ### **7. Keep track of your analytics**
 
   Once your page is up and running and you have promoted it. You need to check your marketing efforts regularly. Log in to your Linked In analytics to see how your content is doing. Keep note of any posts that have done particularly well and create more of those posts.
 
