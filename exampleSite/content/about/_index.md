@@ -4,9 +4,15 @@ image: images/author.jpg
 description: Need to drive sales to your business?
 
 ---
-Are you an independent artist or designer?
+Are you a school, college or university?
 
-If so, I help creatives promote their businesses using content and social media strategies.
+Do you sell art or language courses?
+
+Do you want to build brand awareness or enter a new market?
+
+If so, I can help you promote your business by writing blog posts.
+
+And using social media strategies to share your articles.
 
 ## **My story**
 
@@ -18,7 +24,7 @@ I enrolled on a PGCE program. I loved it initially but my excitement slowly turn
 
 I used the remnants of my student loan to pay for a course in Teaching English as a Foreign Language. After a month of intensive training, I received my TESOL certificate.
 
-Soon after I was jetting off to Spain to teach English. Spain led to teaching and living in Vietnam for 4 years. 
+Soon after I was jetting off to Spain to teach English. Spain led to teaching and living in Vietnam for 4 years.
 
 Around that time the print on demand trend was booming. So, I decided to hop on that wagon. I had worked remotely before as some of my teaching days included teaching online. So I knew I would be comfortable working remotely.
 
