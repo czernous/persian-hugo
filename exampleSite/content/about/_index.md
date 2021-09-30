@@ -16,7 +16,7 @@ Ask Dan Lok says " For every 1000 dollars they need to consume at least 1 hour o
 
 So if you're ready to build trust by becoming an authority in your niche.  And want potential clients coming to you rather than constantly approaching them.
 
-Then schedule a discovery call using the contact form.
+Then schedule a [discovery call ](https://www.ruthchernous.com/contact/ "Contact me")with me. 
 
 ## **My story**
 
