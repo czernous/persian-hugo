@@ -8,7 +8,7 @@ Do you sell art or language courses?
 
 Is your goal to build brand awareness or enter a new market?
 
-If so, I can help you promote your business by writing blog and social posts.
+If so, I use my background in Education and Art to can help you promote your business by writing blog and social posts.
 
 Often businesses forget that the best way to persuade clients to buy from you is by focusing on them and giving them value first before asking for a sale.
 
