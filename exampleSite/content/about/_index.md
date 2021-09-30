@@ -4,8 +4,6 @@ image: images/author.jpg
 description: Need to drive sales to your business?
 
 ---
-Are you a school, college or university?
-
 Do you sell art or language courses?
 
 Do you want to build brand awareness or enter a new market?
@@ -13,6 +11,8 @@ Do you want to build brand awareness or enter a new market?
 If so, I can help you promote your business by writing blog posts.
 
 And using social media strategies to share your articles.
+
+Contact me for a quote.
 
 ## **My story**
 
