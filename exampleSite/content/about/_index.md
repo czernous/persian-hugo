@@ -4,15 +4,19 @@ image: images/author.jpg
 description: Need to drive sales to your business?
 
 ---
-Do you sell art or language courses?
+Do you sell art or language courses? 
 
-Do you want to build brand awareness or enter a new market?
+Is your goal to build brand awareness or enter a new market?
 
-If so, I can help you promote your business by writing blog posts.
+If so, I can help you promote your business by writing blog and social posts.
 
-And using social media strategies to share your articles.
+Often businesses forget that the best way to persuade clients to buy from you is by focusing on them and giving them value first before asking for a sale.
 
-Contact me for a quote.
+Ask Dan Lok says " For every 1000 dollars they need to consume at least 1 hour of your content"
+
+So if you're ready to build trust by becoming an authority in your niche.  And want potential clients coming to you rather than constantly approaching them.
+
+Then schedule a discovery call using the contact form.
 
 ## **My story**
 
