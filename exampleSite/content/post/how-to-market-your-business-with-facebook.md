@@ -5,16 +5,32 @@ cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-09-29T17:00:00Z
 description = "Market your business with Facebook"
 draft = true
-image = ""
-tags = []
-title = "How to market your business with Facebook"
+image = "/v1633649734/is_facebook_marketing_worth_it_ephofv.jpg"
+tags = ["Social media", "digital marketing", "business"]
+title = "Is Facebook Marketing is worth it?"
 
 +++
 Are you a small business owner looking to increase your brand awareness or extend your reach?
 
 According to Hubspot, there are 1.56 billion users on Facebook every day which is why adding Facebook to your marketing strategy can do wonders for your business.
 
-In this article, I will discuss how to market your business with Facebook.
+In this article, I will discuss why Facebook marketing is worth it and how to market your business with Facebook.
+
+![Using Facebook on your phone](https://res.cloudinary.com/ruthchernous/image/upload/v1633649716/Why_facebook_marketing_is_worth_it_fe9yrn.jpg)
+
+## **What is Facebook marketing good for?**
+
+Facebook can help you reach a number of business goals. Because you can segment your audience and create different ads to reach these individuals.
+
+Facebook allows you to save heaps of money compared to traditional advertising where you create content for the masses and hope that someone will be interested in your offer
+
+You can add links in your posts which is really useful for sending traffic to your site as followers can easily click the link and go to your website to find out more information.
+
+It can help you create backlinks through likes and shares as this tells Google that your website is authoritative and includes valuable content.
+
+[https://sendpulse.com/support/glossary/facebook-marketing](https://sendpulse.com/support/glossary/facebook-marketing "https://sendpulse.com/support/glossary/facebook-marketing")
+
+Now that you are aware of the benefits of Facebook Marketing. Let’s get into How Facebook works.
 
 ## **What is Facebook marketing and how does it work?**
 
@@ -22,7 +38,11 @@ Facebook is a platform that offers multiple ways to market your business online.
 
 ### **Organic reach**
 
-A business owner might create content that is useful to their customers. They might answer potential questions that users have. By providing value the business is able to grow followers and drive traffic to their website. Organic reach on Facebook is a lot harder than it used to be. One reason is that Facebook limits how many people see your posts to encourage users to pay for Ads. But Neil Patel says Newsfeeds on Facebook are unable to keep up with the amount of published content. There just isn’t enough space for all the content. Another reason is that Facebook only shows the most relevant content to its users.
+A business owner might create content that is useful to their customers. They might answer potential questions that users have. By providing value the business is able to grow followers and drive traffic to their website. 
+
+Organic reach on Facebook is a lot harder than it used to be. One reason is that Facebook limits how many people see your posts to encourage users to pay for Ads. 
+
+Neil Patel mentions in his blog that Newsfeeds on Facebook are unable to keep up with the amount of published content. There just isn’t enough space for all the content. So Facebook only shows the most relevant content to its users.
 
 ### **Facebook Ads**
 
@@ -42,19 +62,7 @@ If you have a budget for advertising and want fast results then using Facebook a
 
 There are different groups on Facebook so it is highly likely you will be able to find one in your niche. Sign up and communicate with other members of the group. I wouldn’t promote anything in the group until you have given value for at least a month. As an industry expert, you can answer questions and help other members with their problems.
 
-## **What is Facebook marketing good for?**
-
-Facebook can help you reach a number of business goals. Because you can segment your audience and create different ads to reach these individuals. 
-
-Facebook allows you to save heaps of money compared to traditional advertising where you create content for the masses and hope that someone will be interested in your offer
-
-You can add links in your posts which is really useful for sending traffic to your site as followers can easily click the link and go to your website to find out more information.
-
-It can help you create backlinks through likes and shares as this tells Google that your website is authoritative and includes valuable content.
-
-[https://sendpulse.com/support/glossary/facebook-marketing](https://sendpulse.com/support/glossary/facebook-marketing "https://sendpulse.com/support/glossary/facebook-marketing")
-
-Now that you are aware of the different ways you can market on Facebook. Let’s get into creating a business page. The first thing you need to do is to:
+You now know why Facebook Marketing is worth it and how you might use it to promote your business. Let's get using it.
 
 ## **How to create a profile**
 
@@ -90,7 +98,7 @@ Related: [https://www.ruthchernous.com/post/promote-your-business-with-linked-in
 
 Before creating your posts. Come up with different sub-topics based on your main topic. For instance, if your topic is digital marketing you might create content based on Email Marketing, SEO, Video Marketing, Affiliate marketing.
 
-Next, make sure your post is engaging enough to persuade readers to click on a link that leads to your blog and website. 
+Next, make sure your post is engaging enough to persuade readers to click on a link that leads to your blog and website.
 
 One way to do this is to ask a question. Your readers can then click on your link to find out the answers to your question.
 
@@ -104,17 +112,17 @@ Your posts shouldn’t be longer than 160 characters and make sure your post is 
 
 ## **What is the best time to post on Facebook?**
 
-There are different opinions on how often you should post. But I think it depends on your target audience. 
+There are different opinions on how often you should post. But I think it depends on your target audience.
 
-It is best to experiment to see how well your followers respond to the frequency of your posts. 
+It is best to experiment to see how well your followers respond to the frequency of your posts.
 
 Start posting a few times a day, look at your insights on Facebook to see when you got the most engagement and tailor your posting times to that.
 
 ## **What type of content is best for Facebook?**
 
-It is always a good idea to have a platform like your website or blog and repurpose that content for your social media. 
+It is always a good idea to have a platform like your website or blog and repurpose that content for your social media.
 
-You could pull out quotes from your blog or you could create infographics based on your content to share on social media. 
+You could pull out quotes from your blog or you could create infographics based on your content to share on social media.
 
 [Social media examiner](https://www.socialmediaexaminer.com/repurpose-blog-content-for-social-media/) suggests creating an outline for your blog posts before writing and using your outline as inspiration for your social media posts.
 
@@ -127,11 +135,11 @@ You could pull out quotes from your blog or you could create infographics based 
 
 ## **Conclusion**
 
-Being one of the largest Social Media platforms with the largest demographic. Facebook Marketing makes sense for a lot of businesses irrespective of the type of audience or size. 
+Being one of the largest Social Media platforms with the largest demographic. Facebook Marketing makes sense for a lot of businesses irrespective of the type of audience or size.
 
 Not to mention Facebook Ads. You could combine both worlds by sharing content and using retargeting Ads to market to your followers or boost popular posts.
 
-If you hope to use Facebook as part of your marketing strategy? How do intend on using it? 
+If you hope to use Facebook as part of your marketing strategy? How do intend on using it?
 
 Or maybe you have been using Facebook for some time. If so, what strategies have you found effective?
 
