@@ -20,21 +20,21 @@ In this article, I will discuss why Facebook marketing is worth it and how to ma
 
 ## **What is Facebook marketing good for?**
 
-Facebook can help you reach a number of business goals. Because you can segment your audience and create different ads to reach these individuals.
+Facebook allows you to save heaps of money compared to traditional advertising 
 
-Facebook allows you to save heaps of money compared to traditional advertising where you create content for the masses and hope that someone will be interested in your offer
+As you can segment your audience and create different ads to reach these individuals rather than pushing out content for the masses and hoping for the best.
 
 You can add links in your posts which is really useful for sending traffic to your site as followers can easily click the link and go to your website to find out more information.
 
 It can help you create backlinks through likes and shares as this tells Google that your website is authoritative and includes valuable content.
 
-[https://sendpulse.com/support/glossary/facebook-marketing](https://sendpulse.com/support/glossary/facebook-marketing "https://sendpulse.com/support/glossary/facebook-marketing")
+More benefits: [https://www.lyfemarketing.com/blog/facebook-advertising-benefits/](https://www.lyfemarketing.com/blog/facebook-advertising-benefits/ "https://www.lyfemarketing.com/blog/facebook-advertising-benefits/")
 
 Now that you are aware of the benefits of Facebook Marketing. Let’s get into How Facebook works.
 
 ## **What is Facebook marketing and how does it work?**
 
-Facebook is a platform that offers multiple ways to market your business online. Some ways to use Facebook to market your business are:
+Facebook is a platform that offers multiple ways to market your business online. Some ways to use Facebook are:
 
 ### **Organic reach**
 
@@ -60,7 +60,9 @@ If you have a budget for advertising and want fast results then using Facebook a
 
 ### **Facebook groups**
 
-There are different groups on Facebook so it is highly likely you will be able to find one in your niche. Sign up and communicate with other members of the group. I wouldn’t promote anything in the group until you have given value for at least a month. As an industry expert, you can answer questions and help other members with their problems.
+There are different groups on Facebook so it is highly likely you will be able to find one in your niche. Sign up and communicate with other members of the group. 
+
+I wouldn’t promote anything in the group until you have given value for at least a month. As an industry expert, you can answer questions and help other members with their problems.
 
 You now know why Facebook Marketing is worth it and how you might use it to promote your business. Let's get using it.
 
@@ -80,7 +82,7 @@ Next, is the story section. Here, you can tell your audience how you started you
 
 ### **Add a cover photo**
 
-Also, you will see an area for your header image. Here, you can include images that highlight information about your business. These could be promotions or simply your mission statement. A mission statement is a sentence or two that tells readers what your business does.
+Your header image allows you to include images that highlight information about your business. These could be promotions or simply your mission statement. A mission statement is a sentence or two that tells readers what your business does.
 
 ### **Use a call to action**
 
