@@ -1,0 +1,146 @@
++++
+author = "Ruth Chernous"
+categories = []
+cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
+date = 2021-09-29T17:00:00Z
+description = "Market your business with Facebook"
+draft = true
+image = ""
+tags = []
+title = "How to market your business with Facebook"
+
++++
+Are you a small business owner looking to increase your brand awareness or extend your reach?
+
+According to Hubspot, there are 1.56 billion users on Facebook every day which is why adding Facebook to your marketing strategy can do wonders for your business.
+
+In this article, I will discuss how to market your business with Facebook.
+
+## **What is Facebook marketing and how does it work?**
+
+Facebook is a platform that offers multiple ways to market your business online. Some ways to use Facebook to market your business are:
+
+### **Organic reach**
+
+A business owner might create content that is useful to their customers. They might answer potential questions that users have. By providing value the business is able to grow followers and drive traffic to their website. Organic reach on Facebook is a lot harder than it used to be. One reason is that Facebook limits how many people see your posts to encourage users to pay for Ads. But Neil Patel says Newsfeeds on Facebook are unable to keep up with the amount of published content. There just isn’t enough space for all the content. Another reason is that Facebook only shows the most relevant content to its users.
+
+### **Facebook Ads**
+
+If you have a budget for advertising and want fast results then using Facebook ads is the way to go. There are different types of ads you can use to promote your business. Some examples are:
+
+**Carousel:** An ad that contains more than 1 image. Each image can have its own link
+
+**Poll:** For instance, if you are an ice cream shop, you could create a poll; What ice cream is your favourite flavour? Chocolate or Vanilla? A poll allows the creator and the voter to see what other people voted for.
+
+**Image:** This type of ad contains an image, text and a call to action.
+
+**Video:** Sometimes the best way to showcase your business is by creating a video. This could work well for service-based businesses.
+
+[https://blog.hootsuite.com/how-to-advertise-on-facebook/](https://blog.hootsuite.com/how-to-advertise-on-facebook/ "https://blog.hootsuite.com/how-to-advertise-on-facebook/")
+
+### **Facebook groups**
+
+There are different groups on Facebook so it is highly likely you will be able to find one in your niche. Sign up and communicate with other members of the group. I wouldn’t promote anything in the group until you have given value for at least a month. As an industry expert, you can answer questions and help other members with their problems.
+
+## **What is Facebook marketing good for?**
+
+Facebook can help you reach a number of business goals. Because you can segment your audience and create different ads to reach these individuals. 
+
+Facebook allows you to save heaps of money compared to traditional advertising where you create content for the masses and hope that someone will be interested in your offer
+
+You can add links in your posts which is really useful for sending traffic to your site as followers can easily click the link and go to your website to find out more information.
+
+It can help you create backlinks through likes and shares as this tells Google that your website is authoritative and includes valuable content.
+
+[https://sendpulse.com/support/glossary/facebook-marketing](https://sendpulse.com/support/glossary/facebook-marketing "https://sendpulse.com/support/glossary/facebook-marketing")
+
+Now that you are aware of the different ways you can market on Facebook. Let’s get into creating a business page. The first thing you need to do is to:
+
+## **How to create a profile**
+
+### **Choose a business name**
+
+To create your Facebook page, you need to create a business name and a username. The username will be used to search and find your business on Facebook.
+
+### **Choose a business photo**
+
+You also need a profile picture. A logo can be uploaded as a profile picture.
+
+### **Create your brand story**
+
+Next, is the story section. Here, you can tell your audience how you started your business and what makes you different. Creating a good brand story builds an emotional connection between you and your audience.
+
+### **Add a cover photo**
+
+Also, you will see an area for your header image. Here, you can include images that highlight information about your business. These could be promotions or simply your mission statement. A mission statement is a sentence or two that tells readers what your business does.
+
+### **Use a call to action**
+
+A call to action is a phrase that tells your audience to take action. Some examples of calls to action are:
+
+* Subscribe
+* Buy now
+* Download
+* Subscribe
+* Learn more
+
+Related: [https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/](https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/ "https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/")
+
+## **What should I write on a Facebook post?**
+
+Before creating your posts. Come up with different sub-topics based on your main topic. For instance, if your topic is digital marketing you might create content based on Email Marketing, SEO, Video Marketing, Affiliate marketing.
+
+Next, make sure your post is engaging enough to persuade readers to click on a link that leads to your blog and website. 
+
+One way to do this is to ask a question. Your readers can then click on your link to find out the answers to your question.
+
+Add a picture, video or gif alongside your text. Landscape images are better for social media and online content and make sure to use good quality photos.
+
+Similar to creating your profile your individual post should also contain a [call to action](https://adespresso.com/blog/call-to-action-examples/).
+
+## **How many words should a social media post be?**
+
+Your posts shouldn’t be longer than 160 characters and make sure your post is easy to read and digest. [According to influencer marketing](https://influencermarketinghub.com/best-length-for-social-media-posts/), 40- 80 characters work best for Facebook.
+
+## **What is the best time to post on Facebook?**
+
+There are different opinions on how often you should post. But I think it depends on your target audience. 
+
+It is best to experiment to see how well your followers respond to the frequency of your posts. 
+
+Start posting a few times a day, look at your insights on Facebook to see when you got the most engagement and tailor your posting times to that.
+
+## **What type of content is best for Facebook?**
+
+It is always a good idea to have a platform like your website or blog and repurpose that content for your social media. 
+
+You could pull out quotes from your blog or you could create infographics based on your content to share on social media. 
+
+[Social media examiner](https://www.socialmediaexaminer.com/repurpose-blog-content-for-social-media/) suggests creating an outline for your blog posts before writing and using your outline as inspiration for your social media posts.
+
+## **How to manage your Facebook account?**
+
+* After creating your posts, keep your followers engaged by persuading them to comment on your posts.
+* Analyse your insights to see which posts are doing well and create more of that content.
+* Engage with your followers
+* Share discounts and exclusive information
+
+## **Conclusion**
+
+Being one of the largest Social Media platforms with the largest demographic. Facebook Marketing makes sense for a lot of businesses irrespective of the type of audience or size. 
+
+Not to mention Facebook Ads. You could combine both worlds by sharing content and using retargeting Ads to market to your followers or boost popular posts.
+
+If you hope to use Facebook as part of your marketing strategy? How do intend on using it? 
+
+Or maybe you have been using Facebook for some time. If so, what strategies have you found effective?
+
+Please share in the comments below!
+
+**Further reading**
+
+[**https://sendpulse.com/support/glossary/facebook-marketing**](https://sendpulse.com/support/glossary/facebook-marketing "https://sendpulse.com/support/glossary/facebook-marketing")
+
+[**https://neilpatel.com/blog/13-secrets-thatll-boost-your-facebook-organic-reach/**](https://neilpatel.com/blog/13-secrets-thatll-boost-your-facebook-organic-reach/ "https://neilpatel.com/blog/13-secrets-thatll-boost-your-facebook-organic-reach/")
+
+[**https://www.hubspot.com/facebook-marketing**](https://www.hubspot.com/facebook-marketing "https://www.hubspot.com/facebook-marketing")
