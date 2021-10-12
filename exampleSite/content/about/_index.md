@@ -10,7 +10,12 @@ Welcome to my personal blog.
 
 Here, I share all my curiosities with you.
 
-From Digital Marketing, Design, Language Learning, Hair and Beauty.
+From:
+
+* Digital Marketing
+* Design, 
+* Language Learning
+* Hair and Beauty
 
 ## **My story**
 
