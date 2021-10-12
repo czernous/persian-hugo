@@ -4,19 +4,13 @@ image: images/author.jpg
 description: Need to drive sales to your business?
 
 ---
-Do you sell art or language courses?
+Hi I'm Ruth.
 
-Is your goal to build brand awareness or enter a new market?
+Welcome to my personal blog.
 
-If so, I use my background in Education and Art to can help you promote your business by writing blog posts and articles that educate your audience.
+Here, I share all my curiosities with you.
 
-Often businesses forget that the best way to persuade clients to buy from you is by focusing on them and giving them value first before asking for a sale.
-
-Ask Dan Lok says "For every 1000 dollars they need to consume at least 1 hour of your content"
-
-So if you're ready to build trust by becoming an authority in your niche.  And want potential clients coming to you rather than constantly approaching them.
-
-Then schedule a [discovery call ](https://www.ruthchernous.com/contact/ "Contact me")with me.
+From Digital Marketing, Design, Language Learning, Hair and Beauty.
 
 ## **My story**
 
