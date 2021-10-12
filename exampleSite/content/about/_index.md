@@ -13,7 +13,7 @@ Here, I share all my curiosities with you.
 From:
 
 * Digital Marketing
-* Design, 
+* Design
 * Language Learning
 * Hair and Beauty
 
