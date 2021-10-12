@@ -19,7 +19,7 @@ In this article, I will discuss why Facebook marketing is worth it and how to ma
 
 ## **What is Facebook marketing good for?**
 
-Facebook allows you to save heaps of money compared to traditional advertising 
+Facebook allows you to save heaps of money compared to traditional advertising
 
 As you can segment your audience and create different ads to reach these individuals rather than pushing out content for the masses and hoping for the best.
 
@@ -27,9 +27,9 @@ You can add links in your posts which is really useful for sending traffic to yo
 
 It can help you create backlinks through likes and shares as this tells Google that your website is authoritative and includes valuable content.
 
-More benefits: [https://www.lyfemarketing.com/blog/facebook-advertising-benefits/](https://www.lyfemarketing.com/blog/facebook-advertising-benefits/ "https://www.lyfemarketing.com/blog/facebook-advertising-benefits/")
+Related: [https://www.lyfemarketing.com/blog/facebook-advertising-benefits/](https://www.lyfemarketing.com/blog/facebook-advertising-benefits/ "https://www.lyfemarketing.com/blog/facebook-advertising-benefits/")
 
-Now that you are aware of the benefits of Facebook Marketing. Let’s get into How Facebook works.
+Now that you are aware of what Facebook can do for your business. Let’s see how Facebook works.
 
 ## **What is Facebook marketing and how does it work?**
 
@@ -37,11 +37,11 @@ Facebook is a platform that offers multiple ways to market your business online.
 
 ### **Organic reach**
 
-A business owner might create content that is useful to their customers. They might answer potential questions that users have. By providing value the business is able to grow followers and drive traffic to their website. 
+A business owner might create content that is useful to their customers. They might answer potential questions that users have. By providing value the business is able to grow followers and drive traffic to their website.
 
-Organic reach on Facebook is a lot harder than it used to be. One reason is that Facebook limits how many people see your posts to encourage users to pay for Ads. 
+Organic reach on Facebook is a lot harder than it used to be. One reason is that Facebook limits how many people see your posts to encourage users to pay for Ads.
 
-Neil Patel mentions in his blog that Newsfeeds on Facebook are unable to keep up with the amount of published content. There just isn’t enough space for all the content. So Facebook only shows the most relevant content to its users.
+Neil Patel mentions in his blog that Newsfeeds on Facebook are unable to keep up with the amount of published content. There isn’t enough space for all the content. So Facebook only shows the most relevant content to its users.
 
 ### **Facebook Ads**
 
@@ -55,15 +55,15 @@ If you have a budget for advertising and want fast results then using Facebook a
 
 **Video:** Sometimes the best way to showcase your business is by creating a video. This could work well for service-based businesses.
 
-[https://blog.hootsuite.com/how-to-advertise-on-facebook/](https://blog.hootsuite.com/how-to-advertise-on-facebook/ "https://blog.hootsuite.com/how-to-advertise-on-facebook/")
+Related: [https://blog.hootsuite.com/how-to-advertise-on-facebook/](https://blog.hootsuite.com/how-to-advertise-on-facebook/ "https://blog.hootsuite.com/how-to-advertise-on-facebook/")
 
 ### **Facebook groups**
 
-There are different groups on Facebook so it is highly likely you will be able to find one in your niche. Sign up and communicate with other members of the group. 
+There are different groups on Facebook so it is highly likely you will be able to find one in your niche. Sign up and communicate with other members of the group.
 
 I wouldn’t promote anything in the group until you have given value for at least a month. As an industry expert, you can answer questions and help other members with their problems.
 
-You now know why Facebook Marketing is worth it and how you might use it to promote your business. Let's get using it.
+You now know why Facebook Marketing is worth it and how you might use it to promote your business. Let's learn how to use it.
 
 ## **How to create a profile**
 
@@ -90,14 +90,13 @@ A call to action is a phrase that tells your audience to take action. Some examp
 * Subscribe
 * Buy now
 * Download
-* Subscribe
 * Learn more
 
 Related: [https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/](https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/ "https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/")
 
 ## **What should I write on a Facebook post?**
 
-Before creating your posts. Come up with different sub-topics based on your main topic. For instance, if your topic is digital marketing you might create content based on Email Marketing, SEO, Video Marketing, Affiliate marketing.
+Before creating your posts. Come up with different sub-topics based on your main topic. For instance, if your topic is Digital Marketing you might create content based on Email Marketing, SEO, Video Marketing, Affiliate marketing.
 
 Next, make sure your post is engaging enough to persuade readers to click on a link that leads to your blog and website.
 
