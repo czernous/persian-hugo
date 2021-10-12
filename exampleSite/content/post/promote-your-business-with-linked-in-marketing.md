@@ -105,7 +105,9 @@ Keep in mind that your article should be between 300 to 500 words. Also, share y
 
 * **Blog post**
 
-Similar to an article you can also create a blog post. Include subheadings as they help readers scan your information to the section they find the most relevant. Use images and bullets to break up your text and include lots of white space. You shouldn’t have more than four sentences in each paragraph.
+Similar to an article you can also create a blog post and share the link on your page. When writing a blog post or article. Include subheadings as they help readers scan your information to the section they find the most relevant. Use images and bullets to break up your text and include lots of white space. You shouldn’t have more than four sentences in each paragraph.
+
+You can also share blog posts from other websites. Before sharing. Write a quick summary of your take on the blog posts and share the link.
 
 * **Pictures**
 
@@ -150,7 +152,7 @@ After running your page for some time it might be in your interest to increase y
 * If you are a company with employees tell people in your company about important posts
 * Promote your company's Linked In page using emails newsletters and blog posts
 * Use [paid promotio](https://business.linkedin.com/marketing-solutions/how-to-advertise-on-linkedin)n like sponsored content to boost your feed, Text Ads and Sponsored InMail
-* A/B test your posts to see which is most effective and similar posts
+* A/B test your posts to see which is most effective and create imilar posts
 
   ### **7. Keep track of your analytics**
 
