@@ -13,7 +13,7 @@ Here, I share all my curiosities with you.
 From:
 
 * Digital Marketing
-* Design
+* Art and Design
 * Language Learning
 * Hair and Beauty
 
@@ -37,6 +37,8 @@ My frustration triggered an obsession to learn how to market. Since then, I have
 
 So far, I have completed a Level 4 in Copywriting and am in the midst of completing a Level 4 in Social Media Marketing. I hope to complete a certificate in SEO at a later date.
 
-All this studying inspired me to share the knowledge gained from my courses on my blog to help others market their businesses online.
+All this studying inspired me to share the knowledge gained from my courses on my blog to help other creatives market their businesses online.
+
+Marketing isn't an area of focus on creative courses. Even though funny enough it is one of the most important aspects of being an artist or designer. So my blog fills that knowledge gap.
 
 When I am not writing, you will find me reading, travelling, working out, crocheting and watching movies with my family.
