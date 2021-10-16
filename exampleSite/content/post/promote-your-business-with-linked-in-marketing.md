@@ -9,11 +9,11 @@ tags = ["Social Media", "Digital Marketing", "Business"]
 title = "Promote your business with Linked In Marketing"
 
 +++
-Before studying my social media marketing course. It never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs.
+For some reason, it had never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs.
 
-So, therefore my profile always consisted of a few details of who I was and my educational and work history.
+So, therefore my profile always consisted of my educational background and work history.
 
-But learning more about Linked In has made me realise that the possibilities are endless when it comes to marketing on this platform.
+But learning more about Linked In has shown me the endless possibilities this platform has to offer.
 
 So if your company sells B2B products or services, then Linked In Marketing is the way to go to push your small business to the next level.
 
