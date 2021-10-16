@@ -9,7 +9,7 @@ tags = ["copywriting", "marketing", "Business"]
 title = "13 tips to writing truly working advertorials "
 
 +++
-So you have a business or you plan to start one. You're not interested in Social Media or Google Ads. Why not try Advertorials?
+You have a business or plan to start one. You're not interested in Social Media or Google Ads. Why not try Advertorials?
 
 You can kill two birds with one stone by educating your customers whilst driving conversion.
 
