@@ -9,11 +9,11 @@ tags = ["Copywriting", "Marketing", "Business", ""]
 title = "15 principles of writing good headlines"
 
 +++
-Writing content is a good way for businesses to show off their expertise.
+There's a reason why experts suggest coming up with 25 headlines before choosing the final one for your article.
 
-However, no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content.
+Because no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content.
 
-This is why it is important to spend enough time writing your headlines.
+So always make sure to spend enough time writing your headlines.
 
 In this article, I will share 15 principles of writing good headlines.
 
