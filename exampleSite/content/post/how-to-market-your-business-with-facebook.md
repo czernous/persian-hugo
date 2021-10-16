@@ -9,7 +9,7 @@ tags = ["Social media", "digital marketing", "business"]
 title = "Is Facebook Marketing is worth it?"
 
 +++
-Are you a small business owner looking to increase your brand awareness or extend your reach?
+Are you looking to increase your brand awareness or extend your reach?
 
 According to Hubspot, there are 1.56 billion users on Facebook every day which is why adding Facebook to your marketing strategy can do wonders for your business.
 
