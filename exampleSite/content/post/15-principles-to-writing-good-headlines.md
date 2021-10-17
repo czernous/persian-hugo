@@ -136,9 +136,3 @@ So what techniques do you use when creating your headlines?
 How many headlines do you create before choosing the right one?
 
 Let me know in the comments.
-
-**Related content**
-
-[**https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/**](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/")
-
-[**https://www.ruthchernous.com/post/how-to-write-an-advertorial/**](https://www.ruthchernous.com/post/how-to-write-an-advertorial/ "https://www.ruthchernous.com/post/how-to-write-an-advertorial/")
