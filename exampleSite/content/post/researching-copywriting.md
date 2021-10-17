@@ -50,8 +50,6 @@ Some of his students chose premium meat, others chose buns with seeds etc. He sa
 
 This statement really resonated with me. Because similar to the burger story your content needs a starving crowd. You need to find an audience so desperate to consume your content because it solves their problem.
 
-![Copywriting research quote](https://res.cloudinary.com/ruthchernous/image/upload/v1632161121/Copywriting_research_quote_w8ruxe.jpg "Copywriting research quote")
-
 ## **2. Company research**
 
 When writing content for your business.  You should know jot down everything about your business. This will help you create content that aligns with your brand. Start with these questions:
