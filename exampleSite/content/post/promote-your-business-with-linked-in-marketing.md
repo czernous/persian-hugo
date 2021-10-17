@@ -6,7 +6,7 @@ date = 2021-09-22T21:33:00Z
 description = "How to market your business on Linked In"
 image = "/v1632342274/Market_your_business_on_Linked_In_mjfvlg.jpg"
 tags = ["Social Media", "Digital Marketing", "Business"]
-title = "Promote your business with Linked In Marketing"
+title = "How to market on Linked In"
 
 +++
 For some reason, it had never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs.
@@ -18,6 +18,8 @@ But learning more about Linked In has shown me the endless possibilities this pl
 So if your company sells B2B products or services, then Linked In Marketing is the way to go to push your small business to the next level.
 
 In this article, I will show you how to market your business on Linked In.
+
+![How to market on Linked In](https://res.cloudinary.com/ruthchernous/image/upload/v1634434326/How_to_market_on_Linked_In_xt5kwp.jpg "How to market on Linked In")
 
 ## **What are the benefits of Linked In Marketing?**
 
@@ -42,8 +44,6 @@ Having a goal helps you measure to see if you have marketing efforts have been s
 
 ### **2. Set up a profile**
 
-![Tips to creating a profile when promoting your business with Linked In Marketing](https://res.cloudinary.com/ruthchernous/image/upload/v1632342016/How_to_create_a_Linked_In_profile_yzauwv.jpg "Linked In Marketing")
-
 Once you have decided on a goal, you need to create a profile. That should include:
 
 * A professional headshot with a clear background
@@ -65,8 +65,6 @@ Before you start creating your post you need to know who your audience is and wh
 Then, choose 2-3 themes or topics which form the basis of your posts. This helps build your credibility in those areas.
 
 Next, create a headline. Using a question creates the most engagement. But there are different ways to create a good headline.
-
-Related: [https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/](https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/ "https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/")
 
 Your post should be 20 to 30 words long and it should build enough curiosity to persuade your reader to click on your website.
 
@@ -152,7 +150,7 @@ After running your page for some time it might be in your interest to increase y
 * If you are a company with employees tell people in your company about important posts
 * Promote your company's Linked In page using emails newsletters and blog posts
 * Use [paid promotio](https://business.linkedin.com/marketing-solutions/how-to-advertise-on-linkedin)n like sponsored content to boost your feed, Text Ads and Sponsored InMail
-* A/B test your posts to see which is most effective and create imilar posts
+* A/B test your posts to see which is most effective and create similar posts
 
   ### **7. Keep track of your analytics**
 
