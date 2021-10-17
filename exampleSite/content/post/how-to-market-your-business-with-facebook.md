@@ -6,16 +6,16 @@ date = 2021-09-29T17:00:00Z
 description = "Market your business with Facebook"
 image = "/v1633649734/is_facebook_marketing_worth_it_ephofv.jpg"
 tags = ["Social media", "digital marketing", "business"]
-title = "Is Facebook Marketing is worth it?"
+title = "How to market your business on Facebook"
 
 +++
 Are you looking to increase your brand awareness or extend your reach?
 
 According to Hubspot, there are 1.56 billion users on Facebook every day which is why adding Facebook to your marketing strategy can do wonders for your business.
 
-In this article, I will discuss why Facebook marketing is worth it and how to market your business with Facebook.
+In this article, I will discuss how to market your business on Facebook.
 
-![Using Facebook on your phone](https://res.cloudinary.com/ruthchernous/image/upload/v1633649716/Why_facebook_marketing_is_worth_it_fe9yrn.jpg)
+![Graphic with how to market your business on Facebook](https://res.cloudinary.com/ruthchernous/image/upload/v1634433974/How_to_market_your_business_on_Facebook_uopx6g.jpg "How to market your business on Facebook")
 
 ## **What is Facebook marketing good for?**
 
@@ -91,8 +91,6 @@ A call to action is a phrase that tells your audience to take action. Some examp
 * Buy now
 * Download
 * Learn more
-
-Related: [https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/](https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/ "https://www.ruthchernous.com/post/promote-your-business-with-linked-in-marketing/")
 
 ## **What should I write on a Facebook post?**
 
