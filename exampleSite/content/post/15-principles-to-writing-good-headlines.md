@@ -6,20 +6,20 @@ date = 2021-08-31T17:02:00Z
 description = "Stop turning readers away by using these techniques to write good headlines"
 image = "/v1630429114/Writing_good_headlines_ywhhrs.jpg"
 tags = ["Copywriting", "Marketing", "Business", ""]
-title = "15 principles of writing good headlines"
+title = "15 ways to write headlines"
 
 +++
 There's a reason why experts suggest coming up with 25 headlines before choosing the final one for your article.
 
 Because no matter how valuable and interesting your content is. Without good headlines, readers won’t click through and read your content.
 
-So always make sure to spend enough time writing your headlines.
+So always make sure you spend enough time writing your headlines.
 
-In this article, I will share 15 principles of writing good headlines.
+In this article, I will share 15 ways to write headlines.
 
 So let’s dive in.
 
-![List of 15 principles of writing good headlines](https://res.cloudinary.com/ruthchernous/image/upload/v1632162632/15_principles_of_writing_good_headlines_kigwu0.jpg "15 principles of writing good headlines")
+![graphic saying 15 ways to write headlines](https://res.cloudinary.com/ruthchernous/image/upload/v1634431852/15_ways_to_write_headlines_edc41u.jpg "15 ways to write headlines")
 
 ## **1. Tell your readers what your copy is about.**
 
