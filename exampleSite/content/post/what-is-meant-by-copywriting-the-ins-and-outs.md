@@ -76,8 +76,6 @@ Obviously, you need to be able to write well. But writing doesn’t just include
 
 Without good research, writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
 
-**Related content:** [**https://www.ruthchernous.com/post/researching-copywriting/**](https://www.ruthchernous.com/post/researching-copywriting/ "https://www.ruthchernous.com/post/researching-copywriting/")
-
 ### Editing and Proofreading
 
 This stage requires you to read through your content and rearrange elements that don't fit together. Remember to check for grammar and punctuation mistakes. Of course, no one is perfect which is why using tools like Grammarly helps.
@@ -105,8 +103,6 @@ But the downside is having to compete with other copywriters that may be qualifi
 Personally, I think it is a good idea to write for an industry that you have experience in. This can be professionally or it can be a topic you know a lot about.
 
 That way it is easy for you to differentiate from your competition and charge more money.
-
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1632170166/What_does_a_copywriter_do_swfsjc.jpg)
 
 ### Pitching
 
