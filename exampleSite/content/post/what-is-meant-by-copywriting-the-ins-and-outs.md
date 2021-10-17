@@ -15,7 +15,9 @@ Weirdly, I didn't ask and didn't think about it till my interest in online marke
 
 So if you’re sitting there wondering the same thing. Don’t worry I have you covered.
 
-In this article, I will write about what copywriting entails and how to find work.
+This article is all about Copywriting for beginners: what it entails and how to find work.
+
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1634433490/Copywriting_for_beginners_xjzk6w.jpg)
 
 ## **What is copywriting and how does it work?**
 
