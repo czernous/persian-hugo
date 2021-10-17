@@ -145,9 +145,3 @@ The most important thing is that your content brings something new to the table 
 So what is your go-to method when creating content?
 
 Let me know in the comments.
-
-**Related:**
-
-[**https://www.ruthchernous.com/post/how-to-write-an-advertorial/**](https://www.ruthchernous.com/post/how-to-write-an-advertorial/ "https://www.ruthchernous.com/post/how-to-write-an-advertorial/")
-
-[**https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/**](https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/ "https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/")
