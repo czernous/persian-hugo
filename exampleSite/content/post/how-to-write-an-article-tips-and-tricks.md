@@ -4,7 +4,6 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-10-17T16:55:00Z
 description = "Learn how to write an article: Tips and Tricks"
-draft = true
 image = "/v1634489598/dan-counsell-zIwAchjDirM-unsplash_zgjebg.jpg"
 tags = ["Writing", "Marketing", "Business"]
 title = "How to write an article: Tips and Tricks"
