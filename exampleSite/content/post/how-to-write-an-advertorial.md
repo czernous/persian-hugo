@@ -35,9 +35,7 @@ These are very different as they are written to sell directly. Whereas an Advert
 
 However, when creating Advertorials make sure you tell your readers up front what they are reading is paid content to prevent any confusion.
 
-## **How to write advertorials?**
-
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1632171461/How_to_write_an_advertorial_in_6_steps_xzib4w.jpg)![](https://res.cloudinary.com/ruthchernous/image/upload/v1632171494/How_to_write_an_advertorial_in_6_steps_mjyxny.jpg)![](https://res.cloudinary.com/ruthchernous/image/upload/v1632171614/How_to_write_an_advertorial_in_6_steps_1_ksw4dn.jpg)
+## **How to write advertorials?**![](https://res.cloudinary.com/ruthchernous/image/upload/v1632171494/How_to_write_an_advertorial_in_6_steps_mjyxny.jpg)![](https://res.cloudinary.com/ruthchernous/image/upload/v1632171614/How_to_write_an_advertorial_in_6_steps_1_ksw4dn.jpg)
 
 ### **1. Choose a topic**
 
