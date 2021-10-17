@@ -7,16 +7,16 @@ description = "Get rid of artist's block once and for all"
 draft = true
 image = "/v1631035163/Creative_juices_onoys0.jpg"
 tags = ["Art", "Design", "Creativity"]
-title = "Let's stop artist's block from ruining our creativity "
+title = "Beat artist's block: get those creative juices flowing"
 
 +++
 Suffering from artist's block is something that all artists can relate to. For those of you who haven’t experienced this, artist's block is when you cannot generate ideas.
 
-This can leave you feeling frustrated and unmotivated. Luckily there are ways to tackle this and get your creative juices flowing.
+This can leave you feeling frustrated and unmotivated. Luckily there are ways to tackle this.
 
-But first, let's look at what can block your creativity.
+So, in this article, I will show you how to get those creative juices flowing.
 
-![Beating artists block; a man painting a picture](https://res.cloudinary.com/ruthchernous/image/upload/v1631206247/Get_your_creative_juices_flowing_ffxl7w.jpg "Beating artists block")
+![Graphic saying beat artist's block: get those creative juices flowing](https://res.cloudinary.com/ruthchernous/image/upload/v1634478481/Beat_artist_s_block_mzf2rr.jpg)
 
 ## **What causes artist's block?**
 
@@ -72,7 +72,7 @@ Ideally, you should look at and use trends that are not yet available. You can u
 
 ### **Music**
 
-When going through an artistic block, the last thing you want to do is stress out. This can further affect your creativity.
+When you are unable to get your creative juices flowing, the last thing you want to do is stress out. This can further affect your creativity.
 
 Make a cup of tea and relax to some music. Get out your sketchbook and simply draw what emotion comes to mind. These might be abstract or figurative shapes. Experiment with various materials.
 
