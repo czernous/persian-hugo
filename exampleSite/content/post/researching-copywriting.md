@@ -6,12 +6,10 @@ date = 2021-08-23T11:40:00Z
 description = "Learn how to do copywriting research effectively"
 image = "/v1629718628/Learn_how_to_research_effectively_gnk4yb.jpg"
 tags = ["copywriting", "marketing", "Business"]
-title = "12 effective ways of doing copywriting research"
+title = "11 research methods you shouldn't ignore"
 
 +++
-Should copywriters do research?
-
-Yes, they should. Research is the difference between great and mediocre content.
+Research is the difference between great and mediocre content.
 
 If you didn’t know Google penalizes you if the content on your website is a replica of someone else’s.
 
@@ -21,9 +19,9 @@ There are many ways writers might approach the research phrase. Some might do al
 
 I don’t think the approach matters along as the final outcome speaks to your audience.
 
-So in this article, I will show 12 effective ways of doing copywriting research when writing content for your business.
+So in this article, I will show 11 research methods you shouldn't ignore when writing content for your business.
 
-![A list of 12 effective ways of doing copywriting research](https://res.cloudinary.com/ruthchernous/image/upload/v1632158551/12_effective_ways_of_doing_copywriting_research_2_gt0bve.jpg "12 effective ways of doing copywriting research")
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1634432873/11_research_tips_you_shouldn_t_ignore_ts7hls.jpg)
 
 ## **1. Market Research**
 
@@ -66,7 +64,7 @@ When writing content for your business.  You should know jot down everything abo
 
 ## **3. Product Research**
 
-Let's say you’re selling a product. You really should know everything about your product before you write about it. What are its features and benefits? How did using the product change your life?
+You really should know everything about a product before selling it. The best way to get to know your product is to try it and find out its features and benefits. Take note of how using the product changed your life?
 
 ## **4. Your target audience**
 
@@ -90,11 +88,11 @@ _Advanced search_
 
 If you are looking for something specific it is better to try an advanced search. You can combine keywords or you can search by date or country.
 
-## **6. Google Scholar**
+_Google Scholar_
 
-This platform contains numerous published e-journals in different subject areas. These articles also include a bibliography or a list of references that you can use for further research.
+Contains numerous published e-journals in different subject areas. These articles include a bibliography or a list of references that you can use for further research.
 
-## **7. Books**
+## **6. Books**
 
 This is the method I use the most in combination with the web when I am researching. I go on Amazon and download a sample of a book. Sometimes I use the information in the sample, on other occasions I invest in the book.
 
@@ -102,17 +100,17 @@ Another option is to use Google books or go to a library and get a hard copy of 
 
 I like getting different books and pulling up the most interesting information as-well-as using my own knowledge to recreate a new piece.
 
-## **8. Social media**
+## **7. Social media**
 
 If you’re still stuck for ideas after researching Google. You can also find information on social media. Most social media sites have a search bar where you can include a phrase or a relevant keyword. Remember to put a hashtag alongside the keyword.
 
-## **9. Amazon**
+## **8. Amazon**
 
 Reading your customer's reviews is a great way of doing research. Go through the reviews and use them as inspiration for your copywriting content.
 
 Also, you could go to Amazon, find some books in your business niche and read the reviews.
 
-## **10. Surveys**
+## **9. Surveys**
 
 When creating surveys for research, make sure your questions include qualitative data. Qualitative data doesn’t involve numbers and usually involves open-ended questions that analyze consumer behaviours.
 
@@ -120,13 +118,13 @@ You can email your surveys to customers on social media or by adding them to you
 
 Offering a reward in exchange for completing the survey is a good way of persuading people to take part.
 
-## **11. Interviews**
+## **10. Interviews**
 
 Interviewing is a great way of validating those pain points you have spotted using the previous techniques.
 
 These interviews can be held on the phone, by Skype or in person. Interview your customers and experts in your industry.
 
-## **12. Competitors**
+## **11. Competitors**
 
 Research doesn’t just end with your business, products and consumers. You should also be aware of your competitors.
 
