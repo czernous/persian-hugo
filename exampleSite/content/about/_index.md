@@ -4,18 +4,11 @@ image: images/author.jpg
 description: Need to drive sales to your business?
 
 ---
-Hi I'm Ruth.
+Hi, I'm Ruth.
 
 Welcome to my personal blog.
 
-Here, I share all my curiosities with you.
-
-From:
-
-* Digital Marketing
-* Art and Design
-* Language Learning
-* Hair and Beauty
+Here, I help designers market their businesses online. I share what I have learnt through self-study and online learning.
 
 ## **My story**
 
