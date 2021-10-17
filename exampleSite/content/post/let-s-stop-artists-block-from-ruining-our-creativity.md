@@ -2,9 +2,8 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = 2021-09-29T19:01:00Z
+date = 2021-10-06T19:01:00Z
 description = "Get rid of artist's block once and for all"
-draft = true
 image = "/v1631035163/Creative_juices_onoys0.jpg"
 tags = ["Art", "Design", "Creativity"]
 title = "Beat artist's block: get those creative juices flowing"
