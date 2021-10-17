@@ -33,7 +33,7 @@ An ad usually includes a headline, image and a few sentences about the product a
 
 These are very different as they are written to sell directly. Whereas an Advertorial should inform a reader in the same way as a magazine or newspaper article does.
 
-However, when creating Advertorials make sure you tell your readers upfront what they are reading is paid content to prevent any confusion.
+However, when creating Advertorials make sure you tell your readers up front what they are reading is paid content to prevent any confusion.
 
 ## **How to write advertorials?**
 
@@ -86,11 +86,9 @@ A 15-year-old school dropout tells us how dancing changed her life
 
 Imagine you are writing for your Web Design company. You have chosen to write an article called How to create a website in a week. Now think about ways of finding relevant information for your article.
 
-* You might do a Google search.
-* Interview industry experts.
-* Read books about your subject.
-
-**Related content:** [**https://www.ruthchernous.com/post/researching-copywriting/**](https://www.ruthchernous.com/post/researching-copywriting/ "https://www.ruthchernous.com/post/researching-copywriting/")
+* You might do a Google search
+* Interview industry experts
+* Read books about your subject
 
 ### **5. Write your headline**
 
