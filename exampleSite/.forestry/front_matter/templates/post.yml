@@ -32,7 +32,6 @@ fields:
   label: cloudinaryUrl
   default: https://res.cloudinary.com/ruthchernous/image/upload
 pages:
-- exampleSite/content/post/11-useful-english-learning-tips-for-beginners-and-intermediate-learners.md
 - exampleSite/content/post/15-principles-to-writing-good-headlines.md
 - exampleSite/content/post/how-to-market-your-business-with-facebook.md
 - exampleSite/content/post/how-to-write-an-advertorial.md
