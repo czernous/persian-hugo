@@ -8,7 +8,11 @@ Hi, I'm Ruth.
 
 Welcome to my personal blog.
 
-Here, I help Graphic Designers market their businesses online. I share what I have learnt through self-study and online learning.
+Here, I help Graphic Designers market their businesses online. 
+
+I share articles on what I have learnt through self-study and online courses.
+
+About my two main passions: Digital Marketing and Graphic Design.
 
 ## **My story**
 
