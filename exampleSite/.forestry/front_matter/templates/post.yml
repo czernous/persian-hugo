@@ -32,4 +32,11 @@ fields:
   label: cloudinaryUrl
   default: https://res.cloudinary.com/ruthchernous/image/upload
 pages:
-- exampleSite/content/post/looking-for-an-afro-hair-care-routine-i-got-you.md
+- exampleSite/content/post/15-principles-to-writing-good-headlines.md
+- exampleSite/content/post/how-to-market-your-business-with-facebook.md
+- exampleSite/content/post/how-to-write-an-advertorial.md
+- exampleSite/content/post/how-to-write-an-article-tips-and-tricks.md
+- exampleSite/content/post/let-s-stop-artists-block-from-ruining-our-creativity.md
+- exampleSite/content/post/promote-your-business-with-linked-in-marketing.md
+- exampleSite/content/post/researching-copywriting.md
+- exampleSite/content/post/what-is-meant-by-copywriting-the-ins-and-outs.md
