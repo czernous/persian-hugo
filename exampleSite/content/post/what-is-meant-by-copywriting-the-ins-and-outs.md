@@ -29,6 +29,7 @@ So what is meant by copywriting? Copywriting is the act of using words to sell a
 * **Web SEO**: Written content for your business website or blog that ranks well on Google.
 * **Direct mail**: Written content about your business that is posted to customers through their letterbox.
 * **Press releases**: Information or a story about a business and its products that are sent to magazine or newspaper publishers for promotion.
+* [**Articles and blog posts:**](https://www.ruthchernous.com/post/how-to-write-an-article-tips-and-tricks/ "How to write an article: Tips and Tricks") Usually educational content that builds authority 
 * **Video Scriptwriting**: Information that is written to support video content.
 * **Social Media**: Captions that are written in posts for promotion.
 * **Advertisements**: Content written in [ads](). These can be ads in newspapers or online like Google ads or social media.
