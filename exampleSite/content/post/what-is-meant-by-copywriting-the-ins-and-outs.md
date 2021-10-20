@@ -143,10 +143,10 @@ These guys are often looking for writers to work with. Send them an introductory
 
 So get experience. Here are a few ways to get your foot through the door.
 
-* **Volunteer to a charity:** Help them out for a few months and then ask for a referral or reference.
-* **Friends and family:** Ask people you know who have a business and if they need help with promoting their business. Work for free and ask for a testimonial in return.
+* **Volunteer to a charity:** Help them out for a few months and then ask for a referral or a reference.
+* **Friends and family:** Ask people you know who have a business and if they need help with promoting it. Work for free and ask for a testimonial in return.
 * **Guest post:** Find blogs that you find interesting and offer to write for them. This will help you get exposure and experience.
-* **Internships:** I find these hard to come by. But if you can find one. This is a great way to get your foot through the door.
+* **Internships:** I find these hard to come by. But if you can find one. This is a great way to enter the industry.
 
 ## **How much should I charge as a copywriter?**
 
