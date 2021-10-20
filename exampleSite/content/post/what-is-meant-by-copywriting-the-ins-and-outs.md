@@ -29,7 +29,7 @@ So what is meant by copywriting? Copywriting is the act of using words to sell a
 * **Web SEO**: Written content for your business website or blog that ranks well on Google.
 * **Direct mail**: Written content about your business that is posted to customers through their letterbox.
 * **Press releases**: Information or a story about a business and its products that are sent to magazine or newspaper publishers for promotion.
-* [**Articles and blog posts:**](https://www.ruthchernous.com/post/how-to-write-an-article-tips-and-tricks/ "How to write an article: Tips and Tricks") Usually educational content that builds authority 
+* [**Articles and blog posts:**](https://www.ruthchernous.com/post/how-to-write-an-article-tips-and-tricks/ "How to write an article: Tips and Tricks") Usually educational content that builds authority
 * **Video Scriptwriting**: Information that is written to support video content.
 * **Social Media**: Captions that are written in posts for promotion.
 * **Advertisements**: Content written in [ads](). These can be ads in newspapers or online like Google ads or social media.
@@ -136,6 +136,17 @@ If you struggle to find jobs in your niche. Don’t let your lack of experience 
 ### Agencies
 
 These guys are often looking for writers to work with. Send them an introductory letter and share information about yourself and your copywriting experience. Look for marketing and web design agencies or agencies in your niche.
+
+## **How do I become a copywriter with no experience?**
+
+"Great! I can see I have lots of options when it comes to applying for jobs. But I don't have experience. So companies won't hire me".
+
+So get experience. Here are a few ways to get your foot through the door.
+
+* **Volunteer to a charity:** Help them out for a few months and then ask for a referral or reference.
+* **Friends and family:** Ask people you know who have a business and if they need help with promoting their business. Work for free and ask for a testimonial in return.
+* **Guest post:** Find blogs that you find interesting and offer to write for them. This will help you get exposure and experience.
+* **Internships:** I find these hard to come by. But if you can find one. This is a great way to get your foot through the door.
 
 ## **How much should I charge as a copywriter?**
 
