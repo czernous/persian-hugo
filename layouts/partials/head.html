@@ -16,6 +16,7 @@ AUTHOR WEBSITE: https://themefisher.com
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="p:domain_verify" content="ec1a7f46435ce850eaeb16da98f70e3c"/>
   <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
