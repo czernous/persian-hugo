@@ -31,7 +31,7 @@ So what is meant by copywriting? Copywriting is the act of using words to sell a
 * **Press releases**: Information or a story about a business and its products that are sent to magazine or newspaper publishers for promotion.
 * **Video Scriptwriting**: Information that is written to support video content.
 * **Social Media**: Captions that are written in posts for promotion.
-* **Advertisements**: Content written in ads. These can be ads in newspapers or online like Google ads or social media.
+* **Advertisements**: Content written in [ads](). These can be ads in newspapers or online like Google ads or social media.
 
 I have named several but the list isn’t extensive. There are more types of copywriting content you could focus on that isn’t included in this list.
 
