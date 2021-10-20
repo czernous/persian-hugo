@@ -33,13 +33,15 @@ An ad usually includes a headline, image and a few sentences about the product a
 
 These are very different as they are written to sell directly. Whereas an Advertorial should inform a reader in the same way as a magazine or newspaper article does.
 
-However, when creating Advertorials make sure you tell your readers up front your article is paid content to prevent any confusion.
+However, when creating Advertorials make sure you tell your readers upfront your article is paid content to prevent any confusion.
 
 Some benefits of Ads are:
 
 * They are a quick and effective way of promoting new products and services
 * Helps you increase sales
 * It is easy to stand out from your competition by creating unique graphics and promotional videos
+
+![Graphic saying how to write advertising content](https://res.cloudinary.com/ruthchernous/image/upload/v1634732588/How_to_write_advertising_content_niwh48.jpg "How to write advertising content")
 
 ## **How to write an advertorial**
 
