@@ -9,9 +9,9 @@ tags = ["copywriting", "marketing", "Business"]
 title = "How to write advertising content"
 
 +++
-You have a business or plan to start one. You're not interested in Social Media or Blogging. Why not write some advertising content for your business?
+You have a business or plan to start one. You're not interested in Social Media. So why not use [copywriting](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "Copywriting for beginners") to market your business.
 
-You can kill two birds with one stone by educating your customers whilst driving conversions.
+Advertising content is a good way of killing two birds with one stone by educating your customers whilst driving conversions.
 
 In this article, I will discuss how to write advertising content such as Advertorials and Ads.
 
