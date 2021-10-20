@@ -62,7 +62,7 @@ Luckily you don't need any qualifications to become a copywriter. However, it is
 
 However, not everyone can afford to pay for a course. In this situation, you can teach yourself. To begin, find examples of different types of content. Some examples are leaflets that come in your postbox, promotional emails and articles. Think of ways you could rewrite these.
 
-Practise writing headlines as they are the most important element to write. Without good headlines, readers won’t click on your content. You could start collecting these examples to create a swipe file.
+Practise [writing headlines](https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/ "15 ways to write headlines") as they are the most important element to write. Without good headlines, readers won’t click on your content. You could start collecting these examples to create a swipe file.
 
 A swipe file is a collection of written content that can be used to inspire your writing. I sometimes get stuck when writing headlines. So I often look at examples of headlines for inspiration and think of how I can rewrite them in my own way.
 
