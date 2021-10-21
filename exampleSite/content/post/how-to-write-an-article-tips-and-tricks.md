@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = 2021-10-17T16:55:00Z
+date = ""
 description = "Learn how to write an article: Tips and Tricks"
 image = "/v1634489598/dan-counsell-zIwAchjDirM-unsplash_zgjebg.jpg"
 tags = ["Writing", "Marketing", "Business"]
@@ -25,7 +25,7 @@ But there are so many strategies? Which one should you go with?
 
 Content my darling, content!
 
-I’m sure you’re sick to death, hearing the word content marketing.
+I’m sure you’re sick to death, hearing the word content marketing or [copywriting](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "Copywriting for beginners").
 
 But the truth is that it works.
 
