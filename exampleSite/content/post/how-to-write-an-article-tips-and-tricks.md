@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = ""
+date = 2021-09-24T21:00:00Z
 description = "Learn how to write an article: Tips and Tricks"
 image = "/v1634489598/dan-counsell-zIwAchjDirM-unsplash_zgjebg.jpg"
 tags = ["Writing", "Marketing", "Business"]
