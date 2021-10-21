@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = 2021-08-23T11:40:00Z
+date = ""
 description = "11 research methods you shouldn't ignore when writing content for your business"
 image = "/v1629718628/Learn_how_to_research_effectively_gnk4yb.jpg"
 tags = ["copywriting", "marketing", "Business"]
