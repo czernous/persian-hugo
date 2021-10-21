@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = ""
+date = 2021-09-10T13:02:00Z
 description = "New to copywriting? Check out copywriting for beginners to find out all the ins and outs"
 image = "/v1629443841/anna-auza-D7Q6JpFleK8-unsplash_kho9i2.jpg"
 tags = ["copywriting", "Marketing", "Business"]
