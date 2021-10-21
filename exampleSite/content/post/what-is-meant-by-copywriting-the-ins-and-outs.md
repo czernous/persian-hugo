@@ -29,9 +29,10 @@ So what is meant by copywriting? Copywriting is the act of using words to sell a
 * **Web SEO**: Written content for your business website or blog that ranks well on Google.
 * **Direct mail**: Written content about your business that is posted to customers through their letterbox.
 * **Press releases**: Information or a story about a business and its products that are sent to magazine or newspaper publishers for promotion.
+* [**Articles and blog posts:**](https://www.ruthchernous.com/post/how-to-write-an-article-tips-and-tricks/ "How to write an article: Tips and Tricks") Usually educational content that builds authority
 * **Video Scriptwriting**: Information that is written to support video content.
 * **Social Media**: Captions that are written in posts for promotion.
-* **Advertisements**: Content written in ads. These can be ads in newspapers or online like Google ads or social media.
+* **Advertisements**: Content written in [ads](). These can be ads in newspapers or online like Google ads or social media.
 
 I have named several but the list isn’t extensive. There are more types of copywriting content you could focus on that isn’t included in this list.
 
@@ -62,7 +63,7 @@ Luckily you don't need any qualifications to become a copywriter. However, it is
 
 However, not everyone can afford to pay for a course. In this situation, you can teach yourself. To begin, find examples of different types of content. Some examples are leaflets that come in your postbox, promotional emails and articles. Think of ways you could rewrite these.
 
-Practise writing headlines as they are the most important element to write. Without good headlines, readers won’t click on your content. You could start collecting these examples to create a swipe file.
+Practise [writing headlines](https://www.ruthchernous.com/post/15-principles-to-writing-good-headlines/ "15 ways to write headlines") as they are the most important element to write. Without good headlines, readers won’t click on your content. You could start collecting these examples to create a swipe file.
 
 A swipe file is a collection of written content that can be used to inspire your writing. I sometimes get stuck when writing headlines. So I often look at examples of headlines for inspiration and think of how I can rewrite them in my own way.
 
@@ -76,7 +77,7 @@ Obviously, you need to be able to write well. But writing doesn’t just include
 
 ### Research
 
-Without good research, writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
+Without [good research](https://www.ruthchernous.com/post/researching-copywriting/ "11 research methods you shouldn't ignore"), writing original content will feel like pulling teeth. It is important to get ideas from different sources like books, videos, articles, podcasts. Anything you can get your hands on that is relevant to the topic you are writing.
 
 ### Editing and Proofreading
 
@@ -135,6 +136,17 @@ If you struggle to find jobs in your niche. Don’t let your lack of experience 
 ### Agencies
 
 These guys are often looking for writers to work with. Send them an introductory letter and share information about yourself and your copywriting experience. Look for marketing and web design agencies or agencies in your niche.
+
+## **How do I become a copywriter with no experience?**
+
+"Great! I can see I have lots of options when it comes to applying for jobs. But I don't have experience. So companies won't hire me".
+
+So get experience. Here are a few ways to get your foot through the door.
+
+* **Volunteer to a charity:** Help them out for a few months and then ask for a referral or a reference.
+* **Friends and family:** Ask people you know who have a business and if they need help with promoting it. Work for free and ask for a testimonial in return.
+* **Guest post:** Find blogs that you find interesting and offer to write for them. This will help you get exposure and experience.
+* **Internships:** I find these hard to come by. But if you can find one. This is a great way to enter the industry.
 
 ## **How much should I charge as a copywriter?**
 

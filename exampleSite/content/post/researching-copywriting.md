@@ -25,7 +25,7 @@ So in this article, I will show 11 research methods you shouldn't ignore when wr
 
 ## **1. Market Research**
 
-During your copywriting research, the first thing you should ask yourself is:
+During your[ copywriting](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "Copywriting for beginners") research, the first thing you should ask yourself is:
 
 1. Who are you writing for?
 2. What problem are you solving?

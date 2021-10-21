@@ -43,7 +43,7 @@ Immediately, I wanted in on the conversation. Your potential customers are the s
 
 ## **3. Be conversational**
 
-Copywriting isn't like academic writing. No one cares about how good your vocabulary is and how much you know if what you know isn’t beneficial to them.
+[Copywriting ](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "Copywriting for beginners")isn't like academic writing. No one cares about how good your vocabulary is and how much you know if what you know isn’t beneficial to them.
 
 Your readers want to feel like they are communicating with you on a friendship level. Think about it. If you were writing to a friend? How would you speak to them?
 
