@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = ""
+date = 2021-09-17T19:47:00Z
 description = "I can help you increase your revenue by writing Advertorials and Ads"
 image = "/v1631741828/How_to_write_an_advertorial_2_jvuloa.jpg"
 tags = ["copywriting", "marketing", "Business"]
