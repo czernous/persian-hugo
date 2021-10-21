@@ -203,7 +203,9 @@ Using conjunctions like And, But, So helps make different parts of your content 
 
 ## **The takeaway**
 
-Advertorials help promote your business whilst providing value to potential customers. Whereas Ads can help increase sales and showcase what sets you apart from your competition.
+Advertorials help promote your business whilst providing value to potential customers. 
+
+Whereas Ads can help increase sales and showcase what sets you apart from your competition.
 
 Whichever strategy you use will depend on your marketing goals.
 
