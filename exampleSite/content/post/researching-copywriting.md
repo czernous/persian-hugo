@@ -140,6 +140,6 @@ There is no set way of doing research. I think it all depends on the project. So
 
 The most important thing is that your content brings something new to the table and offers value to your readers and potential customers.
 
-So what is your go-to method when creating content?
+Don't fancy doing all this research, but need well-researched content for your business?
 
-Let me know in the comments.
+Message using the [contact form.](https://www.ruthchernous.com/contact/)
