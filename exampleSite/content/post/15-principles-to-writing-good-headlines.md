@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = ""
+date = 2021-09-03T14:00:00Z
 description = "Learn how to write catchy headlines using these 15 ways to write headlines"
 image = "/v1630429114/Writing_good_headlines_ywhhrs.jpg"
 tags = ["Copywriting", "Marketing", "Business", ""]
