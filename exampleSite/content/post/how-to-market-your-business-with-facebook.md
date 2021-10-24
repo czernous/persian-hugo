@@ -133,13 +133,13 @@ You could pull out quotes from your blog or you could create infographics based 
 
 ## **Conclusion**
 
-Being one of the largest Social Media platforms with the largest demographic. Facebook Marketing makes sense for a lot of businesses irrespective of the type of audience or size.
+Out of all the social media platforms, Facebook has the biggest demographic. So, it makes sense for a lot of businesses to be on Facebook.
 
-Not to mention Facebook Ads. You could combine both worlds by sharing content and using retargeting Ads to market to your followers or boost popular posts.
+You could attract users with organic content and use retargeting Ads to market to your followers or boost popular posts.
 
-If you hope to use Facebook as part of your marketing strategy? How do intend on using it?
+Is Facebook part of your marketing strategy?
 
-Or maybe you have been using Facebook for some time. If so, what strategies have you found effective?
+If so, what strategies have you found effective?
 
 Please share in the comments below!
 
