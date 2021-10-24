@@ -19,7 +19,7 @@ A bit like working out it has to be ingrained into your lifestyle. The good news
 
 So in this, I will include a simple hair care routine that anyone can do.
 
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1635108101/Looking_for_a_simple_afro_hair_care_routine._I_got_you_cpnqew.jpg)
+![Graphic saying looking for a simple afro hair care routine. I got you](https://res.cloudinary.com/ruthchernous/image/upload/v1635112156/Looking_for_a_simple_afro_hair_care_routine._I_got_you_2_neo1gd.jpg "Looking for a simple afro hair care routine? I got you.")
 
 _You will need:_
 
@@ -75,7 +75,7 @@ These are[ low manipulation hairstyles](https://www.glamour.com/gallery/cute-pro
 
 This routine shouldn’t be followed to a T. Adapt it according to your hair type and your lifestyle.
 
-You might need to wash your hair less often if you have a desk job and wash it more often if you work out. 
+You might need to wash your hair less often if you have a desk job and wash it more often if you work out.
 
 However, I wouldn’t suggest washing it more than twice a week.
 
