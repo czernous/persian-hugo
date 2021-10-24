@@ -4,7 +4,6 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-10-08T20:13:00Z
 description = "Want to know how to use Jamaican black castor oil for hair growth"
-draft = true
 image = "/v1635035783/How_to_use_Jamaican_Castor_oil_for_hair_growth_o6kbue.jpg"
 tags = ["Afro Hair", "Beauty", "Health"]
 title = "How to use Jamaican black castor oil for hair growth"
