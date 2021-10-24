@@ -129,10 +129,12 @@ There is nothing wrong with being creative in your headlines. But make sure your
 
 ## **Bottom line**
 
-If you want to use copywriting tactics to drive traffic to your business. You need to be able to write headlines.
+If you want to use copywriting tactics to drive traffic to your business. You need to be able to write headlines. 
 
 Good headlines will encourage potential customers to read your content and lead them to take action.
 
-Need help crafting an engaging headline?
+So what techniques do you use when creating your headlines?
 
-Drop me a line using the [contact form.](https://www.ruthchernous.com/contact/)
+How many headlines do you create before choosing the right one?
+
+Let me know in the comments.
