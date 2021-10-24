@@ -8,7 +8,7 @@ Hi, I'm Ruth.
 
 Welcome to my personal blog.
 
-Here, I write about Freelance Writing, Online Marketing, and Hair & Beauty.
+Here, I write about Freelance Writing, Inbound Marketing, and Hair & Beauty.
 
 If you need help writing about any of these topics.
 
