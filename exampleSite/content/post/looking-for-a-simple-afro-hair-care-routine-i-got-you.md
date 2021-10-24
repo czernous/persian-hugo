@@ -17,7 +17,7 @@ Between long work schedules or looking after children, when are we supposed to t
 
 A bit like working out it has to be ingrained into your lifestyle. The good news is once you have found a routine that works for you, you are on your way to growing healthy hair.
 
-So in this, I will include a simple hair care routine that anyone can do.
+So in this, I will include a simple afro hair care routine that anyone can do.
 
 ![Graphic saying looking for a simple afro hair care routine. I got you](https://res.cloudinary.com/ruthchernous/image/upload/v1635112156/Looking_for_a_simple_afro_hair_care_routine._I_got_you_2_neo1gd.jpg "Looking for a simple afro hair care routine? I got you.")
 
