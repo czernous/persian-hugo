@@ -8,9 +8,11 @@ Hi, I'm Ruth.
 
 Welcome to my personal blog.
 
-Here, I share marketing tips to help entrepreneurs market their businesses online.
+Here, I write about Freelance Writing, Online Marketing, and Hair & Beauty.
 
-My articles are based on what I have learned through self-study and online courses.
+If you need help writing about any of these topics.
+
+[Let me know ](https://www.ruthchernous.com/contact/ "Contact me"):)
 
 ## **My story**
 
