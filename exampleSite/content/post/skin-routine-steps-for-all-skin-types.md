@@ -2,7 +2,7 @@
 author = ""
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = ""
+date = 2021-10-24T13:12:00Z
 description = ""
 draft = true
 image = "/v1635036136/skin_routine_steps_for_all_skin_types_haipxb.jpg"
