@@ -20,6 +20,8 @@ A bit like working out it has to be ingrained into your lifestyle. The good news
 
 So in this, I will include a simple hair care routine that anyone can do.
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1635108101/Looking_for_a_simple_afro_hair_care_routine._I_got_you_cpnqew.jpg)
+
 _You will need:_
 
 * Shampoo
@@ -32,7 +34,7 @@ _You will need:_
 
 Shampoos can strip your natural oils from your hair strands leaving them dry and brittle.
 
-[Pre-poo](https://www.cosmopolitan.com/style-beauty/beauty/a35809146/prepoo-hair-care-tips/) can help combat this. To prepoo add a natural oil of your choice to your hair and leave it there for a minimum of 30 minutes.
+[Pre-poo](https://www.cosmopolitan.com/style-beauty/beauty/a35809146/prepoo-hair-care-tips/) can help combat this. To pre-poo add a natural oil of your choice to your hair and leave it there for a minimum of 30 minutes.
 
 Some people prefer to leave it in for a couple of hours or sometimes overnight.
 
@@ -68,10 +70,18 @@ So how often should you do this?
 
 ## **Protective hairstyles**
 
-These are[ low manipulation hairstyles](https://www.glamour.com/gallery/cute-protective-styles) like buns, cornrows, box braids, weaves. Less manipulation means less breakage. So including these in your hair regime can be the difference between damaged hair prone to breakage and bouncy hair that po**The takeaway**
+These are[ low manipulation hairstyles](https://www.glamour.com/gallery/cute-protective-styles) like buns, cornrows, box braids, weaves. Less manipulation means less breakage. So including these in your hair regime can be the difference between damaged hair prone to breakage and healthy bouncy hair
+
+## **The takeaway**
 
 This routine shouldn’t be followed to a T. Adapt it according to your hair type and your lifestyle.
 
-You might need to wash your hair less often if you have a desk job and wash it more often if you work out. However, I wouldn’t suggest washing it more than twice a week.
+You might need to wash your hair less often if you have a desk job and wash it more often if you work out. 
 
-Need content to educate customers about their natural hair? Contact me.
+However, I wouldn’t suggest washing it more than twice a week.
+
+So, what does your hair care routine look like?
+
+Is there anything thing else you do, that isn't mentioned here?
+
+Comment below!
