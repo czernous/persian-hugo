@@ -2,7 +2,7 @@
 author = "Ruth Chernous"
 categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
-date = 2021-10-08T15:00:00Z
+date = 2021-10-24T20:44:00Z
 description = "Check out this simple afro hair care routine anyone can do"
 draft = true
 image = "/v1635035162/afro_haircare_jja2zu.jpg"
