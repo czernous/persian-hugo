@@ -14,6 +14,8 @@ As black women, our curly hair strands make it difficult for natural oils to tra
 
 Giving us the label “ black hair doesn’t grow”. However, there are certain things we can do to prevent this like using Jamaican black castor oil.
 
+![](https://res.cloudinary.com/ruthchernous/image/upload/v1635085367/How_to_use_jamaican_castor_oil_for_hair_growth_2_ifgkbl.jpg)
+
 ## **Castor oil vs Jamaican black castor oil**
 
 Castor oil comes from the seed Ricinus Communis. It is found in Eastern Africa, India and the Mediterranean. The oil is extracted from the seed and cold-pressed giving it a pale yellow colour.
@@ -88,4 +90,8 @@ So does Jamaican castor oil really grow your hair? Well, hair comes in different
 
 But facts do state that it increases hair thickness, density, and strength which naturally will allow you to retain length.
 
-Need a writer to write articles in the afro hair niche?[ Contact me](https://www.ruthchernous.com/contact/)
+Tell me I would be interested to know,
+
+If you have you used or are you using castor oil to grow your hair?
+
+Please, share your experience in the comments below
