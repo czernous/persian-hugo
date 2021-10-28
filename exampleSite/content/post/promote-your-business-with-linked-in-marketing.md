@@ -9,16 +9,16 @@ tags = ["Social Media", "Digital Marketing", "Business"]
 title = "How to market on Linked In in 13 easy steps"
 
 +++
+  
 Does your company sell B2B products or services?
 
 If so, then Linked In Marketing is the way to go to push your small business to the next level.
 
-In this article, you will learn how to market your business on Linked In. So, you'll be able to confidently promote your B2B business and get the customers that you deserve.
-
-![How to market on Linked In](https://res.cloudinary.com/ruthchernous/image/upload/v1634434326/How_to_market_on_Linked_In_xt5kwp.jpg "How to market on Linked In")
+In this article, you will learn how to market your business on Linked In. So, you'll be able to promote your B2B business and get the customers that you deserve.
 
 ## **1. Decide on your marketing goals**
 
+  
 Having one singular goal makes it easy to measure. Your goal should be SMART; Specific, Measurable, Attainable, Realistic and Timely. As a company you might be want to:
 
 * Generate traffic
@@ -52,7 +52,7 @@ Reading through the comments will give you some data on who your ideal audience 
 
 You can also look at websites that offer similar products to yours. Then use this [tool](https://www.hubspot.com/make-my-persona) to create your buyer persona.
 
-A buyer persona is a profile of your ideal audience that includes their age, location, education, income, hobbies as well as goals, fears and frustrations.
+A buyer persona is a profile of your ideal audience. That includes their age, location, education, income, hobbies. As well as goals, fears and frustrations.
 
 ## **4. Choose your topics**
 
@@ -64,7 +64,7 @@ Writing a good headline can be tricky. The easiest way to approach this is by us
 
 ## **6. Write your post**
 
-Your post should be 20 to 30 words long and it should build enough curiosity to persuade your reader to click on your website.
+Your post should be 20 to 30 words long. And should build enough curiosity to persuade your reader to click on your website.
 
 ## **7. Include a call to action**
 
@@ -83,22 +83,22 @@ Finish your post by adding 2-3 hashtags. They help users find your posts.
 
 ## **9. Create an article**
 
-The average word count on writing on Linked In is 300 to 500 words. However, you can write more if it takes more words to explain your topic.
+The average word count on writing on Linked In is 300 to 500 words. Yet, you can write more if it takes more words to explain your topic.
 
-If you have a blog you can also share your blog posts. Don't worry about Google penalizing you for replicate content as this doesn't apply to Linked In.
+If you have a blog you can also share your blog posts. Don't worry about Google penalizing you for replicate content. This doesn't apply to Linked In.
 
 When writing your article:
 
-* Include subheadings: They help readers scan your information to the section they find the most relevant
+* Include subheadings: They help readers scan your information. To the section, they find the most relevant
 * Use bullets to break up your text
 * Include lots of white space: you shouldn’t have more than four sentences in each paragraph.
 * Include images: you can use stock photos, create images on Canva or take photographs
-* Upload a video: make your videos 1 to 2 minutes long and have subtitles for people who may not want to watch your video with the sound on.
+* Upload a video: make your videos 1 to 2 minutes long. And have subtitles for people who may not want to watch your video with the sound on.
 * Use PowerPoints and PDFs
 
 ## **10. Publish and Share**
 
-Creating content isn't enough, you need to publish and share your content at the right time and with the right people.
+Creating content isn't enough. You need to publish and share your content at the right time and with the right people.
 
 The best way to do this is to create a few posts at different times of the day. Then go to your LinkedIn Analytics and see which times were the most popular. Post your content during those times.
 
@@ -116,18 +116,16 @@ You’ve created your profile and come up with your content. Now you need to man
 
 ## **12. Grow your followers**
 
-After running your page for some time it might be in your interest to increase your reach and grow your followers. To do this:
+After running your page for some time. It might be in your interest to increase your reach and grow your followers.
+
+To do this:
 
 * Add a follow icon on your blog so readers can easily find you on LinkedIn
 * Invite connections to like your LinkedIn page
 * If you're a company with employees, tell people in your company about important posts
 * Promote your company's Linked In page using emails newsletters and blog posts
 * Use sponsored content, Text Ads and Sponsored InMail to boost content
-* A/B test your posts to see which is most effective and create similar posts
-
-  ## **13. Keep track of your analytics**
-
-  Once your page is up and running and you've promoted it. You need to check your Linked In analytics to see how well your content is doing. Keep note of any posts that have done particularly well and create more of those posts.
+* A/B test your posts to see which is most effective and create similar posts **13. Keep track of your analytics** Once your page is up and running and you've promoted it. You need to check your Linked In analytics to see how well your content is doing. Keep note of any posts that have done particularly well and create more of those posts. 
 
   ## **Conclusion**
 
