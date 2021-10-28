@@ -9,15 +9,11 @@ tags = ["Social Media", "Digital Marketing", "Business"]
 title = "How to market on Linked In in 13 easy steps"
 
 +++
-For some reason, it had never occurred to me to market on Linked In. Linked In seemed like a platform more suited to finding jobs.
+Does your company sell B2B products or services?
 
-So, therefore my profile always consisted of my educational background and work history.
+If so, then Linked In Marketing is the way to go to push your small business to the next level.
 
-But learning more about Linked In has shown me the endless possibilities this platform has to offer.
-
-So, if your company sells B2B products or services, then Linked In Marketing is the way to go to push your small business to the next level.
-
-In this article, I will show you how to market your business on Linked In in 13 easy steps. 
+In this article, you will learn how to market your business on Linked In. So, you'll be able to confidently promote your B2B business and get the customers that you deserve.
 
 ![How to market on Linked In](https://res.cloudinary.com/ruthchernous/image/upload/v1634434326/How_to_market_on_Linked_In_xt5kwp.jpg "How to market on Linked In")
 
@@ -36,7 +32,7 @@ Having one singular goal makes it easy to measure. Your goal should be SMART; Sp
 Once you've decided on a goal, you need to create a profile. That should include:
 
 * A professional headshot with a clear background
-* Your current position job title and your company name 
+* Your current position job title and your company name
 * how long you've been with your company
 * An up to date list of all your skills
 * Your location
@@ -50,9 +46,9 @@ Once you've decided on a goal, you need to create a profile. That should include
 
 Before you start creating your post you should know who your audience is and what you want them to do.
 
-You can find your audience by looking through forums relating to your niche. Quora and Reddit are good places to start. 
+You can find your audience by looking through forums relating to your niche. Quora and Reddit are good places to start.
 
-Reading through the comments will give you some data on who your ideal audience might be. 
+Reading through the comments will give you some data on who your ideal audience might be.
 
 You can also look at websites that offer similar products to yours. Then use this [tool](https://www.hubspot.com/make-my-persona) to create your buyer persona.
 
@@ -60,7 +56,7 @@ A buyer persona is a profile of your ideal audience that includes their age, loc
 
 ## **4. Choose your topics**
 
-Can you think of 2-3 topics that interest you the most? These themes will form the basis of your posts. 
+Can you think of 2-3 topics that interest you the most? These themes will form the basis of your posts.
 
 ## **5. Create a headline**
 
@@ -83,18 +79,18 @@ They tell your reader what action to take after reading your post.
 
 ## **8. Don't forget hashtags**
 
-Finish your post by adding 2-3 hashtags. They help users find your posts. 
+Finish your post by adding 2-3 hashtags. They help users find your posts.
 
-## **9. Create an article** 
+## **9. Create an article**
 
-The average word count on writing on Linked In is 300 to 500 words. However, you can write more if it takes more words to explain your topic. 
+The average word count on writing on Linked In is 300 to 500 words. However, you can write more if it takes more words to explain your topic.
 
 If you have a blog you can also share your blog posts. Don't worry about Google penalizing you for replicate content as this doesn't apply to Linked In.
 
 When writing your article:
 
-* Include subheadings: They help readers scan your information to the section they find the most relevant 
-* Use bullets to break up your text 
+* Include subheadings: They help readers scan your information to the section they find the most relevant
+* Use bullets to break up your text
 * Include lots of white space: you shouldn’t have more than four sentences in each paragraph.
 * Include images: you can use stock photos, create images on Canva or take photographs
 * Upload a video: make your videos 1 to 2 minutes long and have subtitles for people who may not want to watch your video with the sound on.
