@@ -8,7 +8,7 @@ Hi, I'm Ruth.
 
 Welcome to my personal blog.
 
-Here, I write about Freelance Writing, Digital Marketing, and Beauty.
+Here, I write about Freelance Writing, Social Media Marketing, and SEO
 
 If you need help writing about any of these topics.
 
