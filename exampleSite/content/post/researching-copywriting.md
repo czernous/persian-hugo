@@ -9,28 +9,29 @@ tags = ["copywriting", "marketing", "Business"]
 title = "11 research methods you shouldn't ignore"
 
 +++
-Research is the difference between great and mediocre content.
+  
+Did you know research is the difference between great and mediocre content?
 
-If you didn’t know Google penalizes you if the content on your website is a replica of someone else’s.
+Because without good research, you can forget about creating engaging content.
 
-Google wants to solve the user’s problem efficiently and doesn’t want several copies of the same thing in its database.
+If you didn’t know Google penalizes you if the content is a replica of someone else’s.
 
-There are many ways writers might approach the research phrase. Some might do all their research upfront. Others might research as they go along.
+Google wants to solve the user’s problem. And doesn’t want several copies of the same thing in its database.
 
-I don’t think the approach matters along as the final outcome speaks to your audience.
+So, take the time to research and create content that Google will love.
 
-So in this article, I will show 11 research methods you shouldn't ignore when writing content for your business.
+In this article, I will show 11 research methods you shouldn't ignore.
 
-![](https://res.cloudinary.com/ruthchernous/image/upload/v1634432873/11_research_tips_you_shouldn_t_ignore_ts7hls.jpg)
+When writing content for your business.
 
 ## **1. Market Research**
 
-During your[ copywriting](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/ "Copywriting for beginners") research, the first thing you should ask yourself is:
+During your[ copywriting](https://www.ruthchernous.com/post/what-is-meant-by-copywriting-the-ins-and-outs/) research, the first thing you should ask yourself is:
 
 1. Who are you writing for?
 2. What problem are you solving?
 
-If you don’t know then I suggest you stop what you are doing and answer these questions. Your content should feel like you are speaking to one person as opposed to many.
+If you don’t know then stop what you are doing and answer these questions. Your content should feel like you are speaking to one person as opposed to many.
 
 To help you get the ball rolling, create a persona. A persona is your ideal client for your business. This persona should include:
 
@@ -46,13 +47,13 @@ The second question is important as all marketing addresses a need or problem. I
 
 He shared a story of his time as a copywriting teacher. Whereby, he asked students to imagine they each had a burger stand and their stand had one advantage.
 
-Some of his students chose premium meat, others chose buns with seeds etc. He said if he had one advantage it would beat everyone else’s. Can you guess his advantage? It was a starving crowd.
+Some of his students chose premium meat. Others chose buns with seeds etc. He said if he had one advantage it would beat everyone else’s. Can you guess his advantage? It was a starving crowd.
 
-This statement really resonated with me. Because similar to the burger story your content needs a starving crowd. You need to find an audience so desperate to consume your content because it solves their problem.
+This statement resonated with me. Because like the burger story your content needs a starving crowd. You need to find an audience so desperate to consume your content. Because it solves their problem.
 
 ## **2. Company research**
 
-When writing content for your business.  You should know jot down everything about your business. This will help you create content that aligns with your brand. Start with these questions:
+When writing content for your business. You should know jot down everything about your business. This will help you create content that aligns with your brand. Start with these questions:
 
 * What is your story?
 * How did you start your business?
@@ -62,15 +63,15 @@ When writing content for your business.  You should know jot down everything abo
 
 ## **3. Product Research**
 
-You really should know everything about a product before selling it. The best way to get to know your product is to try it and find out its features and benefits. Take note of how using the product changed your life?
+You should know everything about a product before selling it. The best way to get to know your product is to try it and find out its features and benefits. Take note of how using the product changed your life?
 
 ## **4. Your target audience**
 
-For customers to read your content. You need to grab their attention quickly. And what better way to do that than to get inspiration from them.
+For customers to read your content. You need to grab their attention. And what better way to do that than to get inspiration from them.
 
 You can get inspiration by hanging out where they hang out and using their language to write your copy.
 
-For instance, you scroll through your company’s social media and in the comments section, something has grabbed your interest. You could use that as inspiration for your introduction or add it as a quote in your content.
+For instance, you scroll through your company’s social media. And something has grabbed your interest in the comments section. You could use that as inspiration for your introduction or add it as a quote in your content.
 
 ## **5. How do research on Google?**
 
@@ -88,7 +89,7 @@ If you are looking for something specific it is better to try an advanced search
 
 _Google Scholar_
 
-Contains numerous published e-journals in different subject areas. These articles include a bibliography or a list of references that you can use for further research.
+Contains many published e-journals in different subject areas. These articles include a bibliography or a list of references. That you can use for further research.
 
 ## **6. Books**
 
@@ -96,7 +97,7 @@ This is the method I use the most in combination with the web when I am research
 
 Another option is to use Google books or go to a library and get a hard copy of the book. I love books as the information is accurate and there is a wealth of information.
 
-I like getting different books and pulling up the most interesting information as-well-as using my own knowledge to recreate a new piece.
+I like getting different books and pulling up the most interesting information. As-well-as using my own knowledge to recreate a new piece.
 
 ## **7. Social media**
 
@@ -110,7 +111,7 @@ Also, you could go to Amazon, find some books in your business niche and read th
 
 ## **9. Surveys**
 
-When creating surveys for research, make sure your questions include qualitative data. Qualitative data doesn’t involve numbers and usually involves open-ended questions that analyze consumer behaviours.
+When creating surveys for research, make sure your questions include qualitative data. Qualitative data doesn’t involve numbers and usually involves open-ended questions. That analyze consumer behaviours.
 
 You can email your surveys to customers on social media or by adding them to your website.
 
@@ -118,28 +119,30 @@ Offering a reward in exchange for completing the survey is a good way of persuad
 
 ## **10. Interviews**
 
-Interviewing is a great way of validating those pain points you have spotted using the previous techniques.
+Interviewing is a great way of validating those pain points you have spotted.
 
-These interviews can be held on the phone, by Skype or in person. Interview your customers and experts in your industry.
+You can interview your customers and experts in your industry on the phone, by Skype or in person.
 
 ## **11. Competitors**
 
-Research doesn’t just end with your business, products and consumers. You should also be aware of your competitors.
+Research doesn’t end with your business, products and consumers. You should also be aware of your competitors.
 
 What sort of content are they producing on their blogs and website?
 
 How much traffic are they generating from that content?
 
-You can use SEMRush to see where your competitors are getting their backlinks from and what keywords they are ranking for.
+You can use SEMRush to see where your competitors are getting their backlinks from. And what keywords they are ranking for.
 
 You can also gauge what to include in your copy by reading what your competitors have included and left out.
 
 ## **Final thoughts**
 
-There is no set way of doing research. I think it all depends on the project. Sometimes you might use all these techniques or you might prefer to focus on one.
+There is no set way of doing research. It all depends on the project. Sometimes you might use all these techniques or you might prefer to focus on one.
 
-The most important thing is that your content brings something new to the table and offers value to your readers and potential customers.
+The most important thing is that your content brings something new to the table. And offers value to your readers and potential customers.
 
-Don't fancy doing all this research, but need well-researched content for your business?
+So what techniques do you use when creating your headlines?
 
-Message using the [contact form.](https://www.ruthchernous.com/contact/)
+How many headlines do you create before choosing the right one?
+
+Let me know in the comments.
