@@ -10,10 +10,6 @@ Welcome to my Lifestyle blog.
 
 Here, I write about Freelance Writing, Social Media Marketing, and Beauty
 
-If you need help writing about any of these topics.
-
-[Let me know ](https://www.ruthchernous.com/contact/ "Contact me"):)
-
 ## **My story**
 
 After studying for a degree in Art and Textile Design. The dreaded thought "what do I do next haunted me?". So I did what everyone else does. I got a job. I worked as a care assistant for a few years to support myself.
