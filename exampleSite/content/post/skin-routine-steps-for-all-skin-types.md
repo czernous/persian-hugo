@@ -4,7 +4,6 @@ categories = []
 cloudinaryurl = "https://res.cloudinary.com/ruthchernous/image/upload"
 date = 2021-10-24T13:12:00Z
 description = "Get glowing skin with these skin routine steps for all skin types"
-draft = true
 image = "/v1635036136/skin_routine_steps_for_all_skin_types_haipxb.jpg"
 tags = ["skincare", "Beauty", "health"]
 title = "Skin routine steps for all skin types"
