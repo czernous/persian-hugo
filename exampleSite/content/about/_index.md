@@ -6,9 +6,9 @@ description: Need to drive sales to your business?
 ---
 Hi, I'm Ruth.
 
-Welcome to my personal blog.
+Welcome to my Lifestyle blog.
 
-Here, I write about Freelance Writing, Social Media Marketing, and SEO
+Here, I write about Freelance Writing, Social Media Marketing, and Beauty
 
 If you need help writing about any of these topics.
 
